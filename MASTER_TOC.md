@@ -77,7 +77,7 @@ Diese Gliederung definiert den fachlichen Rahmen der Enzyklopädie. Sie ist ein 
 
 ## Teil VII – Soziolinguistik und Dialektologie | علم اللغة الاجتماعي واللهجات
 
-56. Arabische Dialektologie: Gegenstand und Methoden – علم اللهجات العربية ومناهجه
+56. [Arabische Dialektologie: Gegenstand und Methoden – علم اللهجات العربية ومناهجه](articles/sociolinguistics/arabic-dialectology.md)
 57. Dialektgruppen und regionale Klassifikation – مجموعات اللهجات وتصنيفها الإقليمي
 58. Maghrebinische Varietäten – اللهجات المغاربية
 59. Ägyptische Varietäten – اللهجات المصرية
@@ -88,7 +88,7 @@ Diese Gliederung definiert den fachlichen Rahmen der Enzyklopädie. Sie ist ein 
 64. Städtische, ländliche und beduinische Varietäten – اللهجات الحضرية والريفية والبدوية
 65. Soziale Variation: Klasse, Alter, Geschlecht und Mobilität – التنوع الاجتماعي
 66. Code-Switching und Stilwechsel – التناوب اللغوي والتحول الأسلوبي
-67. Diglossie, Registerwahl und Alltagspraxis – الازدواجية واختيار السجل والممارسة اليومية
+67. [Diglossie, Registerwahl und Alltagspraxis – الازدواجية واختيار السجل والممارسة اليومية](articles/sociolinguistics/diglossia-and-register-variation.md)
 68. Migration, Diaspora und transnationale Sprachräume – الهجرة والشتات والفضاءات العابرة للحدود
 69. Sprachideologien, Identität und Einstellungen – الأيديولوجيا اللغوية والهوية والمواقف
 70. Sprachkontakt und Minderheitensprachen – الاتصال اللغوي ولغات الأقليات
@@ -190,10 +190,10 @@ Diese Gliederung definiert den fachlichen Rahmen der Enzyklopädie. Sie ist ein 
 
 ## Teil XVI – Nachschlagewerke und Lernmaterialien | المراجع والمواد التعليمية
 
-142. Zweisprachiges Fachglossar Deutsch–Arabisch – معجم اصطلاحي ألماني–عربي
+142. [Zweisprachiges Fachglossar Deutsch–Arabisch – معجم اصطلاحي ألماني–عربي](glossary/entries/sociolinguistics.md)
 143. Grammatische Übersichten und Referenztabellen – الجداول والمراجع النحوية
 144. Phonetische und morphologische Paradigmen – الجداول الصوتية والصرفية
-145. Dialektvergleichende Tabellen und Karten – جداول وخرائط مقارنة اللهجات
+145. [Dialektvergleichende Tabellen und Karten – جداول وخرائط مقارنة اللهجات](reference-tables/arabic-varieties-overview.md)
 146. Literaturgeschichtliche Chronologien – الجداول الزمنية لتاريخ الأدب
 147. Übungsbücher und Aufgaben mit Lösungen – كتب التمارين والتطبيقات مع الحلول
 148. Methodische Handbücher und Forschungsleitfäden – الأدلة المنهجية والبحثية
