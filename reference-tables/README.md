@@ -5,10 +5,10 @@ Dieser Bereich enthält überprüfbare Tabellen und systematische Übersichten. 
 ## Vorhandene Übersichten
 
 - [Überblick: Varietäten und Register des Arabischen](arabic-varieties-overview.md)
+- [Phoneminventar des modernen Hocharabischen](msa-phoneme-inventory.md)
 
 ## Geplante Themen
 
-- Phoneminventare und Artikulationsmerkmale;
 - morphologische Paradigmen;
 - Verb- und Nominalmuster;
 - syntaktische Konstruktionen;
