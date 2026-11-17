@@ -6,7 +6,9 @@ Artikel zu modernem Hocharabisch, Phonetik, Phonologie, Morphologie, Syntax, Sem
 
 - [Modernes Hocharabisch – العربية الفصحى الحديثة](modern-standard-arabic.md)
 - [Phonologie des modernen Hocharabischen – فونولوجيا العربية الفصحى الحديثة](phonology-modern-standard-arabic.md)
+- [Morphologie des modernen Arabischen – صرف العربية المعاصرة](morphology-modern-arabic.md)
+- [Syntax des modernen Arabischen – نحو العربية المعاصرة](syntax-modern-arabic.md)
 
 ## Redaktionshinweise
 
-Beschreibungen müssen die jeweilige Varietät und das Register angeben. Phonologische Inventare sind als Analysemodelle zu kennzeichnen; Aussprachevarianten dürfen nicht ohne Begründung als Fehler eingeordnet werden.
+Beschreibungen müssen die jeweilige Varietät und das Register angeben. Morphologische und syntaktische Muster sind als varietäten- und theoriegebunden zu kennzeichnen. Traditionelle arabische Kategorien sollen mit modernen linguistischen Begriffen in Beziehung gesetzt werden, ohne sie vorschnell gleichzusetzen.
