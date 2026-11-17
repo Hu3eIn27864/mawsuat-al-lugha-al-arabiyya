@@ -7,6 +7,7 @@ Das Glossar dokumentiert Fachbegriffe mit Definition, arabischer Entsprechung, g
 - [Soziolinguistik und Varietäten – علم اللغة الاجتماعي والتنوع اللغوي](entries/sociolinguistics.md)
 - [Morphologie und Syntax – الصرف والنحو](entries/morphology-and-syntax.md)
 - [Semantik, Pragmatik und Korpuslinguistik – الدلالة والتداولية ولسانيات المدونات](entries/semantics-pragmatics-corpus.md)
+- [Literaturwissenschaft – الدراسات الأدبية](entries/literary-studies.md)
 
 ## Eintragsvorlage
 
