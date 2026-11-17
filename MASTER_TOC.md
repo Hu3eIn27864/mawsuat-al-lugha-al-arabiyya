@@ -30,7 +30,7 @@ Diese Gliederung definiert den fachlichen Rahmen der Enzyklopädie. Sie ist ein 
 18. Akustische Phonetik – علم الأصوات الأكوستيكي
 19. Auditive Phonetik und Sprachwahrnehmung – علم الأصوات السمعي وإدراك الكلام
 20. Phonologische Grundbegriffe und Modelle – المفاهيم والنماذج الفونولوجية
-21. Konsonantensystem des modernen Hocharabischen – النظام الصامتي في الفصحى الحديثة
+21. [Konsonantensystem des modernen Hocharabischen – النظام الصامتي في الفصحى الحديثة](articles/linguistics/phonology-modern-standard-arabic.md)
 22. Vokalsystem, Länge und Diphthonge – النظام الصائتي والطول والحركات المركبة
 23. Silbenstruktur, Akzent und Intonation – بنية المقطع والنبر والتنغيم
 24. Assimilation, Koartikulation und phonologische Prozesse – المماثلة والتأثر المتبادل والعمليات الصوتية
@@ -192,7 +192,7 @@ Diese Gliederung definiert den fachlichen Rahmen der Enzyklopädie. Sie ist ein 
 
 142. [Zweisprachiges Fachglossar Deutsch–Arabisch – معجم اصطلاحي ألماني–عربي](glossary/entries/sociolinguistics.md)
 143. Grammatische Übersichten und Referenztabellen – الجداول والمراجع النحوية
-144. Phonetische und morphologische Paradigmen – الجداول الصوتية والصرفية
+144. [Phonetische und morphologische Paradigmen – الجداول الصوتية والصرفية](reference-tables/msa-phoneme-inventory.md)
 145. [Dialektvergleichende Tabellen und Karten – جداول وخرائط مقارنة اللهجات](reference-tables/arabic-varieties-overview.md)
 146. Literaturgeschichtliche Chronologien – الجداول الزمنية لتاريخ الأدب
 147. Übungsbücher und Aufgaben mit Lösungen – كتب التمارين والتطبيقات مع الحلول
