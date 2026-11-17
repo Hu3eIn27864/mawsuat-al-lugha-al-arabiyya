@@ -39,6 +39,8 @@ Diese Gliederung definiert den fachlichen Rahmen der Enzyklopädie. Sie ist ein 
 
 ## Teil IV – Morphologie und Wortbildung | الصرف وبناء الكلمات
 
+- [Morphologie des modernen Arabischen – صرف العربية المعاصرة](articles/linguistics/morphology-modern-arabic.md)
+
 27. Morphologische Grundbegriffe und Analysemodelle – المفاهيم والنماذج الصرفية
 28. Wurzel- und Mustermorphologie – نظام الجذر والوزن
 29. Nominalmorphologie – الصرف الاسمي
@@ -50,6 +52,8 @@ Diese Gliederung definiert den fachlichen Rahmen der Enzyklopädie. Sie ist ein 
 35. Morphologische Produktivität und Variation – الإنتاجية الصرفية والتنوع
 
 ## Teil V – Syntax und Grammatik | النحو والتركيب
+
+- [Syntax des modernen Arabischen – نحو العربية المعاصرة](articles/linguistics/syntax-modern-arabic.md)
 
 36. Syntaktische Grundbegriffe und Theorien – المفاهيم والنظريات التركيبية
 37. Konstituenten, Phrasen und Satzstruktur – المكونات والعبارات وبنية الجملة
@@ -189,6 +193,9 @@ Diese Gliederung definiert den fachlichen Rahmen der Enzyklopädie. Sie ist ein 
 141. Sprach- und Literaturgeschichte als Kontext moderner Entwicklungen – تاريخ اللغة والأدب في سياق التطورات الحديثة
 
 ## Teil XVI – Nachschlagewerke und Lernmaterialien | المراجع والمواد التعليمية
+
+- [Glossar: Morphologie und Syntax – الصرف والنحو](glossary/entries/morphology-and-syntax.md)
+- [Arabische Verbformen I–X – الأوزان الفعلية](reference-tables/arabic-verb-forms.md)
 
 142. [Zweisprachiges Fachglossar Deutsch–Arabisch – معجم اصطلاحي ألماني–عربي](glossary/entries/sociolinguistics.md)
 143. Grammatische Übersichten und Referenztabellen – الجداول والمراجع النحوية
