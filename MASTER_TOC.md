@@ -152,6 +152,11 @@ Diese Gliederung definiert den fachlichen Rahmen der Enzyklopädie. Sie ist ein 
 
 ## Teil XII – Moderne und zeitgenössische arabische Literatur | الأدب العربي الحديث والمعاصر
 
+- [Überblick: Moderne und zeitgenössische arabische Literatur](articles/literature/modern-arabic-literature-overview.md)
+- [Der moderne arabische Roman](articles/literature/modern-arabic-novel.md)
+- [Moderne arabische Lyrik](articles/literature/modern-arabic-poetry.md)
+- [Kurzgeschichte und modernes Theater](articles/literature/modern-arabic-short-story-and-theatre.md)
+
 108. Begriffe, Periodisierung und literarische Moderne – المفاهيم والتأريخ والحداثة الأدبية
 109. Nahda und literarische Transformation – النهضة والتحول الأدبي
 110. Moderne arabische Lyrik – الشعر العربي الحديث
