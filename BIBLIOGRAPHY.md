@@ -39,6 +39,14 @@ Diese Datei sammelt verifizierte Literatur und Ressourcen. Einträge werden erst
 - Digitale Wörterbücher und lexikalische Ressourcen
 
 ### Moderne und zeitgenössische arabische Literatur
+- Badawi, M. M. (Hg.). 1992. *Modern Arabic Literature*. Cambridge: Cambridge University Press. (Umfassender Sammelband zu Lyrik, Roman, Kurzgeschichte, Drama und Kritik.)
+- Badawi, M. M. 1993. *A Short History of Modern Arabic Literature*. Oxford: Clarendon Press. DOI: 10.1093/oso/9780198265429.001.0001. (Überblick seit dem 19. Jahrhundert.)
+- Allen, Roger. 1982. *The Arabic Novel: An Historical and Critical Introduction*. Syracuse: Syracuse University Press. (Historische und kritische Einführung in den arabischen Roman.)
+- Allen, Roger. 2000. *An Introduction to Arabic Literature*. Cambridge: Cambridge University Press. (Gattungsübergreifender Überblick und historische Kontinuitäten.)
+- Starkey, Paul. 2006. *Modern Arabic Literature*. Edinburgh: Edinburgh University Press. (Einführung in Lyrik, Prosa und Theater.)
+- Snir, Reuven. 2017. *Modern Arabic Literature: A Theoretical Framework*. Edinburgh: Edinburgh University Press. DOI: 10.3366/edinburgh/9781474420518.001.0001. (Theoretischer Rahmen für die Analyse moderner Literatursysteme.)
+- Harb, Lara. 2020. “Arabic Literary Theory.” *Oxford Research Encyclopedia of Literature*. DOI: 10.1093/acrefore/9780190201098.013.989. (Historischer Überblick zur arabischen Literaturtheorie.)
+- Allan, Michael und Zeina G. Halabi (Hg.). 2026. *The Cambridge Companion to Modern Arabic Literature*. Cambridge: Cambridge University Press. DOI: 10.1017/9781009748810. (Aktuelle Perspektiven auf Zeit, Sprache, Geographie, Medien und Weltliteratur.)
 - Literaturgeschichte und Periodisierung
 - Lyrik, Roman, Kurzgeschichte und Drama
 - Literaturkritik und Theorie
