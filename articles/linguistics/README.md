@@ -8,6 +8,8 @@ Artikel zu modernem Hocharabisch, Phonetik, Phonologie, Morphologie, Syntax, Sem
 - [Phonologie des modernen Hocharabischen – فونولوجيا العربية الفصحى الحديثة](phonology-modern-standard-arabic.md)
 - [Morphologie des modernen Arabischen – صرف العربية المعاصرة](morphology-modern-arabic.md)
 - [Syntax des modernen Arabischen – نحو العربية المعاصرة](syntax-modern-arabic.md)
+- [Semantik und Pragmatik des Arabischen – الدلالة والتداولية](semantics-and-pragmatics-arabic.md)
+- [Korpuslinguistik des Arabischen – لسانيات المدونات العربية](corpus-linguistics-arabic.md)
 
 ## Redaktionshinweise
 
