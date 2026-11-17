@@ -33,16 +33,24 @@ Klassisches Arabisch, koranisches Arabisch und vormoderne Literatur werden dort 
 5. **Offenheit:** Beiträge, Korrekturen und begründete Kritik sind willkommen.
 6. **Nachprüfbarkeit:** Jede Seite nennt Autorenschaft bzw. Bearbeitungsstand, Literatur und gegebenenfalls Korpus- oder Datenquellen.
 
+## Erste Fachartikel und Ressourcen
+
+- [Modernes Hocharabisch](articles/linguistics/modern-standard-arabic.md)
+- [Diglossie und Registervariation](articles/sociolinguistics/diglossia-and-register-variation.md)
+- [Arabische Dialektologie](articles/sociolinguistics/arabic-dialectology.md)
+- [Glossar: Soziolinguistik und Varietäten](glossary/entries/sociolinguistics.md)
+- [Überblick: Varietäten und Register des Arabischen](reference-tables/arabic-varieties-overview.md)
+
 ## Projektstruktur
 
-- `MASTER_TOC.md` – Gesamtgliederung der Enzyklopädie.
-- `CONTRIBUTING.md` – Regeln für Mitarbeit und Begutachtung.
-- `EDITORIAL_STANDARDS.md` – Fachliche, sprachliche und redaktionelle Standards.
-- `BIBLIOGRAPHY.md` – zentrale Bibliographie und Hinweise zur Literaturaufnahme.
-- `docs/` – konzeptionelle Dokumente und Leitfäden.
-- `articles/` – enzyklopädische Fachartikel (wird schrittweise aufgebaut).
-- `glossary/` – zweisprachiges Fachglossar (wird schrittweise aufgebaut).
-- `corpora/ ` – Dokumentation verwendeter Korpora und Datensätze; keine ungeklärten urheberrechtlich geschützten Volltexte.
+- [MASTER_TOC.md](MASTER_TOC.md) – Gesamtgliederung der Enzyklopädie.
+- [CONTRIBUTING.md](CONTRIBUTING.md) – Regeln für Mitarbeit und Begutachtung.
+- [EDITORIAL_STANDARDS.md](EDITORIAL_STANDARDS.md) – Fachliche, sprachliche und redaktionelle Standards.
+- [BIBLIOGRAPHY.md](BIBLIOGRAPHY.md) – zentrale Bibliographie und Hinweise zur Literaturaufnahme.
+- `articles/` – enzyklopädische Fachartikel.
+- `glossary/` – zweisprachiges Fachglossar.
+- `reference-tables/` – Tabellen und systematische Übersichten.
+- `corpora/` – Dokumentation verwendeter Korpora und Datensätze; keine ungeklärten urheberrechtlich geschützten Volltexte.
 
 ## Mitarbeit
 
@@ -54,4 +62,4 @@ Lizenzierung wird werkbezogen festgelegt. Für eigens verfasste enzyklopädische
 
 ## Status
 
-Aufbauphase – Gliederung und redaktionelle Grundlagen. Die Existenz eines Artikels in diesem Repository bedeutet nicht automatisch, dass er bereits fachlich begutachtet oder abgeschlossen ist.
+Aufbauphase. Die Existenz eines Artikels in diesem Repository bedeutet nicht automatisch, dass er bereits fachlich begutachtet oder abgeschlossen ist.
