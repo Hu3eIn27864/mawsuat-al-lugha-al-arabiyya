@@ -7,6 +7,7 @@ Dieser Bereich enthält überprüfbare Tabellen und systematische Übersichten. 
 - [Überblick: Varietäten und Register des Arabischen](arabic-varieties-overview.md)
 - [Phoneminventar des modernen Hocharabischen](msa-phoneme-inventory.md)
 - [Arabische Verbformen I–X](arabic-verb-forms.md)
+- [Arabische Korpora und digitale Sprachressourcen](arabic-corpus-resources.md)
 
 ## Geplante Themen
 
