@@ -69,6 +69,8 @@ Diese Gliederung definiert den fachlichen Rahmen der Enzyklopädie. Sie ist ein 
 
 ## Teil VI – Semantik, Pragmatik und Diskurs | الدلالة والتداولية والخطاب
 
+- [Semantik und Pragmatik des Arabischen – الدلالة والتداولية](articles/linguistics/semantics-and-pragmatics-arabic.md)
+
 47. Lexikalische Semantik – الدلالة المعجمية
 48. Kompositionelle Semantik – الدلالة التركيبية
 49. Bedeutungsrelationen und Polysemie – العلاقات الدلالية وتعدد المعنى
@@ -110,6 +112,8 @@ Diese Gliederung definiert den fachlichen Rahmen der Enzyklopädie. Sie ist ein 
 79. Digitale Wörterbücher und lexikalische Datenbanken – المعاجم الرقمية وقواعد البيانات المعجمية
 
 ## Teil IX – Korpuslinguistik und Sprachressourcen | المدونات والموارد اللغوية
+
+- [Korpuslinguistik des Arabischen – لسانيات المدونات العربية](articles/linguistics/corpus-linguistics-arabic.md)
 
 80. Aufbau und Repräsentativität arabischer Korpora – بناء المدونات وتمثيلها
 81. Korpora des modernen Hocharabischen – مدونات الفصحى الحديثة
@@ -196,6 +200,8 @@ Diese Gliederung definiert den fachlichen Rahmen der Enzyklopädie. Sie ist ein 
 
 - [Glossar: Morphologie und Syntax – الصرف والنحو](glossary/entries/morphology-and-syntax.md)
 - [Arabische Verbformen I–X – الأوزان الفعلية](reference-tables/arabic-verb-forms.md)
+- [Arabische Korpora und digitale Sprachressourcen](reference-tables/arabic-corpus-resources.md)
+- [Glossar: Semantik, Pragmatik und Korpuslinguistik](glossary/entries/semantics-pragmatics-corpus.md)
 
 142. [Zweisprachiges Fachglossar Deutsch–Arabisch – معجم اصطلاحي ألماني–عربي](glossary/entries/sociolinguistics.md)
 143. Grammatische Übersichten und Referenztabellen – الجداول والمراجع النحوية
