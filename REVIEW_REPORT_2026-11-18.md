@@ -378,3 +378,26 @@ Die regionalen Artikel `articles/literature/regions/iraqi-literature.md` und `ar
 **Bibliographische Vorsicht:** Für Malikat al-Dār kursieren unterschiedliche Geburtsjahre (u. a. 1918 und 1920) und abweichende Angaben zur Veröffentlichung des Romans (1970/1972). Diese Daten sind ausdrücklich als offene Prüfstellen markiert. Die Werkchronologie Farmāns wird ebenfalls nicht als abschließend dargestellt.
 
 **Prüfgrenze:** Beide Profile sind Einführungen, keine vollständigen kritischen Bibliographien. Arabische Erstausgaben, Archivmaterial, Zeitschriftenpublikationen und Primärtextanalysen müssen weiter geprüft werden. Kein Beitrag ist extern peer-reviewt.
+
+
+## Achtzehnte Prüfrunde: Irakische Literatur nach 2003 und jemenitische Gegenwartsliteratur (18.11.2026)
+
+Drei neue Autor:innenprofile wurden erstellt und mit der regionalen Übersicht, Literatur-README, Gesamtüberblick, Mastergliederung und Bibliographie verknüpft:
+
+- `articles/literature/authors/ahmed-saadawi.md`
+- `articles/literature/authors/sinan-antoon.md`
+- `articles/literature/authors/hassan-blasim.md`
+
+Die regionalen Artikel `articles/literature/regions/iraqi-literature.md` und `articles/literature/regions/yemeni-literature.md` wurden ebenfalls erweitert.
+
+**Inhaltliche Schwerpunkte und Quellenbasis:**
+
+- **Aḥmad Saʿdāwī:** *Frankenstein in Baghdad*, Groteske, Horror, Satire und die politische Bedeutung fragmentierter Körper. Quellenbasis: Booker Prizes, Penguin Random House und Modhumita Roy (2024).
+- **Sinān Anṭūn:** *Iʿǧām*, *The Corpse Washer* und *The Book of Collateral Damage*; Übersetzung, Selbstübersetzung, Körper, Erinnerung und Diaspora. Quellenbasis: Autorenwebsite, Poetry Foundation, International Prize for Arabic Fiction und Yasmeen Hanoosh (2019).
+- **Ḥasan Blāsim:** Kurzgeschichten, Groteske, unzuverlässiges Erzählen und die internationale Zirkulation arabischer Literatur. Quellenbasis: Autorenwebsite, Penguin Random House und Macmillan.
+- **Irak nach 2003:** Der Regionalartikel beschreibt keinen abrupten ästhetischen Neubeginn, sondern neue Produktionsbedingungen und narrative Formen bei gleichzeitigen Kontinuitäten zu früheren Kriegs- und Realismustraditionen.
+- **Jemenitische Literatur:** Ergänzt wurden die Debatte um die Anfänge des Romans (Fatima Saeed Awadh Saeed, 2022) sowie jüngere Forschung zu kollektiver Traumadarstellung, Geschlechterverhältnissen und Zentrum/Peripherie (2024–2025).
+
+**Methodische Hinweise:** Die Profile unterscheiden arabische Originalausgaben von englischen Übersetzungen und deren teils abweichender Textauswahl. Internationale Preise und Übersetzungen werden als Rezeptionsdaten behandelt, nicht als Maßstab für die Repräsentativität eines nationalen Literaturfeldes.
+
+**Prüfgrenze:** Die Beiträge sind wissenschaftliche Einführungen, keine vollständigen kritischen Bibliographien. Arabische Erstausgaben, Primärtextanalysen und die Rezeption in arabischsprachigen Fachzeitschriften müssen weiter erschlossen werden. Kein Beitrag ist extern peer-reviewt.
