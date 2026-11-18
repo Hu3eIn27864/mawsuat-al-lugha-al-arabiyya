@@ -236,6 +236,9 @@ Diese Gliederung definiert den fachlichen Rahmen der Enzyklopädie. Sie ist ein 
 - [Kāteb Yāsīn – كاتب ياسين](articles/literature/authors/kateb-yacine.md)
 - [Ġāʾib Ṭuʿma Farmān – غائب طعمة فرمان](articles/literature/authors/ghaib-tuma-farman.md)
 - [Malikat al-Dār Muḥammad – ملكة الدار محمد](articles/literature/authors/malikat-al-dar-muhammad.md)
+- [Aḥmad Saʿdāwī – أحمد سعداوي](articles/literature/authors/ahmed-saadawi.md)
+- [Sinān Anṭūn – سنان أنطون](articles/literature/authors/sinan-antoon.md)
+- [Ḥasan Blāsim – حسن بلاسم](articles/literature/authors/hassan-blasim.md)
 - [Āmil Muḫtār – آمال مختار](articles/literature/authors/amel-mokhtar.md)
 
 ## Teil XV – Historischer Kontext und sprachliche Überlieferung | السياق التاريخي والتراث اللغوي
