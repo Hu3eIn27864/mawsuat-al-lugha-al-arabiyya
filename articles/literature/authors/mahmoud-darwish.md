@@ -52,3 +52,8 @@ Seine Werke wurden in zahlreiche Sprachen übersetzt. Übersetzungen haben seine
 
 - [Moderne arabische Lyrik](../modern-arabic-poetry.md)
 - [Überblick: Moderne und zeitgenössische arabische Literatur](../modern-arabic-literature-overview.md)
+
+
+## ملخص بالعربية
+
+محمود درويش (1941–2008) شاعر فلسطيني بارز تطور شعره من التعبير عن الهوية والتجربة الفلسطينية إلى تأملات أوسع في الذاكرة والمنفى واللغة والموت والانتماء. من أعماله «أوراق الزيتون» (1964) و«لماذا تركت الحصان وحيداً؟» (1995) و«جدارية» (2000). ولا يصح اختزال تجربته في وصف «شاعر المقاومة» وحده، إذ تتسم أعماله بتطور جمالي وفكري واسع.
