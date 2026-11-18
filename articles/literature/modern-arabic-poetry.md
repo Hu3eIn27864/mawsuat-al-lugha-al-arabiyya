@@ -57,7 +57,7 @@ Eine fundierte Gedichtanalyse sollte Textgestalt und Kontext verbinden:
 
 Eine Übersetzung kann Klang, Metrum, Wortspiel und kulturelle Anspielungen nur teilweise übertragen. Interpretationen sollten daher kenntlich machen, ob sie auf dem arabischen Text oder einer Übersetzung beruhen.
 
-## 10. Weiterführende Literatur
+## 9. Weiterführende Literatur
 
 - Badawi, M. M. (Hg.). 1992. *Modern Arabic Literature*. Cambridge: Cambridge University Press.
 - Starkey, Paul. 2006. *Modern Arabic Literature*. Edinburgh: Edinburgh University Press.
