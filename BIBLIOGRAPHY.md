@@ -73,6 +73,9 @@ Diese Datei sammelt verifizierte Literatur und Ressourcen. Einträge werden erst
 - Aït Dahmane, Karima. 2023. „De l’imaginaire linguistique à la création littéraire en Algérie : altérité, discours et mémoire“. *Revue RIDILCA* 2(1): 11–19.
 - Centre de Recherche en Anthropologie Sociale et Culturelle (CRASC). 2002. *The Algerian Arabic-Language Novel: Critical Readings*. Oran: CRASC.
 - Kerras, Nassima und Moulay Lahssan Baya. 2022. „Analysis of the Algerian Novel Fahla (Rabah Sbaa) from a Sociolinguistic Approach“. *AWEJ for Translation & Literary Studies* 6(4): 15–31. DOI: 10.24093/awejtls/vol6no4.2.
+- Déjeux, Jean. 1973. „Les structures de l'imaginaire dans l'œuvre de Kateb Yacine“. *Revue de l'Occident musulman et de la Méditerranée* 13–14: 267–292. DOI: 10.3406/remmm.1973.1209.
+- Combe, Dominique. 2022. „Nedjma ou l’origine poétique du roman national algérien“. *Littérature* 205(1): 100–111.
+- Villasenor, Leticia. 2015. „Kateb Yacine’s Nedjma: The Dismembering of Algeria’s ‘Étoile de Sang’“. *Ufahamu* 38(2). DOI: 10.5070/F7382025978.
 - Tijani, Olatunbosun Ishaq. 2017. „Kuwait“. In Waïl S. Hassan (Hg.), *The Oxford Handbook of Arab Novelistic Traditions*. Oxford University Press. DOI: 10.1093/oxfordhb/9780199349791.013.18.
 - Jack, Belinda. 1996. „The Maghreb“. In *Francophone Literatures: An Introductory Survey*, S. 163–164. Oxford University Press. DOI: 10.1093/oso/9780198715078.003.0009.
 - Fakhreddine, Huda J. 2021. *The Arabic Prose Poem: Poetic Theory and Practice*. Edinburgh: Edinburgh University Press. ISBN: 9781474474962. (Theorie und Praxis des arabischen Prosagedichts.)
