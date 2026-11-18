@@ -77,7 +77,7 @@ Bibliographien sollten arabische Originaltitel, Transkriptionsvarianten, Erstaus
 - Badawi, M. M. (Hg.). 1992. *Modern Arabic Literature*. Cambridge: Cambridge University Press.
 - Starkey, Paul. 2006. *Modern Arabic Literature*. Edinburgh: Edinburgh University Press.
 - Snir, Reuven. 2017. *Modern Arabic Literature: A Theoretical Framework*. Edinburgh: Edinburgh University Press.
-- Johnson, Rebecca C. 2026. “The Novel.” In *The Cambridge Companion to Modern Arabic Literature*. Cambridge: Cambridge University Press.
+- Johnson, Rebecca C. 2026. “The Novel.” In Michael Allan und Zeina G. Halabi (Hg.), *The Cambridge Companion to Modern Arabic Literature*. Cambridge: Cambridge University Press. Online veröffentlicht am 18. Juli 2026. DOI des Sammelbands: 10.1017/9781009748810.
 
 ## Verwandte Artikel
 
