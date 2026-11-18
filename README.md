@@ -47,6 +47,7 @@ Klassisches Arabisch, koranisches Arabisch und vormoderne Literatur werden dort 
 - [CONTRIBUTING.md](CONTRIBUTING.md) – Regeln für Mitarbeit und Begutachtung.
 - [EDITORIAL_STANDARDS.md](EDITORIAL_STANDARDS.md) – Fachliche, sprachliche und redaktionelle Standards.
 - [BIBLIOGRAPHY.md](BIBLIOGRAPHY.md) – zentrale Bibliographie und Hinweise zur Literaturaufnahme.
+- [REVIEW_REPORT_2026-11-18.md](REVIEW_REPORT_2026-11-18.md) – erster redaktioneller Prüfbericht mit bibliographischen Korrekturen und priorisierten Aufgaben.
 - `articles/` – enzyklopädische Fachartikel.
 - `glossary/` – zweisprachiges Fachglossar.
 - `reference-tables/` – Tabellen und systematische Übersichten.
