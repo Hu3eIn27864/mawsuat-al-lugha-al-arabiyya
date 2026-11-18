@@ -401,3 +401,25 @@ Die regionalen Artikel `articles/literature/regions/iraqi-literature.md` und `ar
 **Methodische Hinweise:** Die Profile unterscheiden arabische Originalausgaben von englischen Übersetzungen und deren teils abweichender Textauswahl. Internationale Preise und Übersetzungen werden als Rezeptionsdaten behandelt, nicht als Maßstab für die Repräsentativität eines nationalen Literaturfeldes.
 
 **Prüfgrenze:** Die Beiträge sind wissenschaftliche Einführungen, keine vollständigen kritischen Bibliographien. Arabische Erstausgaben, Primärtextanalysen und die Rezeption in arabischsprachigen Fachzeitschriften müssen weiter erschlossen werden. Kein Beitrag ist extern peer-reviewt.
+
+
+## Neunzehnte Prüfrunde: Kurdischsprachige Literatur im Irak (18.11.2026)
+
+Neu erstellt und integriert wurden:
+
+- `articles/literature/regions/iraqi-kurdish-literature.md`
+- `articles/literature/authors/sherko-bekas.md`
+
+Der irakische Regionalartikel wurde ergänzt, um die arabischsprachige Schwerpunktsetzung ausdrücklich von der eigenständigen kurdischsprachigen Literaturgeschichte abzugrenzen. Die neuen Beiträge wurden in Literatur-README, Gesamtüberblick und Mastergliederung verlinkt.
+
+**Inhaltliche Schwerpunkte:**
+
+- **Institutionelle Geschichte:** Druckerei in Sulaymaniyah 1919, Presse- und Zeitschriftenkultur sowie die Entwicklung moderner soranischer Prosa.
+- **Poetische Moderne:** längere Modernisierungsprozesse vom späten 19. Jahrhundert bis zu ihrer Verdichtung in den 1940er Jahren; ʿAbdullāh Gōrān als zentrale, aber nicht alleinige Erneuerungsfigur.
+- **Şêrko Bêkes:** freie Versformen, Rûwange/Vision, Poster-Gedicht, politisches Engagement, Exil in Schweden und mehrsprachige Übersetzung.
+- **Diaspora und Übersetzung:** Die Übersetzungsforschung von Ghaderi und Scalbert Yücel macht sichtbar, dass internationale Repräsentation durch Auswahl, Verlage und Vermittlungsnetzwerke geprägt wird.
+- **Frauen und Kanon:** Die Forschung zu kurdischen Frauen in Irak wird als eigenständige Perspektive auf Literatur, politische Bewegungen und institutionelle Marginalisierung aufgenommen.
+
+**Quellenbasis:** Encyclopaedia Iranica (Kreyenbroek); Ghaderi (2022); Ghaderi und Scalbert Yücel (2021); Omar (2016); Tabbert und Ibrahim (2023); *Studies in Ethnicity and Nationalism* (2024); Galip (2016).
+
+**Redaktionelle Einschränkung:** Der neue Artikel konzentriert sich auf die irakische kurdische Literatur mit Schwerpunkt Sorani. Kurmandschi, Hawrami/Gorani, syrisch/aramäische Literaturen sowie weitere regionale und weibliche Autor:innen benötigen eigene vertiefte Bestandsaufnahmen. Der Überblick erhebt keinen Anspruch auf Vollständigkeit und ist nicht extern peer-reviewt.
