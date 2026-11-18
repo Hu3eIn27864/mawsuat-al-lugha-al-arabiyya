@@ -216,3 +216,20 @@ Vier Autorinnenprofile und ein vergleichender Grundlagenartikel wurden erstellt 
 **Quellenbasis:** Elsadda, *Gender, Nation, and the Arabic Novel* (2012; 2026 neu aufgelegte Online-Kapitel); Ashour, Ghazoul und Reda-Mekdashi (Hg.), *Arab Women Writers: A Critical Reference Guide, 1873–1999* (2008); Malti-Douglas (1995); Verlags- und Institutionsprofile von AUC Press, University of Chicago Press, Bloomsbury, Royal Society of Literature und American University of Beirut.
 
 **Prüfgrenze:** Die vier Profile sind repräsentative Einstiege, keine ausgewogene Übersicht aller arabischen Literaturen oder aller Autorinnen. Die bibliographische Erfassung muss insbesondere Autorinnen aus Maghreb, Irak, Sudan, Golfregion, Jemen sowie arabischsprachige und mehrsprachige Diaspora weiter ausbauen. Primärtextausgaben und arabischsprachige Rezeptionsquellen bedürfen weiterer Prüfung; die Beiträge sind nicht extern peer-reviewt.
+
+
+## Neunte Prüfrunde: Weitere Autorinnen aus Palästina, Algerien und Syrien (18.11.2026)
+
+Drei weitere Profile wurden angelegt und in Literatur-README, Überblick und Mastergliederung integriert:
+
+- `articles/literature/authors/fadwa-tuqan.md`
+- `articles/literature/authors/assia-djebar.md`
+- `articles/literature/authors/ghada-al-samman.md`
+
+**Schwerpunkte:**
+
+- **Fadwā Ṭūqān:** moderne palästinensische Lyrik, weibliche Selbstbildung, politische Dichtung und Autobiographie. Quellenbasis: Asaad al-Saleh (2018), *Routledge Encyclopedia of Modernism*, sowie Barnard Center for Research on Women.
+- **Assia Djebar:** algerische, überwiegend französischsprachige Autorin, Historikerin und Filmemacherin; Kolonialgeschichte, Mehrsprachigkeit, mündliche Erinnerung und weibliche Stimmen. Quellenbasis: Académie française, Yale University und Académie royale de langue et de littérature françaises de Belgique.
+- **Ġāda al-Sammān:** syrische Schriftstellerin und Journalistin; Beirut als urbaner und sozialer Erzählraum, Geschlechterverhältnisse und Krieg. Der Beitrag ist als vorläufig gekennzeichnet, da biografische und bibliografische Angaben anhand arabischer Primärkataloge noch systematisch zu verifizieren sind.
+
+**Prüfgrenze:** Das Profil zu Djebar behandelt ausdrücklich ihre überwiegend französische Schreibsprache und macht damit die Mehrsprachigkeit des literarischen Feldes sichtbar. Das Profil zu al-Sammān enthält gekennzeichnete offene bibliografische Fragen und darf noch nicht als abgeschlossene Werkbibliografie verwendet werden. Alle drei Artikel sind nicht extern peer-reviewt.
