@@ -91,6 +91,7 @@ Bei der Auswahl von Autor:innen und Texten ist darauf zu achten, dass internatio
 - [Irakische Literatur](regions/iraqi-literature.md)
 - [Literatur der Levante](regions/levantine-literature.md)
 - [Jemenitische Literatur](regions/yemeni-literature.md)
+- [Tunesische Literatur](regions/tunisian-literature.md)
 
 ## 11. Gender, Kanon und Öffentlichkeit
 
@@ -121,6 +122,7 @@ Bei der Auswahl von Autor:innen und Texten ist darauf zu achten, dass internatio
 - [Laylā Abū Zayd](authors/leila-abouzeid.md)
 - [Qāsim Ḥaddād](authors/qassim-haddad.md)
 - [Sulṭān al-ʿAmīmī](authors/sultan-al-ameemi.md)
+- [Āmil Muḫtār](authors/amel-mokhtar.md)
 
 ## 11. Weiterführende Literatur
 
