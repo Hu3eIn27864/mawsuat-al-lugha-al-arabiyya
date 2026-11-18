@@ -52,7 +52,7 @@ Diese Datei sammelt verifizierte Literatur und Ressourcen. Einträge werden erst
 - Colla, Elliott. 2008. “How Zaynab Became the First Arabic Novel.” *History Compass* 6. DOI: 10.1111/j.1478-0542.2008.00573.x. (Kritik an der späteren Kanonisierung von *Zaynab* als „erstem“ arabischen Roman.)
 - al-Rāʿī, ʿAlī. 1993. “Arabic Drama since the Thirties.” In M. M. Badawi (Hg.), *Modern Arabic Literature*, S. 358–403. Cambridge: Cambridge University Press. DOI: 10.1017/CHOL9780521331975.011.
 - Badawi, M. M. 1988. *Modern Arabic Drama in Egypt*. Cambridge: Cambridge University Press. DOI: 10.1017/CBO9780511470417.
-- *The Theatre of Sa'dallah Wannous: A Critical Study of the Syrian Playwright and Public Intellectual*. 2021. Cambridge: Cambridge University Press. DOI: 10.1017/9781108973182.
+- Mejcher-Atassi, Sonja und Robert Myers (Hg.). 2021. *The Theatre of Sa’dallah Wannous: A Critical Study of the Syrian Playwright and Public Intellectual*. Cambridge: Cambridge University Press. DOI: 10.1017/9781108973182.
 - Johnson-Davies, Denys (Hg. und Übers.). 1967. *Modern Arabic Short Stories*. Oxford: Oxford University Press. (Anthologie mit Erzählungen aus mehreren arabischen Ländern; Auswahl und Übersetzungsrahmen sind historisch zu kontextualisieren.)
 - Literaturgeschichte und Periodisierung
 - Lyrik, Roman, Kurzgeschichte und Drama
