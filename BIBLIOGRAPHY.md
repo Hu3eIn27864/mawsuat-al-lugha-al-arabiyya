@@ -124,6 +124,10 @@ Diese Datei sammelt verifizierte Literatur und Ressourcen. Einträge werden erst
 - Aboulela, Leila. 2010. *Lyrics Alley*. (Roman über Khartum in den 1950er Jahren.)
 - al-ʿĪsā, Buṯayna. 2021. *Ḥārisat al-ʿālam* (حارسة العالم; *The Book Censor’s Library*). Kuwait.
 - Aboulela, Leila. “About.” Autorinnenwebsite: https://leila-aboulela.com/about/.
+- International Prize for Arabic Fiction. „Mohammed Berrada“ (Autorprofil und Werkübersicht): https://archive.arabicfiction.org/en/node/12.
+- Banipal. „Mohamed Berrada“ (Autorprofil und Bibliographie): https://www.banipal.co.uk/contributors/287/mohamed-berrada/.
+- Banipal. „Mohamed Berrada: In Conversation with Jonas Elbousty“: https://www.banipal.co.uk/selections/112/355/mohamed-berrada/.
+- e-taqafa.ma. „Mohammed Berrada“ (Autorenprofil und Werkbibliographie): https://www.e-taqafa.ma/dossier/mohammed-berrada.
 - Al-Essa, Bothayna. “Author profile.” National Book Foundation: https://www.nationalbook.org/people/bothayna-al-essa/.
 
 ## Eintragsvorlage
