@@ -193,6 +193,8 @@ Diese Gliederung definiert den fachlichen Rahmen der Enzyklopädie. Sie ist ein 
 - [Palästinensische Literatur](articles/literature/regions/palestinian-literature.md)
 - [Irakische Literatur](articles/literature/regions/iraqi-literature.md)
 - [Kurdischsprachige Literatur im Irak](articles/literature/regions/iraqi-kurdish-literature.md)
+- [Syrische und neuaramäische Literaturen im Irak](articles/literature/regions/syriac-literature-iraq.md)
+- [Kurdische Autorinnen und literarische Diaspora](articles/literature/kurdish-women-and-diaspora.md)
 - [Literatur der Levante](articles/literature/regions/levantine-literature.md)
 - [Jemenitische Literatur](articles/literature/regions/yemeni-literature.md)
 - [Tunesische Literatur](articles/literature/regions/tunisian-literature.md)
