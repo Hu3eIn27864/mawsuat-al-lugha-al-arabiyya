@@ -357,3 +357,24 @@ Ein weiteres Autor:innenprofil wurde erstellt und mit dem regionalen Überblick 
 - Die Ereignisse vom 8. Mai 1945 werden als prägende biographische und historische Erfahrung eingeordnet, nicht als vollständige Erklärung der ästhetischen Form von *Nedjma*.
 
 **Prüfgrenze:** Das Profil ist ein Einstieg und keine vollständige Werkausgabe oder kritische Edition. Für die Theatertexte, die arabischsprachigen Aufführungsfassungen und die Werkgenese von *Nedjma* sind weitere Primärquellen und Editionsstudien erforderlich; der Beitrag ist nicht extern peer-reviewt.
+
+
+## Siebzehnte Prüfrunde: Irakische Prosa und sudanesische Autorinnen (18.11.2026)
+
+Zwei Autor:innenprofile wurden erstellt und mit den regionalen Übersichten, Literatur-README, Gesamtüberblick, Mastergliederung und Bibliographie verknüpft:
+
+- `articles/literature/authors/ghaib-tuma-farman.md`
+- `articles/literature/authors/malikat-al-dar-muhammad.md`
+
+Die regionalen Artikel `articles/literature/regions/iraqi-literature.md` und `articles/literature/regions/sudanese-literature.md` wurden ebenfalls erweitert.
+
+**Inhaltliche Schwerpunkte und Quellenbasis:**
+
+- **Ġāʾib Ṭuʿma Farmān:** *al-Naḫla wa-l-ǧīrān* (1966), *Ḫamsat aṣwāt* (1967), Mehrstimmigkeit, Bagdad als sozialer Raum, Realismus und Exil. Quellenbasis: Caiani und Cobham (2010; 2013), Peled-Shapira (2018) sowie Bahoora (2017).
+- **Malikat al-Dār Muḥammad:** Kurzgeschichte *Ṭabīb al-qarya*, Preis des Sudan Radio 1947, Roman *al-Farāġ al-ʿarīḍ* und die Bedingungen weiblicher Autorschaft. Quellenbasis: Oladosu (2024), Ismail (2022), Shammat (2019) und die Studie von Thorraya Soghayroon.
+- **Irakischer Roman:** Die Überarbeitung vermeidet eine teleologische „Geburtsstunde“ 1966. Frühere Roman- und Erzählpublikationen der 1920er bis 1940er Jahre werden berücksichtigt; Farmāns Roman wird als Markstein künstlerischer Reife, nicht als erster irakischer Roman schlechthin, eingeordnet.
+- **Sudanesische Literatur:** Das Profil zu Malikat al-Dār erweitert die Autorinnen- und Kurzgeschichtenperspektive. Das Manuskript unterscheidet zwischen Werkentstehung und späterer Veröffentlichung von *al-Farāġ al-ʿarīḍ*.
+
+**Bibliographische Vorsicht:** Für Malikat al-Dār kursieren unterschiedliche Geburtsjahre (u. a. 1918 und 1920) und abweichende Angaben zur Veröffentlichung des Romans (1970/1972). Diese Daten sind ausdrücklich als offene Prüfstellen markiert. Die Werkchronologie Farmāns wird ebenfalls nicht als abschließend dargestellt.
+
+**Prüfgrenze:** Beide Profile sind Einführungen, keine vollständigen kritischen Bibliographien. Arabische Erstausgaben, Archivmaterial, Zeitschriftenpublikationen und Primärtextanalysen müssen weiter geprüft werden. Kein Beitrag ist extern peer-reviewt.
