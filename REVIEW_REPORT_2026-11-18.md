@@ -435,3 +435,22 @@ Zusätzlich wurde das Profil `articles/literature/authors/abdullah-goran.md` ers
 - **Quellen:** Keith Hitchins, *Encyclopaedia Iranica*; Farangis Ghaderi (2022) und ihr Cambridge-Kapitel zur Neubewertung von Gōrāns Beitrag; Institut für Kurdische Studien.
 
 **Prüfgrenze:** Die Werkchronologie beruht auf ausgewählter Sekundärliteratur und Verlagsdaten. Eine systematische Erfassung der soranischen Erstausgaben, Zeitschriftenbeiträge und Übersetzungsvarianten steht aus.
+
+
+## Zwanzigste Prüfrunde: Neuaramäische Literaturen im Irak und kurdische Autorinnen/Diaspora (18.11.2026)
+
+Neu erstellt und in die Literaturgliederung integriert wurden:
+
+- `articles/literature/regions/syriac-literature-iraq.md`
+- `articles/literature/kurdish-women-and-diaspora.md`
+
+**Inhaltliche Schwerpunkte:**
+
+- **Syrisch/Neuaramäisch:** Der neue Überblick trennt klassische syrische Schriftsprache von modernen neuaramäischen Varietäten. Er behandelt die Schule von Alqosh, religiöse Dichtung, mündliche Genres, die Druckkultur von Mosul sowie Migration und Diaspora.
+- **Terminologische Vorsicht:** „Assyrisch“, „Chaldäisch“ und „Syrisch“ werden nicht als austauschbare Bezeichnungen behandelt; sprachliche, kirchliche, regionale und politische Ebenen werden auseinandergehalten.
+- **Kurdische Autorinnen:** Der neue Themenartikel erweitert die Sorani-zentrierte Regionaldarstellung um Bahdinan/Kurmanji, weibliche Autorschaft, literarische Repräsentation und die historischen Grenzen des Kanons.
+- **Diaspora und Übersetzung:** Mehrsprachige Schreibweisen und englischsprachige diasporische Romane werden als Teil transnationaler Produktions- und Rezeptionsräume untersucht, ohne die kurdische Literatur auf eine Sprache zu reduzieren.
+
+**Quellenbasis:** Alessandro Mengozzi (2009; 2016); Maria Macuch, *Encyclopaedia Iranica* (1987/2016); Hashem Ahmadzadeh (2008); Lolav M. Hassan Alhamid (2017, 2024, 2025); Farangis Ghaderi und Clémence Scalbert Yücel (2021).
+
+**Prüfgrenzen:** Die neuaramäische Übersicht bildet nicht alle Sprachgemeinschaften, Varietäten und gegenwärtigen Autor:innen ab; mündliche Bestände und lokale Periodika sind ungleich dokumentiert. Der Beitrag zu kurdischen Autorinnen ist eine thematische Einführung, kein vollständiges Autorinnenlexikon. Bibliographische Primärdaten und regionale Schreibvarianten müssen weiter geprüft werden. Beide Beiträge sind nicht extern peer-reviewt.
