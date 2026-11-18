@@ -87,6 +87,9 @@ Bei der Auswahl von Autor:innen und Texten ist darauf zu achten, dass internatio
 - [Maghrebinische Literaturen](regions/maghrebi-literature.md)
 - [Literatur der Arabischen Halbinsel und des Golfs](regions/gulf-literature.md)
 - [Sudanesische Literatur](regions/sudanese-literature.md)
+- [Palästinensische Literatur](regions/palestinian-literature.md)
+- [Irakische Literatur](regions/iraqi-literature.md)
+- [Literatur der Levante](regions/levantine-literature.md)
 
 ## 11. Autor:innenprofile
 
