@@ -81,7 +81,14 @@ Die Literaturgeschichte sollte nicht nur nach Gattungen und Nationalstaaten, son
 
 Bei der Auswahl von Autor:innen und Texten ist darauf zu achten, dass internationale Übersetzungspräsenz nicht mit Repräsentativität gleichgesetzt wird. Ägyptische, irakische, palästinensische, syrische, libanesische, sudanesische, maghrebinische und golfarabische Literaturproduktionen sowie Diaspora- und mehrsprachige Kontexte müssen jeweils in ihrer eigenen historischen und medialen Konstellation untersucht werden.
 
-## 10. Autor:innenprofile
+## 10. Regionale Literaturgeschichten
+
+- [Ägyptische Literatur](regions/egyptian-literature.md)
+- [Maghrebinische Literaturen](regions/maghrebi-literature.md)
+- [Literatur der Arabischen Halbinsel und des Golfs](regions/gulf-literature.md)
+- [Sudanesische Literatur](regions/sudanese-literature.md)
+
+## 11. Autor:innenprofile
 
 - [Nāzik al-Malāʾika](authors/nazik-al-malaika.md)
 - [Badr Šākir al-Sayyāb](authors/badr-shakir-al-sayyab.md)
