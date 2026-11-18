@@ -60,6 +60,7 @@ Auch innerhalb der arabischsprachigen Literatur können lokale Varietäten, mehr
 
 - [Maghrebinische Literaturen](maghrebi-literature.md)
 - [Assia Djebar](../authors/assia-djebar.md)
+- [Kateb Yacine](../authors/kateb-yacine.md)
 - [Ahlam Mosteghanemi](../authors/ahlam-mosteghanemi.md)
 - [Maghrebinische Varietäten und Dialektologie](../../sociolinguistics/arabic-dialectology.md)
 - [Der moderne arabische Roman](../modern-arabic-novel.md)
