@@ -67,6 +67,12 @@ Diese Datei sammelt verifizierte Literatur und Ressourcen. Einträge werden erst
 - al-Ghadeer, Moneera. 2026. „Khalij“. In *The Cambridge Companion to Modern Arabic Literature*, S. 157–173. Cambridge University Press. DOI: 10.1017/9781009748810.012.
 - El Guabli, Brahim. 2026. „Darija and Tamazight“. In *The Cambridge Companion to Modern Arabic Literature*, S. 99–115. Cambridge University Press. DOI: 10.1017/9781009748810.008.
 - Kassab-Charfi, Samia. 2026. „Maghrib“. In *The Cambridge Companion to Modern Arabic Literature*, S. 141–156. Cambridge University Press. DOI: 10.1017/9781009748810.011.
+- Cox, Debbie. 2017. „Algeria“. In Waïl S. Hassan (Hg.), *The Oxford Handbook of Arab Novelistic Traditions*, S. 157–172. Oxford University Press. DOI: 10.1093/oxfordhb/9780199349791.013.11.
+- Orlando, Valérie K. 2017. *The Algerian New Novel: The Poetics of a Modern Nation, 1950–1979*. Charlottesville: University of Virginia Press. DOI: 10.2307/j.ctt1kk66x9.
+- Ayad, Salim. 2021. „Recherche en littérature écrite d’expression amazighe : état des lieux et typologie“. *Multilinguales* 15.
+- Aït Dahmane, Karima. 2023. „De l’imaginaire linguistique à la création littéraire en Algérie : altérité, discours et mémoire“. *Revue RIDILCA* 2(1): 11–19.
+- Centre de Recherche en Anthropologie Sociale et Culturelle (CRASC). 2002. *The Algerian Arabic-Language Novel: Critical Readings*. Oran: CRASC.
+- Kerras, Nassima und Moulay Lahssan Baya. 2022. „Analysis of the Algerian Novel Fahla (Rabah Sbaa) from a Sociolinguistic Approach“. *AWEJ for Translation & Literary Studies* 6(4): 15–31. DOI: 10.24093/awejtls/vol6no4.2.
 - Tijani, Olatunbosun Ishaq. 2017. „Kuwait“. In Waïl S. Hassan (Hg.), *The Oxford Handbook of Arab Novelistic Traditions*. Oxford University Press. DOI: 10.1093/oxfordhb/9780199349791.013.18.
 - Jack, Belinda. 1996. „The Maghreb“. In *Francophone Literatures: An Introductory Survey*, S. 163–164. Oxford University Press. DOI: 10.1093/oso/9780198715078.003.0009.
 - Fakhreddine, Huda J. 2021. *The Arabic Prose Poem: Poetic Theory and Practice*. Edinburgh: Edinburgh University Press. ISBN: 9781474474962. (Theorie und Praxis des arabischen Prosagedichts.)
