@@ -215,6 +215,9 @@ Diese Gliederung definiert den fachlichen Rahmen der Enzyklopädie. Sie ist ein 
 - [Ḥanān al-Šayḫ – حنان الشيخ](articles/literature/authors/hanan-al-shaykh.md)
 - [Raḍwā ʿĀšūr – رضوى عاشور](articles/literature/authors/radwa-ashour.md)
 - [Gender, Kanon und literarische Öffentlichkeit](articles/literature/gender-canon-and-literary-publics.md)
+- [Fadwā Ṭūqān – فدوى طوقان](articles/literature/authors/fadwa-tuqan.md)
+- [ʿĀsiyā Ǧabbār – آسيا جبار](articles/literature/authors/assia-djebar.md)
+- [Ġāda al-Sammān – غادة السمان](articles/literature/authors/ghada-al-samman.md)
 
 ## Teil XV – Historischer Kontext und sprachliche Überlieferung | السياق التاريخي والتراث اللغوي
 
