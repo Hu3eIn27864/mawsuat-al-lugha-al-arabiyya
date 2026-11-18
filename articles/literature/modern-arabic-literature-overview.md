@@ -132,6 +132,7 @@ Bei der Auswahl von Autor:innen und Texten ist darauf zu achten, dass internatio
 - [Sinān Anṭūn](authors/sinan-antoon.md)
 - [Ḥasan Blāsim](authors/hassan-blasim.md)
 - [Şêrko Bêkes](authors/sherko-bekas.md)
+- [ʿAbdullāh Gōrān](authors/abdullah-goran.md)
 
 ## 11. Weiterführende Literatur
 
