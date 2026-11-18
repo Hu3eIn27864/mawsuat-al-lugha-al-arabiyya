@@ -77,6 +77,15 @@ Diese Datei sammelt verifizierte Literatur und Ressourcen. Einträge werden erst
 - Literaturkritik und Theorie
 - Regionale Literaturen, Diaspora und Übersetzung
 
+- Abu-Remaileh, Refqa. 2021. “Country of Words: Palestinian Literature in the Digital Age of the Refugee.” *Journal of Arabic Literature* 52(1–2): 68–96. DOI: 10.1163/1570064x-12341420.
+- Abu-Remaileh, Refqa. 2019. “The Three Enigmas of Palestinian Literature.” *Journal of Palestine Studies* 48(3): 21–25. DOI: 10.1525/jps.2019.48.3.21.
+- Abu-Manneh, Bashir. 2016. *The Palestinian Novel: From 1948 to the Present*. Cambridge University Press.
+- Sellman, Johanna. 2026. “Exile.” In Michael Allan und Zeina G. Halabi (Hg.), *The Cambridge Companion to Modern Arabic Literature*, S. 174–190. DOI: 10.1017/9781009748810.013.
+- Bahoora, Haytham. 2017. “Iraq.” In Waïl S. Hassan (Hg.), *The Oxford Handbook of Arab Novelistic Traditions*, S. 247–264. DOI: 10.1093/oxfordhb/9780199349791.013.16.
+- Mustafa, Shakir (Hg. und Übers.). 2018. *Contemporary Iraqi Fiction: An Anthology*. Syracuse University Press.
+- Yousif, Salaam. 2023. “Perspectives on Modern Iraqi Literature and Literary Figures.” *Journal of Contemporary Iraq & the Arab World* 17(1–2): 3–7. DOI: 10.1386/jciaw_00080_2.
+- Khayyat, Yasmine. 2026. “Mashriq.” In Michael Allan und Zeina G. Halabi (Hg.), *The Cambridge Companion to Modern Arabic Literature*, S. 131–140.
+
 ## Eintragsvorlage
 
 ```text
