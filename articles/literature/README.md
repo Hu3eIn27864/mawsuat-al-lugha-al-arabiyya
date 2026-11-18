@@ -44,6 +44,9 @@ Hier entstehen Artikel zu Theorien, Methoden, Gattungen, Epochen, literarischen 
 - [Hudā Barakāt – هدى بركات](authors/hoda-barakat.md)
 - [Ǧūḫa al-Ḥāriṯī – جوخة الحارثي](authors/jokha-al-harthi.md)
 - [Aḥlām Mustaġānimī – أحلام مستغانمي](authors/ahlam-mosteghanemi.md)
+- [Inʿām Kaǧaǧī – إنعام كجه جي](authors/inaam-kachachi.md)
+- [Laylā Abū al-ʿAlā – ليلى أبو العلا](authors/leila-aboulela.md)
+- [Buṯayna al-ʿĪsā – بثينة العيسى](authors/bothayna-al-essa.md)
 
 ## Terminologie
 
