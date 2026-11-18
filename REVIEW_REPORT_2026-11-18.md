@@ -100,3 +100,17 @@ Die zweite redaktionelle Runde hat vier Fachdateien im aktuellen Hauptzweig erne
 - **Referenztabelle:** Die gleichen Unterscheidungen wurden in der eigenständigen Phoneminventar-Tabelle nachvollzogen.
 
 **Quellen- und Prüfgrenze:** Die redaktionellen Änderungen orientieren sich an Rydings MSA-Referenzgrammatik (2005), insbesondere Kap. 3–4 und Kap. 2 (Morphologie, Syntax, Phonologie), sowie an der dort ausgewiesenen Terminologie. Die aktuelle Runde ist eine fachredaktionelle Plausibilitäts- und Präzisierungsprüfung, keine unabhängige Begutachtung aller Beispiele oder eine externe Peer-Review. Die Verteilung und phonetische Realisierung einzelner Phoneme bleibt varietäten- und analyseabhängig.
+
+
+## Dritte Prüfrunde: Soziolinguistik und Dialektologie (18.11.2026)
+
+Die dritte redaktionelle Runde hat zwei Fachartikel, die Varietäten-Referenztabelle und das soziolinguistische Glossar präzisiert:
+
+- **Diglossie und Registervariation:** Der Unterschied zwischen institutionellem Standardstatus und lokalem sozialem Prestige wird ausdrücklich gemacht. Die Kritik am binären H/L-Modell wird mit einer stärker variablen- und gemeinschaftsbezogenen Analyse verbunden. Hellmuths Untersuchung zur Prosodie wird als Fallstudie einer einzelnen Ṣanʿānī-Sprecherperson eingeordnet, nicht als repräsentativer Befund für sämtliche arabischsprachigen Gemeinschaften.
+- **Dialektologie:** Regionale Großgruppen werden ausdrücklich als geografische Orientierungskategorien, nicht als automatisch genealogisch homogene Einheiten behandelt. Ergänzt wurde ein empirischer bottom-up-Ansatz: lokale Gemeinschaften und konkrete Variablen zuerst, überregionale Verallgemeinerung erst auf Basis vergleichbarer Studien.
+- **Referenztabelle:** Ein zusätzlicher Interpretationshinweis trennt offiziellen Standardstatus und soziales Prestige.
+- **Glossar:** „Prestigevarietät“ wurde als eigener Begriff aufgenommen und vom institutionellen Standardbegriff abgegrenzt.
+
+**Quellenprüfung:** Bassiouneys Kapitel „Diglossia and dialect groups in the Arab world“ (2009, S. 9–27) behandelt ausdrücklich die Unterscheidung von MSA und klassischem Arabisch sowie die Möglichkeit, dass die Standardvarietät nicht zugleich die Prestigevarietät einer Sprachgemeinschaft ist. Al-Wers Überblick (2013, S. 241–263) kritisiert das Diglossiemodell als alleinige Analyse von Variation und stellt variationistische Alternativen vor. Hellmuth (2022) untersucht Registerprosodie anhand von über 400 Gesprächsbeiträgen einer einzelnen Ṣanʿānī-Sprecherperson; die Reichweite dieses Studiendesigns wird im Artikel entsprechend begrenzt.
+
+**Prüfgrenze:** Diese Runde ist eine quellenbasierte fachredaktionelle Präzisierung, keine vollständige regionale Feldforschung und kein externes Peer Review. Die geografischen Großgruppen bleiben einführende Orientierung und bedürfen für Einzelartikel jeweils lokaler Primärstudien.
