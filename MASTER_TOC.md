@@ -195,6 +195,7 @@ Diese Gliederung definiert den fachlichen Rahmen der Enzyklopädie. Sie ist ein 
 - [Literatur der Levante](articles/literature/regions/levantine-literature.md)
 - [Jemenitische Literatur](articles/literature/regions/yemeni-literature.md)
 - [Tunesische Literatur](articles/literature/regions/tunisian-literature.md)
+- [Algerische Literaturen](articles/literature/regions/algerian-literature.md)
 
 ## Teil XIV – Autorinnen, Autoren, Werke und Bewegungen | الكتّاب والأعمال والحركات الأدبية
 
