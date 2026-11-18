@@ -125,6 +125,8 @@ Bei der Auswahl von Autor:innen und Texten ist darauf zu achten, dass internatio
 - [Sulṭān al-ʿAmīmī](authors/sultan-al-ameemi.md)
 - [Āmil Muḫtār](authors/amel-mokhtar.md)
 - [Muḥammad Barrāda](authors/mohammed-berrada.md)
+- [Ġāʾib Ṭuʿma Farmān](authors/ghaib-tuma-farman.md)
+- [Malikat al-Dār Muḥammad](authors/malikat-al-dar-muhammad.md)
 
 ## 11. Weiterführende Literatur
 
