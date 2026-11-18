@@ -91,13 +91,21 @@ Bei der Auswahl von Autor:innen und Texten ist darauf zu achten, dass internatio
 - [Irakische Literatur](regions/iraqi-literature.md)
 - [Literatur der Levante](regions/levantine-literature.md)
 
-## 11. Autor:innenprofile
+## 11. Gender, Kanon und Öffentlichkeit
+
+- [Gender, Kanon und literarische Öffentlichkeit](gender-canon-and-literary-publics.md)
+
+## 12. Autor:innenprofile
 
 - [Nāzik al-Malāʾika](authors/nazik-al-malaika.md)
 - [Badr Šākir al-Sayyāb](authors/badr-shakir-al-sayyab.md)
 - [Maḥmūd Darwīš](authors/mahmoud-darwish.md)
 - [Saʿdallāh Wannūs](authors/saadallah-wannous.md)
 - [al-Ṭayyib Ṣāliḥ](authors/tayeb-salih.md)
+- [Nawāl al-Saʿdāwī](authors/nawal-el-saadawi.md)
+- [Laṭīfa al-Zayyāt](authors/latifa-al-zayyat.md)
+- [Ḥanān al-Šayḫ](authors/hanan-al-shaykh.md)
+- [Raḍwā ʿĀšūr](authors/radwa-ashour.md)
 
 ## 11. Weiterführende Literatur
 
