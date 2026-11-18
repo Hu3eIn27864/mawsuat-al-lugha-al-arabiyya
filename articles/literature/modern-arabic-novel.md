@@ -63,7 +63,13 @@ Internationale Sichtbarkeit ist ungleich verteilt. Übersetzungsförderung, Verl
 
 Bibliographien sollten arabische Originaltitel, Transkriptionsvarianten, Erstausgaben und verwendete Übersetzungen unterscheiden. Bei Übersetzungen sind Übersetzer:in, Sprache, Verlag und Erscheinungsjahr zu nennen.
 
-## 8. Forschungsfragen
+## 8. Primärtexte und Kanonbildung
+
+Muḥammad Ḥusayn Haykals *Zaynab* (1913) wird häufig als Wendepunkt oder als früher moderner arabischer Roman bezeichnet. Die Formel „erster arabischer Roman“ ist jedoch umstritten: Frühere Erzählprosa, historische Romane, Übersetzungen, Zeitschriftenfiktion und hybride Formen werden in neuerer Forschung stärker berücksichtigt. Die spätere Kanonisierung von *Zaynab* ist deshalb selbst ein Forschungsgegenstand und darf nicht als neutrale bibliographische Tatsache wiederholt werden.
+
+Bei Einzeltexten sind mindestens drei Ebenen zu dokumentieren: (1) arabischer Originaltitel und nachweisbare Erstausgabe, (2) spätere Ausgaben und editorische Eingriffe, (3) Übersetzungen mit Übersetzer:in, Zielsprache und Erscheinungsjahr. Ein Werkverzeichnis sollte unterschiedliche Schreibweisen von Autor:innen- und Titelnamen zusammenführen, ohne sie als identisch vorauszusetzen.
+
+## 9. Forschungsfragen
 
 - Wie verhandeln Romane die Beziehung zwischen Individuum, Familie, Staat und Gesellschaft?
 - Welche Erzählformen entstehen aus Krieg, Gefängnis, Vertreibung und Exil?
@@ -71,12 +77,13 @@ Bibliographien sollten arabische Originaltitel, Transkriptionsvarianten, Erstaus
 - Wie verändern digitale Publikation und transnationale Verlagsmärkte den Roman?
 - Welche Texte bleiben aufgrund von Sprache, Zensur, Region oder Verlagszugang außerhalb etablierter Kanones?
 
-## 9. Weiterführende Literatur
+## 10. Weiterführende Literatur
 
 - Allen, Roger. 1982. *The Arabic Novel: An Historical and Critical Introduction*. Syracuse: Syracuse University Press.
 - Badawi, M. M. (Hg.). 1992. *Modern Arabic Literature*. Cambridge: Cambridge University Press.
 - Starkey, Paul. 2006. *Modern Arabic Literature*. Edinburgh: Edinburgh University Press.
 - Snir, Reuven. 2017. *Modern Arabic Literature: A Theoretical Framework*. Edinburgh: Edinburgh University Press.
+- Colla, Elliott. 2008. “How Zaynab Became the First Arabic Novel.” *History Compass* 6. DOI: 10.1111/j.1478-0542.2008.00573.x. (Kritische Analyse der späteren Kanonisierung von *Zaynab*.)
 - Johnson, Rebecca C. 2026. “The Novel.” In Michael Allan und Zeina G. Halabi (Hg.), *The Cambridge Companion to Modern Arabic Literature*. Cambridge: Cambridge University Press. Online veröffentlicht am 18. Juli 2026. DOI des Sammelbands: 10.1017/9781009748810.
 
 ## Verwandte Artikel
