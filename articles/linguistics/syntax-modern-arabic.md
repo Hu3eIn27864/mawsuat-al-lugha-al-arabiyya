@@ -82,7 +82,7 @@ Theoretische Analysen – etwa generative, funktionalistische, konstruktionsgram
 ## 13. Weiterführende Literatur
 
 - Ryding, Karin C. 2005. *A Reference Grammar of Modern Standard Arabic*. Cambridge University Press.
-- Benmamoun, Elabbas. 2017. “VSO Word Order, Primarily in Arabic Languages.” In *The Wiley Blackwell Companion to Syntax*, 2nd ed. DOI: 10.1002/9781118358733.wbsyncom060.
+- Benmamoun, Elabbas. 2018. “VSO Word Order, Primarily in Arabic Languages.” In *The Wiley Blackwell Companion to Syntax*, 2nd ed., pp. 1–30. DOI: 10.1002/9781118358733.wbsyncom060.
 - Alshammari, Ahmad Radi. 2023. “Analyzing word order variation and agreement asymmetry in SVO and VSO structures of Standard Arabic: Towards a unified account.” *Cogent Arts & Humanities* 10(2). DOI: 10.1080/23311983.2023.2268920.
 - Tucker, Matthew A. *The Morphosyntax of the Arabic Verb*. Dissertation, University of California, Santa Cruz.
 
