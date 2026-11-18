@@ -342,3 +342,18 @@ Ein regionaler Überblick wurde erstellt und in Literatur-README, Literaturüber
 **Methodischer Hinweis:** Die Kategorien arabisch-, französisch- und amazighsprachig werden als Beschreibung von Text- und Publikationsräumen verwendet, nicht als starre Identitäten. Amazighsprachige Literatur wird als eigenständiges Feld mit eigenen Sprach- und Institutionsgeschichten behandelt. Die Darstellung reduziert algerische Literatur nicht auf Widerstandsliteratur oder auf die Bürgerkriegsjahre.
 
 **Prüfgrenze:** Der Überblick ersetzt keine vollständige Geschichte der algerischen Literatur in den einzelnen Sprachen. Insbesondere amazighsprachige Primärtexte, regionale Literaturgeschichten, Verlagsarchive und arabischsprachige Rezeptionsforschung bedürfen weiterer systematischer Erschließung. Der Beitrag ist nicht extern peer-reviewt.
+
+
+## Sechzehnte Prüfrunde: Kateb Yacine und die algerische Mehrsprachigkeit (18.11.2026)
+
+Ein weiteres Autor:innenprofil wurde erstellt und mit dem regionalen Überblick sowie den zentralen Literaturverzeichnissen verknüpft:
+
+- `articles/literature/authors/kateb-yacine.md`
+
+**Inhaltliche Schwerpunkte und Quellenbasis:**
+
+- **Kāteb Yāsīn:** *Nedjma* (1956), nichtlineare Erzählstruktur, Verflechtung von Lyrik, Roman und Theater sowie die spätere Theaterarbeit in algerischem Arabisch. Quellenbasis: Yale University, Larousse, Jean Déjeux (1973), Dominique Combe (2022) und Leticia Villasenor (2015).
+- Das Profil beschreibt den Sprachwechsel vom französischsprachigen Roman zur populären Theaterarbeit in algerischem Arabisch, ohne diese Phasen als Bruch oder als eindeutige nationale Sprachidentität zu vereinfachen.
+- Die Ereignisse vom 8. Mai 1945 werden als prägende biographische und historische Erfahrung eingeordnet, nicht als vollständige Erklärung der ästhetischen Form von *Nedjma*.
+
+**Prüfgrenze:** Das Profil ist ein Einstieg und keine vollständige Werkausgabe oder kritische Edition. Für die Theatertexte, die arabischsprachigen Aufführungsfassungen und die Werkgenese von *Nedjma* sind weitere Primärquellen und Editionsstudien erforderlich; der Beitrag ist nicht extern peer-reviewt.
