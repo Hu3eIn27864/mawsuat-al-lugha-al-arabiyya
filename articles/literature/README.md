@@ -38,6 +38,9 @@ Hier entstehen Artikel zu Theorien, Methoden, Gattungen, Epochen, literarischen 
 - [Laṭīfa al-Zayyāt – لطيفة الزيات](authors/latifa-al-zayyat.md)
 - [Ḥanān al-Šayḫ – حنان الشيخ](authors/hanan-al-shaykh.md)
 - [Raḍwā ʿĀšūr – رضوى عاشور](authors/radwa-ashour.md)
+- [Fadwā Ṭūqān – فدوى طوقان](authors/fadwa-tuqan.md)
+- [ʿĀsiyā Ǧabbār – آسيا جبار](authors/assia-djebar.md)
+- [Ġāda al-Sammān – غادة السمان](authors/ghada-al-samman.md)
 
 ## Terminologie
 
