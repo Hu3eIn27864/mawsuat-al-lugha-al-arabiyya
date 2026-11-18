@@ -47,6 +47,14 @@ Diese Datei sammelt verifizierte Literatur und Ressourcen. Einträge werden erst
 - Snir, Reuven. 2017. *Modern Arabic Literature: A Theoretical Framework*. Edinburgh: Edinburgh University Press. DOI: 10.3366/edinburgh/9781474420518.001.0001. (Theoretischer Rahmen für die Analyse moderner Literatursysteme.)
 - Harb, Lara. 2020. “Arabic Literary Theory.” *Oxford Research Encyclopedia of Literature*. DOI: 10.1093/acrefore/9780190201098.013.989. (Historischer Überblick zur arabischen Literaturtheorie.)
 - Allan, Michael und Zeina G. Halabi (Hg.). 2026. *The Cambridge Companion to Modern Arabic Literature*. Cambridge: Cambridge University Press. DOI: 10.1017/9781009748810. (Aktuelle Perspektiven auf Zeit, Sprache, Geographie, Medien und Weltliteratur.)
+- Elsadda, Hoda. 2012. *Gender, Nation, and the Arabic Novel: Egypt, 1892–2008*. Syracuse University Press. ISBN: 9780815632962. (Geschlecht, nationale Imagination und Kanonbildung in der ägyptischen Romanliteratur.)
+- Ashour, Radwa, Ferial Ghazoul und Hasna Reda-Mekdashi (Hg.). 2008. *Arab Women Writers: A Critical Reference Guide, 1873–1999*. American University in Cairo Press. DOI: 10.5743/cairo/9789774161469.001.0001. (Bibliographischer und kritischer Überblick zu arabischen Autorinnen.)
+- Oladosu, Afis Ayinde. 2024. „Modern Sudanese Literature“. *Oxford Research Encyclopedia of Literature*. DOI: 10.1093/acrefore/9780190201098.013.1442.
+- al-Ghadeer, Moneera. 2026. „Khalij“. In *The Cambridge Companion to Modern Arabic Literature*, S. 157–173. Cambridge University Press. DOI: 10.1017/9781009748810.012.
+- El Guabli, Brahim. 2026. „Darija and Tamazight“. In *The Cambridge Companion to Modern Arabic Literature*, S. 99–115. Cambridge University Press. DOI: 10.1017/9781009748810.007.
+- Kassab-Charfi, Samia. 2026. „Maghrib“. In *The Cambridge Companion to Modern Arabic Literature*, S. 141–156. Cambridge University Press. DOI: 10.1017/9781009748810.011.
+- Tijani, Olatunbosun Ishaq. 2017. „Kuwait“. In Waïl S. Hassan (Hg.), *The Oxford Handbook of Arab Novelistic Traditions*. Oxford University Press. DOI: 10.1093/oxfordhb/9780199349791.013.18.
+- Jack, Belinda. 1996. „The Maghreb“. In *Francophone Literatures: An Introductory Survey*, S. 163–164. Oxford University Press. DOI: 10.1093/oso/9780198715078.003.0009.
 - Fakhreddine, Huda J. 2021. *The Arabic Prose Poem: Poetic Theory and Practice*. Edinburgh: Edinburgh University Press. ISBN: 9781474474962. (Theorie und Praxis des arabischen Prosagedichts.)
 - Fakhreddine, Huda und Suzanne Pinckney Stetkevych (Hg.). 2023. *The Routledge Handbook of Arabic Poetry*. Routledge. ISBN: 9781003096955. (Forschungsüberblick zu historischen Kontinuitäten und gegenwärtiger arabischer Lyrik.)
 - Colla, Elliott. 2008. “How Zaynab Became the First Arabic Novel.” *History Compass* 6. DOI: 10.1111/j.1478-0542.2008.00573.x. (Kritik an der späteren Kanonisierung von *Zaynab* als „erstem“ arabischen Roman.)
