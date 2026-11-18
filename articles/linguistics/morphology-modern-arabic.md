@@ -28,20 +28,20 @@ Die Analyse als Wurzel plus Muster ist ein produktives Modell, aber keine mechan
 
 Die arabische Verbalderivation wird häufig anhand nummerierter Formen (I–X und weiterer, seltenerer Muster) dargestellt. Die Formen bündeln typische, aber nicht ausnahmslos feste Bedeutungsbeiträge wie Kausativität, Reflexivität, Reziprozität oder Intensivierung.
 
-| Form | Schema (starke Wurzel) | Beispiel aus ك-ت-ب | Typische Tendenz |
+| Form | Schema (starke Wurzel) | Beispiel | Typische Tendenz |
 |---|---|---|---|
 | I | faʿala / faʿila / faʿula | كَتَبَ *kataba* | Grundlexem; semantisch vielfältig |
-| II | faʿʿala | كَتَّبَ *kattaba* | häufig Intensivierung oder Kausativität |
-| III | fāʿala | كَاتَبَ *kātaba* | häufig relationale / reziproke Bedeutung |
-| IV | ʾafʿala | أَكْتَبَ *ʾaktaba* | häufig Kausativität |
-| V | tafaʿʿala | تَكَتَّبَ *takattaba* | oft reflexiv/passivisch zu II |
-| VI | tafāʿala | تَكَاتَبَ *takātaba* | oft reziprok zu III |
-| VII | infaʿala | اِنْفَعَلَ *infaʿala* | häufig medial / passivisch |
-| VIII | iftaʿala | اِكْتَتَبَ *iktataba* | vielfältige lexikalisierte Funktionen |
+| II | faʿʿala | عَلَّمَ *ʿallama* | häufig Intensivierung oder Kausativität |
+| III | fāʿala | قَاتَلَ *qātala* | häufig relationale / reziproke Bedeutung |
+| IV | ʾafʿala | أَخْرَجَ *ʾaḫraǧa* | häufig Kausativität |
+| V | tafaʿʿala | تَعَلَّمَ *taʿallama* | oft reflexiv/passivisch zu II |
+| VI | tafāʿala | تَقَاتَلَ *taqātala* | oft reziprok zu III |
+| VII | infaʿala | اِنْكَسَرَ *inkasara* | häufig medial / passivisch |
+| VIII | iftaʿala | اِجْتَمَعَ *iǧtamaʿa* | vielfältige lexikalisierte Funktionen |
 | IX | ifʿalla | اِحْمَرَّ *iḥmarra* | häufig Farben und Zustände |
-| X | istafʿala | اِسْتَكْتَبَ *istaktaba* | häufig Erbitten / Veranlassen |
+| X | istafʿala | اِسْتَغْفَرَ *istaġfara* | häufig Erbitten / Veranlassen |
 
-Die Tabelle ist schematisch. Nicht jede Wurzel bildet alle Formen, und die Bedeutungen sind lexikalisch konventionalisiert. Formnummern sind deshalb keine universell verlässlichen Übersetzungsregeln. Die Formen VIII und IX zeigen zudem Assimilationen bzw. besondere phonologische Bedingungen, die eine schematische Darstellung nur begrenzt abbildet.
+Die Beispiele illustrieren die Muster jeweils mit unterschiedlichen Wurzeln; sie sollen ausdrücklich nicht suggerieren, dass jede Wurzel alle Formen bildet. Die Bedeutungsangaben sind prototypische Tendenzen, keine festen grammatischen Übersetzungsregeln. Die Formen VIII und IX zeigen zudem Assimilationen bzw. besondere phonologische Bedingungen, die eine schematische Darstellung nur begrenzt abbildet. Gerade bei schwachen, hamzierten und geminierten Wurzeln weicht die Oberflächenform von einem einfachen Schema ab; solche Verben benötigen eigene Paradigmen und morphophonologische Regeln.
 
 ## 4. Flexion des Verbs
 
@@ -55,11 +55,11 @@ Das Imperfekt tritt in unterschiedlichen Modusformen auf: Indikativ (المرف�
 
 ## 5. Nominalmorphologie
 
-Nomina können Genus (Maskulinum/Femininum), Numerus (Singular, Dual, Plural) und – in formeller Standardsprache – Kasus markieren. Der Dual ist im MSA produktiv und wird typischerweise durch -āni im Nominativ und -ayni in Akkusativ und Genitiv ausgedrückt, mit Kontext- und Anschlussvarianten.
+Nomina können Genus (Maskulinum/Femininum), Numerus (Singular, Dual, Plural) und – in formeller Standardsprache – Kasus markieren. Der Dual ist im MSA produktiv: Im Nominativ steht typischerweise -āni, in Akkusativ und Genitiv -ayni. In der iḍāfa-Verbindung fällt das auslautende -n aus (z. B. *kitābā ṭ-ṭālibi*, „die zwei Bücher des Studierenden“); bei angefügten Pronominalsuffixen gelten ebenfalls besondere Anschlussformen.
 
 Pluralbildung erfolgt unter anderem durch:
-- **Sound masculine plural** (جمع المذكر السالم): häufig -ūna / -īna.
-- **Sound feminine plural** (جمع المؤنث السالم): häufig -āt.
+- **Sound masculine plural** (جمع المذكر السالم): häufig -ūna im Nominativ und -īna in Akkusativ und Genitiv; in der iḍāfa-Verbindung entfällt das auslautende -n.
+- **Sound feminine plural** (جمع المؤنث السالم): häufig -āt; die Kasusmarkierung erfolgt am Pluralmarker.
 - **Broken plural** (جمع التكسير): interne Stammveränderung, z. B. كِتَاب *kitāb* → كُتُب *kutub*.
 
 Gebrochene Plurale sind lexikalisch geprägt und müssen oft zusammen mit dem jeweiligen Nomen gelernt werden. Ihre Muster weisen Regelmäßigkeiten auf, erlauben aber keine vollständig zuverlässige Vorhersage allein aus dem Singular.
