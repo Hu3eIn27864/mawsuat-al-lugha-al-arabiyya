@@ -1,0 +1,90 @@
+# Redaktioneller Prüfbericht – 18. November 2026
+
+**Gegenstand:** Bestandsprüfung der zwölf vorhandenen Fachartikel, der Projektbibliographie und der redaktionellen Standards.  
+**Prüfstatus:** Erste redaktionelle Quellen- und Strukturprüfung; kein externes Peer Review und keine vollständige fachliche Validierung aller Einzelaussagen.
+
+## 1. Kurzbefund
+
+Das Repository verfügt über einen tragfähigen Grundbestand mit zwölf Fachartikeln in Linguistik, Soziolinguistik und Literaturwissenschaft. Die Artikel sind thematisch sinnvoll abgegrenzt und berücksichtigen vielfach wichtige Differenzierungen zwischen modernem Hocharabisch, klassischen Sprachstufen und gesprochenen Varietäten.
+
+Der größte systematische Verbesserungsbedarf liegt nicht in der Themenauswahl, sondern in der wissenschaftlichen Nachweisführung: Die Artikel führen Literatur am Ende auf, verknüpfen konkrete Aussagen aber noch zu selten mit präzisen Fundstellen. Die redaktionellen Standards verlangen ausdrücklich, dass der Bezug zwischen Quelle und Aussage erkennbar ist.
+
+## 2. Geprüfter Artikelbestand
+
+### Linguistik
+- `articles/linguistics/modern-standard-arabic.md`
+- `articles/linguistics/phonology-modern-standard-arabic.md`
+- `articles/linguistics/morphology-modern-arabic.md`
+- `articles/linguistics/syntax-modern-arabic.md`
+- `articles/linguistics/semantics-and-pragmatics-arabic.md`
+- `articles/linguistics/corpus-linguistics-arabic.md`
+
+### Soziolinguistik
+- `articles/sociolinguistics/diglossia-and-register-variation.md`
+- `articles/sociolinguistics/arabic-dialectology.md`
+
+### Literaturwissenschaft
+- `articles/literature/modern-arabic-literature-overview.md`
+- `articles/literature/modern-arabic-novel.md`
+- `articles/literature/modern-arabic-poetry.md`
+- `articles/literature/modern-arabic-short-story-and-theatre.md`
+
+## 3. Positive Befunde
+
+- Die Artikel unterscheiden MSA und gesprochene Varietäten grundsätzlich und vermeiden eine defizitorientierte Beschreibung von Dialekten.
+- Die Beiträge zu Diglossie und Registervariation weisen ausdrücklich auf Grenzen binärer High/Low-Modelle hin.
+- Die Morphologie- und Syntaxartikel stellen traditionelle arabische Kategorien neben moderne linguistische Analysebegriffe.
+- Der Korpusartikel berücksichtigt Repräsentativität, Orthographievariation, Annotation, Lizenzfragen, Datenschutz und Reproduzierbarkeit.
+- Die Literaturartikel vermeiden eine einfache Fortschrittserzählung, in der moderne arabische Literatur als bloße Nachahmung europäischer Formen erscheint.
+- Die Mastergliederung enthält Verweise auf vorhandene Artikel; die bei der Bestandsprüfung gefundenen Markdown-Verweise in der Hauptgliederung waren sämtlich auflösbar.
+
+## 4. Bibliographische Korrekturen in dieser Prüfungsrunde
+
+Folgende Angaben wurden anhand von Verlags- bzw. Proceedings-Metadaten überprüft und im Repository korrigiert oder präzisiert:
+
+1. **Benmamoun:** Das Kapitel „VSO Word Order, Primarily in Arabic Languages“ ist mit 2018 und Seiten 1–30 nachgewiesen, nicht mit 2017. DOI: 10.1002/9781118358733.wbsyncom060.
+2. **Watson:** Der DOI des Buches *The Phonology and Morphology of Arabic* lautet 10.1093/oso/9780199257591.001.0001. Die empirische Schwerpunktsetzung auf Kairener und Ṣanʿānī-Arabisch wird jetzt ausdrücklich kenntlich gemacht; das Werk sollte nicht als reine MSA-Grammatik dargestellt werden.
+3. **Ditters:** Die aktualisierte Fassung des Kapitels „Issues in Arabic Computational Linguistics“ hat den DOI 10.1093/oxfordhb/9780199764136.013.010_update_001 und umfasst S. 213–240.
+4. **MADAR:** Der Korpuseintrag wurde um die vollständigen Autor:innenangaben und den DOI 10.63317/4wv9mx9ftkrk ergänzt. Der Artikel beschreibt die Ressource präziser als paralleles Korpus und Lexikon für 25 Stadtvarietäten im Reisedomänenbereich.
+5. **Johnson:** Das Kapitel „The Novel“ von Rebecca C. Johnson im *Cambridge Companion to Modern Arabic Literature* (2026) ist als Kapitel des 2026 erschienenen Sammelbands verifiziert; die bibliographische Angabe im Romanartikel wurde vervollständigt.
+
+Auch Rydings *A Reference Grammar of Modern Standard Arabic* (2005) und Badawis *A Short History of Modern Arabic Literature* (1993) wurden anhand der Verlagsmetadaten gegengeprüft; die vorhandenen Jahres- und DOI-Angaben sind plausibel und bestätigt.
+
+## 5. Noch offene wissenschaftliche Aufgaben
+
+### Priorität A – Nachweisführung
+- Bei zentralen Definitionen, historischen Periodisierungen, typologischen Generalisierungen und strittigen Analysen konkrete In-Text-Belege ergänzen.
+- Wo möglich Kapitel- und Seitenangaben ergänzen; keine Seitenzahlen ohne Prüfung eintragen.
+- Primärliteratur, Überblickswerke und Einzelstudien klarer unterscheiden.
+- Aussagen über „typische“ Muster mit Varietät, Register und Datenbasis einschränken.
+
+### Priorität B – Artikelinhalt
+- **Phonologie:** IPA-Inventar und phonologische Analyse stärker mit Variation in Aussprache und Register verbinden; phonemische Analyse nicht als einheitliche Aussprachevorschrift darstellen.
+- **Morphologie:** Paradigmen und Beispiele systematisch auf starke, schwache und geminierte Wurzeln prüfen; Formen I–X durch Belege und Literatur zu Produktivität ergänzen.
+- **Syntax:** Wortstellung und Kongruenzasymmetrie mit mehreren Analysen und klarer Trennung zwischen Datenbeschreibung und Theorie ausbauen.
+- **Semantik/Pragmatik:** mehr konkrete arabische Beispiele mit Kontext, Glossierung und Quellenangabe aufnehmen.
+- **Soziolinguistik:** regionale Großgruppen nicht als homogene Einheiten behandeln; soziale und situative Variation anhand konkreter Studien dokumentieren.
+- **Literaturwissenschaft:** stärker auf arabische Primärtexte, Erstausgaben, regionale Publikationsgeschichten und Forschungsliteratur verweisen; Autor:innen- und Werkartikel sollten konkrete Primärquellen enthalten.
+
+### Priorität C – Redaktion und Infrastruktur
+- Einheitliche Statuszeile in allen Artikeln einführen (Entwurf / in Bearbeitung / fachlich geprüft).
+- Einen Transliterationsleitfaden verbindlich festlegen.
+- Für jeden Artikel eine kurze Liste „Zentrale Aussagen und Belegstellen“ oder konsequente In-Text-Zitation vorsehen.
+- Review-Protokolle mit Datum, Fachgebiet, Prüfumfang und dokumentierten Änderungen einführen.
+- Automatisierte Link- und Markdown-Prüfung einrichten.
+
+## 6. Grenzen dieser Prüfung
+
+Diese Runde war eine redaktionelle Stichproben- und Metadatenprüfung. Sie ersetzt weder die vollständige Prüfung jedes einzelnen Beispiels noch ein fachliches Gutachten durch Arabist:innen, Linguist:innen oder Literaturwissenschaftler:innen. Insbesondere wurden nicht alle bibliographischen Einträge und nicht sämtliche Einzelbehauptungen extern verifiziert.
+
+**Empfohlener Status des Gesamtprojekts:** wissenschaftlicher Arbeitsbestand / öffentliche Beta in Entwicklung. Die Bezeichnung „fachlich geprüft“ sollte erst nach dokumentiertem externem Review einzelner Artikel verwendet werden.
+
+## 7. Verifizierte externe Metadaten (Auswahl)
+
+- Ryding, Karin C. 2005. *A Reference Grammar of Modern Standard Arabic*. Cambridge University Press. https://doi.org/10.1017/CBO9780511486975
+- Watson, Janet C. E. 2002. *The Phonology and Morphology of Arabic*. Oxford University Press. https://doi.org/10.1093/oso/9780199257591.001.0001
+- Benmamoun, Elabbas. 2018. “VSO Word Order, Primarily in Arabic Languages.” https://doi.org/10.1002/9781118358733.wbsyncom060
+- Ditters, Everhard. 2013; updated 2017. “Issues in Arabic Computational Linguistics.” https://doi.org/10.1093/oxfordhb/9780199764136.013.010_update_001
+- Bouamor et al. 2018. “The MADAR Arabic Dialect Corpus and Lexicon.” https://doi.org/10.63317/4wv9mx9ftkrk
+- Allan, Michael und Zeina G. Halabi (Hg.). 2026. *The Cambridge Companion to Modern Arabic Literature*. https://doi.org/10.1017/9781009748810
+- Badawi, M. M. 1993. *A Short History of Modern Arabic Literature*. https://doi.org/10.1093/oso/9780198265429.001.0001
