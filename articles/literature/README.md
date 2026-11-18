@@ -57,6 +57,7 @@ Hier entstehen Artikel zu Theorien, Methoden, Gattungen, Epochen, literarischen 
 - [Sulṭān al-ʿAmīmī – سلطان العميمي](authors/sultan-al-ameemi.md)
 - [Āmil Muḫtār – آمال مختار](authors/amel-mokhtar.md)
 - [Muḥammad Barrāda – محمد برادة](authors/mohammed-berrada.md)
+- [Kāteb Yāsīn – كاتب ياسين](authors/kateb-yacine.md)
 
 ## Terminologie
 
