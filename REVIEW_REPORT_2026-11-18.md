@@ -267,3 +267,28 @@ Drei weitere Profile ergänzen die regionale Streuung der Autorinnenauswahl:
 - **Buṯayna al-ʿĪsā:** kuwaitische Autorin und Verlegerin; Zensur, literarische Imagination und kulturelle Infrastruktur. Quellenbasis: Fondation Jan Michalski, National Book Foundation und Banipal.
 
 **Methodischer Hinweis:** Abū al-ʿAlās englischsprachiges Werk wird ausdrücklich als Teil einer mehrsprachigen Literaturgeschichte berücksichtigt, nicht nachträglich als arabischsprachige Literatur etikettiert. Die Profile sind Einführungen und nicht extern peer-reviewt.
+
+
+## Zwölfte Prüfrunde: Jemenitische, marokkanische, bahrainische und emiratische Literatur (18.11.2026)
+
+Fünf Autor:innenprofile und ein regionaler Überblick wurden angelegt und in Literatur-README, Überblick und Mastergliederung aufgenommen:
+
+- `articles/literature/authors/wajdi-al-ahdal.md`
+- `articles/literature/authors/ali-al-muqri.md`
+- `articles/literature/authors/leila-abouzeid.md`
+- `articles/literature/authors/qassim-haddad.md`
+- `articles/literature/authors/sultan-al-ameemi.md`
+- `articles/literature/regions/yemeni-literature.md`
+
+**Inhaltliche Schwerpunkte und Quellenbasis:**
+
+- **Waǧdī al-Ahdal:** Satire, Parodie, Groteske und narrative Entwicklung; Suvorovs peer-reviewte Studie (2020) sowie ein jemenitischer Fachaufsatz (2025).
+- **ʿAlī al-Muqri:** soziale Marginalisierung und Rassifizierung in *Ṭaʿm aswad, rāʾiḥa sawdāʾ*; zwei Fachaufsätze mit DOI zu Identität, Geschlecht und Gewalt in jemenitischer Gegenwartsliteratur.
+- **Laylā Abū Zayd:** arabischsprachige marokkanische Literatur und koloniale Sprachgeschichte; Verlagsbeschreibung der AUC Press zu *The Last Chapter*. Erscheinungsdaten der arabischen Erstausgaben bleiben zu prüfen.
+- **Qāsim Ḥaddād:** moderne bahrainische Lyrik, poetische Experimente und literarische Institutionen; Sultan-Bin-Ali-al-Owais-Kulturstiftung, Michigan Quarterly Review und Akademie Schloss Solitude. Quellen nennen beim Geburtsjahr 1948 oder 1949; das Profil kennzeichnet die Abweichung.
+- **Sulṭān al-ʿAmīmī:** emiratischer Roman, Kurzgeschichte und Nabati-Dichtung; International Prize for Arabic Fiction und Abu Dhabi Arabic Language Centre.
+- **Jemenitische Literatur:** regionale und institutionelle Vielfalt, Publikations- und Distributionsbedingungen, Krieg/Migration sowie die Darstellung sozialer Marginalisierung. Die regionale Kategorie wird ausdrücklich nicht als homogenes Sprach- oder Identitätsfeld behandelt.
+
+**Redaktionelle Korrektur:** Die Profilbibliographie von Leila Abouzeid wurde auf direkt einschlägige Verlags- und Literaturquellen beschränkt; ein zuvor aufgeführter allgemeiner Tunesien-Titel wurde entfernt.
+
+**Prüfgrenze:** Die sechs Texte sind Einführungen und keine abgeschlossenen nationalen Literaturgeschichten oder vollständigen Werkbibliographien. Arabische Erstausgaben, genaue Publikationsjahre und Primärtextanalysen bleiben zu ergänzen. Die Beiträge sind nicht extern peer-reviewt.
