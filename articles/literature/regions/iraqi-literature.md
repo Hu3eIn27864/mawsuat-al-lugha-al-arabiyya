@@ -17,7 +17,7 @@ Presse, Bildung, Übersetzung und die Entwicklung moderner literarischer Öffent
 
 Bagdad und andere Städte wurden zu wichtigen literarischen Zentren. Badr Šākir al-Sayyāb steht für die Transformation der arabischen Lyrik und die Verbindung von Mythos, Landschaft, politischer Erfahrung und formaler Innovation. Seine Bedeutung darf die Vielfalt anderer Dichter:innen und literarischer Milieus nicht verdecken.
 
-In der Prosa entwickelten sich sozialrealistische, historische, modernistische und experimentelle Formen. Haytham Bahoora zeigt in seiner Studie zur irakischen Romantradition, wie sich Erzählprosa, soziale Kritik, Innerlichkeit, Modernismus und politische Erfahrung wechselseitig veränderten.
+In der Prosa entwickelten sich sozialrealistische, historische, modernistische und experimentelle Formen. Haytham Bahoora zeigt in seiner Studie zur irakischen Romantradition, wie sich Erzählprosa, soziale Kritik, Innerlichkeit, Modernismus und politische Erfahrung wechselseitig veränderten. Die frühe Entwicklung ist dabei nicht als lineare Verspätungsgeschichte zu erzählen: Bereits in den 1920er bis 1940er Jahren erschienen längere Erzähltexte und Romane, deren Gattungsgrenzen zur Kurzgeschichte fließend waren. Die Forschung zu Maḥmūd Aḥmad al-Sayyid und frühen Formen der Erzählprosa betont die produktive Aneignung lokaler Prosatraditionen und internationaler Formen.
 
 ### 2.3 Diktatur, Krieg, Sanktionen und 2003
 
@@ -35,7 +35,7 @@ Die Anthologie *Contemporary Iraqi Fiction*, herausgegeben von Shakir Mustafa (2
 
 ## 4. Autor:innen und Lektürezugänge
 
-Al-Sayyāb ist ein zentraler Bezugspunkt für moderne Lyrik. In der Prosa sind unter anderem Muḥammad Ḫuḍayyir, Fuʾād al-Takarlī, Ġāʾib Ṭuʿma Farmān, Inʿām Kaǧaǧī und Maysalūn Hādī wichtige Namen für unterschiedliche Generationen und ästhetische Verfahren. Eine Autor:innenliste sollte stets nach Gattung, Generation, Region, Sprache und Publikationskontext erweitert werden; sie ist kein abschließender Kanon.
+Al-Sayyāb ist ein zentraler Bezugspunkt für moderne Lyrik. In der Prosa sind unter anderem Muḥammad Ḫuḍayyir, Fuʾād al-Takarlī, Ġāʾib Ṭuʿma Farmān, Inʿām Kaǧaǧī und Maysalūn Hādī wichtige Namen für unterschiedliche Generationen und ästhetische Verfahren. Farmāns *al-Naḫla wa-l-ǧīrān* (1966) wird häufig als Markstein des künstlerisch ausgereiften irakischen Romans gelesen; die Bezeichnung als „erster“ Roman wäre angesichts früherer Publikationen jedoch irreführend. Seine Darstellung Bagdads verbindet Sozialrealismus, Mehrstimmigkeit und eine genaue Poetik des städtischen Raums. Eine Autor:innenliste sollte stets nach Gattung, Generation, Region, Sprache und Publikationskontext erweitert werden; sie ist kein abschließender Kanon.
 
 ## 5. Diaspora und transnationale Zirkulation
 
@@ -55,6 +55,9 @@ Viele irakische Autor:innen publizieren oder leben außerhalb des Irak. Exil ist
 
 ## 8. Literatur und Quellen
 
+- Caiani, Fabio und Catherine Cobham. 2013. *The Iraqi Novel: Key Writers, Key Texts*. Edinburgh University Press. DOI: [10.3366/edinburgh/9780748641413.001.0001](https://doi.org/10.3366/edinburgh/9780748641413.001.0001).
+- Caiani, Fabio und Catherine Cobham. 2010. „Bread and Cinema: Baghdad in *al-Nakhla wa-'l-jīrān* by Ghā'ib Ṭu‘ma Farmān“. *Middle Eastern Literatures* 13(3): 231–259. DOI: [10.1080/1475262X.2010.523203](https://doi.org/10.1080/1475262X.2010.523203).
+- Bahoora, Haytham. 2024. „The Emergence of Modern Prose Narrative in Iraq: Mahmud Ahmad al-Sayyid and the Search for Form“. *Journal of Arabic Literature* 56(1): bibliographische Endseitenangaben im Verlagsdatensatz prüfen.
 - Bahoora, Haytham. 2017. “Iraq.” In Waïl S. Hassan (Hg.), *The Oxford Handbook of Arab Novelistic Traditions*, S. 247–264. Oxford University Press. DOI: [10.1093/oxfordhb/9780199349791.013.16](https://doi.org/10.1093/oxfordhb/9780199349791.013.16).
 - Mustafa, Shakir (Hg. und Übers.). 2018. *Contemporary Iraqi Fiction: An Anthology*. Syracuse University Press.
 - Yousif, Salaam. 2023. “Perspectives on Modern Iraqi Literature and Literary Figures.” *Journal of Contemporary Iraq & the Arab World* 17(1–2): 3–7. DOI: [10.1386/jciaw_00080_2](https://doi.org/10.1386/jciaw_00080_2).
@@ -65,4 +68,5 @@ Viele irakische Autor:innen publizieren oder leben außerhalb des Irak. Exil ist
 - [Moderne arabische Literatur: Überblick](../modern-arabic-literature-overview.md)
 - [Moderne arabische Lyrik](../modern-arabic-poetry.md)
 - [Badr Šākir al-Sayyāb](../authors/badr-shakir-al-sayyab.md)
+- [Ġāʾib Ṭuʿma Farmān](../authors/ghaib-tuma-farman.md)
 - [Literatur der Levante](levantine-literature.md)
