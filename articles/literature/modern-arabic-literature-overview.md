@@ -89,6 +89,7 @@ Bei der Auswahl von Autor:innen und Texten ist darauf zu achten, dass internatio
 - [Sudanesische Literatur](regions/sudanese-literature.md)
 - [Palästinensische Literatur](regions/palestinian-literature.md)
 - [Irakische Literatur](regions/iraqi-literature.md)
+- [Kurdischsprachige Literatur im Irak](regions/iraqi-kurdish-literature.md) (ergänzender mehrsprachiger Kontext; nicht Teil einer engeren Definition arabischsprachiger Literatur)
 - [Literatur der Levante](regions/levantine-literature.md)
 - [Jemenitische Literatur](regions/yemeni-literature.md)
 - [Tunesische Literatur](regions/tunisian-literature.md)
@@ -130,6 +131,7 @@ Bei der Auswahl von Autor:innen und Texten ist darauf zu achten, dass internatio
 - [Aḥmad Saʿdāwī](authors/ahmed-saadawi.md)
 - [Sinān Anṭūn](authors/sinan-antoon.md)
 - [Ḥasan Blāsim](authors/hassan-blasim.md)
+- [Şêrko Bêkes](authors/sherko-bekas.md)
 
 ## 11. Weiterführende Literatur
 
