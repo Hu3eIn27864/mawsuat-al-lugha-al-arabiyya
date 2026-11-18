@@ -51,3 +51,8 @@ Al-Malāʾikas Werk gehört zum Kanon moderner arabischer Lyrik, zugleich bleibt
 - [Moderne arabische Lyrik](../modern-arabic-poetry.md)
 - [Überblick: Moderne und zeitgenössische arabische Literatur](../modern-arabic-literature-overview.md)
 - [Badr Šākir al-Sayyāb](badr-shakir-al-sayyab.md)
+
+
+## ملخص بالعربية
+
+نازك الملائكة (1923–2007) شاعرة وناقدة عراقية بارزة في تجديد الشعر العربي الحديث. ارتبط اسمها بقصيدة «الكوليرا» وبالتنظير لشعر التفعيلة، ولا سيما في كتابها «قضايا الشعر المعاصر» (1962). ولا ينبغي اختزال تاريخ الشعر الحر في اسم واحد؛ فمسألة الأسبقية وبداية الحركة تتطلب التمييز بين التجربة الشعرية الأولى والنشر والتبلور النقدي للحركة.
