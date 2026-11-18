@@ -193,6 +193,7 @@ Diese Gliederung definiert den fachlichen Rahmen der Enzyklopädie. Sie ist ein 
 - [Palästinensische Literatur](articles/literature/regions/palestinian-literature.md)
 - [Irakische Literatur](articles/literature/regions/iraqi-literature.md)
 - [Literatur der Levante](articles/literature/regions/levantine-literature.md)
+- [Jemenitische Literatur](articles/literature/regions/yemeni-literature.md)
 
 ## Teil XIV – Autorinnen, Autoren, Werke und Bewegungen | الكتّاب والأعمال والحركات الأدبية
 
@@ -224,6 +225,11 @@ Diese Gliederung definiert den fachlichen Rahmen der Enzyklopädie. Sie ist ein 
 - [Inʿām Kaǧaǧī – إنعام كجه جي](articles/literature/authors/inaam-kachachi.md)
 - [Laylā Abū al-ʿAlā – ليلى أبو العلا](articles/literature/authors/leila-aboulela.md)
 - [Buṯayna al-ʿĪsā – بثينة العيسى](articles/literature/authors/bothayna-al-essa.md)
+- [Waǧdī al-Ahdal – وجدي الأهدل](articles/literature/authors/wajdi-al-ahdal.md)
+- [ʿAlī al-Muqri – علي المقري](articles/literature/authors/ali-al-muqri.md)
+- [Laylā Abū Zayd – ليلى أبو زيد](articles/literature/authors/leila-abouzeid.md)
+- [Qāsim Ḥaddād – قاسم حداد](articles/literature/authors/qassim-haddad.md)
+- [Sulṭān al-ʿAmīmī – سلطان العميمي](articles/literature/authors/sultan-al-ameemi.md)
 
 ## Teil XV – Historischer Kontext und sprachliche Überlieferung | السياق التاريخي والتراث اللغوي
 
