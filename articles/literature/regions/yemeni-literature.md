@@ -33,12 +33,21 @@ Internationale Übersetzungen und Preise machen einzelne Autor:innen sichtbar, b
 - Wie werden Klasse, Rassifizierung, Geschlecht und soziale Marginalisierung dargestellt?
 - Wie beeinflussen Verlagswesen, Distribution, Übersetzung und internationale Preise die Sichtbarkeit jemenitischer Literatur?
 
-## 6. Auswahl weiterführender Forschung
+## 6. Romananfänge und Gegenwartsforschung
 
+Die Entstehung des jemenitischen Romans ist in der Forschung umstritten. Fatima Saeed Awadh Saeeds Untersuchung der Romane des 20. Jahrhunderts zeigt, dass die Debatte über den „ersten“ Roman nicht allein über nationale Publikationsorte entschieden werden kann: *Fatāt Qārūt* (1927) erschien außerhalb des Jemen, während andere Kritiker:innen *Saʿīd* von Muḥammad ʿAlī Luqmān (1939) als ersten Roman anführen. Die Frage verweist auf unterschiedliche Kriterien von Autorschaft, Publikationsort und nationaler Literaturgeschichte.
+
+Für die Gegenwartsliteratur liegen Studien zu Erzählfragmentierung, kollektiver Gewalt, Sprache und Geschlechterverhältnissen vor. Ein Beitrag von 2025 untersucht Zentrum-Peripherie-Konstellationen anhand von fünf Romanen aus den Jahren 2012–2019; eine Studie von 2024 analysiert die Darstellung weiblicher Stimmen und sozialer Geschlechterrollen in vier zeitgenössischen Romanen. Diese Arbeiten zeigen, dass die Forschung nicht auf die international bekanntesten Autor:innen beschränkt werden sollte.
+
+## 7. Auswahl weiterführender Forschung
+
+- Saeed, Fatima Saeed Awadh. 2022. *Yemeni Novels in the Twentieth Century: Their Inception and Development*. Masterarbeit, Freie Universität Berlin. DOI: 10.17169/refubium-41634.
 - Suvorov, Mikhail N. 2020. „Yemen and the Arab World in Wajdi al-Ahdal’s Novels: From Parody to Realism“. *Eurasian Arabic Studies* 9: 51–64.
 - al-Ḥaydarī, ʿAbd al-Fattāḥ Aḥmad ʿAbduh. 2025. „Lugat al-markaz wa-l-hāmiš fī al-riwāya al-yamaniyya al-muʿāṣira: dirāsa ṯaqāfiyya“. DOI: 10.35781/1637-000-118-006.
 - Rashed, Redhwan Qasem Ghaleb. „The World of Al-Akhdam in Ali Al-Muqri’s *Black Taste, Black Odour*“. DOI: 10.53286/arts.v6i4.2204.
 - Wasel, Esam. „Violence Against the Akhdam ‘Marginalized Black Community’ in Yemeni Fiction“. DOI: 10.53286/arts.v7i1.2382.
+- „The Woman and The Other in the Contemporary Yemeni Novel: A Socio-Textual Study“. 2024. *Sana'a University Journal of Human Sciences* 3(1). DOI: 10.59628/jhs.v3i1.958.
+- Ahmed Mocbil, Ahmed Saeed. 2025. „Narrative Disruption and Collective Trauma in Yemeni Novels“. DOI: 10.53898/jpes2025425.
 - ArabLit. 2020. „Four Writers on Finding Books in Yemen, Recommending Yemeni Writers“.
 
 ## ملخص بالعربية
