@@ -41,6 +41,9 @@ Hier entstehen Artikel zu Theorien, Methoden, Gattungen, Epochen, literarischen 
 - [Fadwā Ṭūqān – فدوى طوقان](authors/fadwa-tuqan.md)
 - [ʿĀsiyā Ǧabbār – آسيا جبار](authors/assia-djebar.md)
 - [Ġāda al-Sammān – غادة السمان](authors/ghada-al-samman.md)
+- [Hudā Barakāt – هدى بركات](authors/hoda-barakat.md)
+- [Ǧūḫa al-Ḥāriṯī – جوخة الحارثي](authors/jokha-al-harthi.md)
+- [Aḥlām Mustaġānimī – أحلام مستغانمي](authors/ahlam-mosteghanemi.md)
 
 ## Terminologie
 
