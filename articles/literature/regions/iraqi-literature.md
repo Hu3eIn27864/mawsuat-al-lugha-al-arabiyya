@@ -57,7 +57,7 @@ Viele irakische Autor:innen publizieren oder leben außerhalb des Irak. Exil ist
 
 - Caiani, Fabio und Catherine Cobham. 2013. *The Iraqi Novel: Key Writers, Key Texts*. Edinburgh University Press. DOI: [10.3366/edinburgh/9780748641413.001.0001](https://doi.org/10.3366/edinburgh/9780748641413.001.0001).
 - Caiani, Fabio und Catherine Cobham. 2010. „Bread and Cinema: Baghdad in *al-Nakhla wa-'l-jīrān* by Ghā'ib Ṭu‘ma Farmān“. *Middle Eastern Literatures* 13(3): 231–259. DOI: [10.1080/1475262X.2010.523203](https://doi.org/10.1080/1475262X.2010.523203).
-- Bahoora, Haytham. 2024. „The Emergence of Modern Prose Narrative in Iraq: Mahmud Ahmad al-Sayyid and the Search for Form“. *Journal of Arabic Literature* 56(1): bibliographische Endseitenangaben im Verlagsdatensatz prüfen.
+- Hanoosh, Yasmeen und Qussay Al-Attabi. 2025. „Prefatory Note: Cultural Production in Modern Iraq“. *Journal of Arabic Literature* 56(1–2): 1–3. DOI: [10.1163/1570064X-12341539](https://doi.org/10.1163/1570064X-12341539).
 - Bahoora, Haytham. 2017. “Iraq.” In Waïl S. Hassan (Hg.), *The Oxford Handbook of Arab Novelistic Traditions*, S. 247–264. Oxford University Press. DOI: [10.1093/oxfordhb/9780199349791.013.16](https://doi.org/10.1093/oxfordhb/9780199349791.013.16).
 - Mustafa, Shakir (Hg. und Übers.). 2018. *Contemporary Iraqi Fiction: An Anthology*. Syracuse University Press.
 - Yousif, Salaam. 2023. “Perspectives on Modern Iraqi Literature and Literary Figures.” *Journal of Contemporary Iraq & the Arab World* 17(1–2): 3–7. DOI: [10.1386/jciaw_00080_2](https://doi.org/10.1386/jciaw_00080_2).
