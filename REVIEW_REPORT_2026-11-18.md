@@ -292,3 +292,20 @@ Fünf Autor:innenprofile und ein regionaler Überblick wurden angelegt und in Li
 **Redaktionelle Korrektur:** Die Profilbibliographie von Leila Abouzeid wurde auf direkt einschlägige Verlags- und Literaturquellen beschränkt; ein zuvor aufgeführter allgemeiner Tunesien-Titel wurde entfernt.
 
 **Prüfgrenze:** Die sechs Texte sind Einführungen und keine abgeschlossenen nationalen Literaturgeschichten oder vollständigen Werkbibliographien. Arabische Erstausgaben, genaue Publikationsjahre und Primärtextanalysen bleiben zu ergänzen. Die Beiträge sind nicht extern peer-reviewt.
+
+
+## Dreizehnte Prüfrunde: Tunesische Literatur und Literatur nach 2011 (18.11.2026)
+
+Ein regionaler Überblick und ein Autorinnenprofil wurden erstellt und in die Literaturgliederung integriert:
+
+- `articles/literature/regions/tunisian-literature.md`
+- `articles/literature/authors/amel-mokhtar.md`
+
+**Inhaltliche Schwerpunkte und Quellenbasis:**
+
+- **Tunesische Literatur:** Mehrsprachigkeit (Arabisch und Französisch), Verschriftlichung der tunesischen Derja, Romanentwicklung unter kolonialen und postkolonialen Bedingungen, Zensur sowie literarische Reaktionen auf die Revolution von 2010/11. Quellenbasis: Mamelouk (2017), Mamelouk (2015), McNeil (2023), Pardey (2020) und Omri (2018).
+- **Āmil Muḫtār:** literarische Verhandlung von Geschlecht, politischer Öffentlichkeit und Revolution; herangezogen wurden Mamelouks Aufsatz zu tunesischen Autorinnen und eine arabischsprachige Studie von Senani (2022) zu *Nuḫab al-ḥayāt*.
+
+**Methodischer Hinweis:** Tunesische Derja wird als eigenständige literarische Schreibpraxis mit eigenen Orthographie- und Registerentscheidungen behandelt, nicht als bloße Abweichung von MSA. Arabisch- und französischsprachige Literatur werden als miteinander verbundene, aber nicht identische Publikations- und Rezeptionsräume untersucht.
+
+**Prüfgrenze:** Das Profil zu Āmil Muḫtār ist ein Einstieg und keine vollständige Werkbibliographie; die Primärausgaben sind weiter zu verifizieren. Der Regionalartikel ist ein Überblicksentwurf, nicht extern peer-reviewt.
