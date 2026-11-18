@@ -144,7 +144,7 @@ Fünf eigenständige Profile wurden neu angelegt und in der Literaturgliederung 
 
 Die Profile folgen einem gemeinsamen Schema aus Einordnung, Biografie, Werkentwicklung, Form bzw. Erzählverfahren, Kontext, Rezeption, Forschungsfragen und Quellen. Inhaltliche Schwerpunkte:
 
-- **Nāzik al-Malāʾika:** Gedicht „al-Kūlīrā“ (1947), frühe Sammlungen und poetologische Schrift *Qaḍāyā al-šiʿr al-muʿāṣir* (1962). Die häufige Zuschreibung als „erste“ freie Versdichterin wird als literaturhistorisch umstrittene Kurzformel qualifiziert.
+- **Nāzik al-Malāʾika:** Gedicht „al-Kūlīrā“ (1947), frühe Sammlungen und poetologische Schrift *Qaḍāyā al-šiʿr al-muʿāṣir* (1962). Die häufige Zuschreibung als „erste“ freie Versdichterin wird als literaturhistorisch umstrittene Kurzformel qualifiziert. Belege aus *PMLA* (Al-Attabi 2023) und Fakhreddines Forschung helfen, frühes Gedichtexperiment, Publikationspriorität und Konsolidierung der qaṣīdat al-tafʿīla zu unterscheiden.
 - **Badr Šākir al-Sayyāb:** „Unšūdat al-maṭar“ und die Verbindung von variabler metrischer Form, Mythos, politischer Erfahrung und Landschaft. Datierung der Erstveröffentlichung wird von späteren Sammlungsdaten unterschieden.
 - **Maḥmūd Darwīš:** Werkentwicklung von *Awrāq al-zaytūn* (1964) bis *Ǧidāriyya* (2000), Exil, Erinnerung und poetische Selbstreflexion. Das Profil vermeidet eine Reduktion auf die politische Etikettierung als „Widerstandsdichter“.
 - **Saʿdallāh Wannūs:** Theaterarbeit, Institutionen und die Frage nach Theater als politischer Öffentlichkeit. Die Darstellung stützt sich auf die Cambridge-Monographie von Mejcher-Atassi und Myers (2021).
