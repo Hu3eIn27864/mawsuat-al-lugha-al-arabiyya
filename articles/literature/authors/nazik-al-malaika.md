@@ -21,7 +21,7 @@ Neben der Lyrik ist ihr poetologisches Werk **قضايا الشعر المعاص
 
 ## 4. Freier Vers und literaturhistorische Debatte
 
-Al-Malāʾika wird häufig als Pionierin des arabischen freien Verses bezeichnet. Diese Kurzformel ist jedoch zu präzisieren. Die Entstehung der qaṣīdat al-tafʿīla war ein mehrstimmiger Prozess, an dem unter anderem Badr Šākir al-Sayyāb, ʿAbd al-Wahhāb al-Bayātī und Šāḏil Ṭāqa beteiligt waren. Datierung, Priorität und die Definition des „ersten“ Gedichts hängen von den Kriterien ab, mit denen metrische Innovation beschrieben wird.
+Al-Malāʾika wird häufig als Pionierin des arabischen freien Verses bezeichnet. Als frühes Schlüsselgedicht gilt «الكوليرا» (al-Kūlīrā, 1947). Die Frage nach dem „ersten“ Gedicht und dem Beginn der Bewegung ist jedoch umstritten: Sie hängt davon ab, ob man frühe Experimente, die erste Veröffentlichung, die systematische Ausarbeitung einer metrischen Form oder die Etablierung einer literarischen Bewegung meint. Qussay Al-Attabis 2023 in *PMLA* veröffentlichte Studie stellt al-Malāʾikas Gedicht und seine sozialen Entstehungsbedingungen in den Mittelpunkt; Huda Fakhreddine beschreibt die qaṣīdat al-tafʿīla als Form, deren frühe Ausprägung und theoretische Konsolidierung nicht auf einen einzigen Gründungsmoment reduziert werden sollte. Al-Malāʾika, Badr Šākir al-Sayyāb und weitere Dichter:innen sind deshalb gemeinsam zu berücksichtigen.
 
 „Freier Vers“ bedeutet in diesem Kontext nicht notwendig metrisch ungebundene Prosa. Die qaṣīdat al-tafʿīla arbeitet weiterhin mit metrischen Füßen bzw. tafʿīlāt, variiert aber deren Zahl und Anordnung in den Zeilen. Al-Malāʾikas theoretische Reflexion ist deshalb wichtig, um die formalen Ansprüche und Grenzen dieser Praxis zu verstehen.
 
