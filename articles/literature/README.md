@@ -64,6 +64,7 @@ Hier entstehen Artikel zu Theorien, Methoden, Gattungen, Epochen, literarischen 
 - [Sinān Anṭūn – سنان أنطون](authors/sinan-antoon.md)
 - [Ḥasan Blāsim – حسن بلاسم](authors/hassan-blasim.md)
 - [Şêrko Bêkes – شێرکۆ بێکەس](authors/sherko-bekas.md)
+- [ʿAbdullāh Gōrān – عەبدوڵڵا گۆران](authors/abdullah-goran.md)
 - [Malikat al-Dār Muḥammad – ملكة الدار محمد](authors/malikat-al-dar-muhammad.md)
 
 ## Terminologie
