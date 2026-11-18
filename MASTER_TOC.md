@@ -184,6 +184,13 @@ Diese Gliederung definiert den fachlichen Rahmen der Enzyklopädie. Sie ist ein 
 129. Arabische Literatur in der Diaspora – أدب المهجر والشتات
 130. Mehrsprachiges Schreiben und arabische Literaturen – الكتابة متعددة اللغات والآداب العربية
 
+### Ausgearbeitete regionale Literaturartikel – مقالات إقليمية موسعة
+
+- [Ägyptische Literatur](articles/literature/regions/egyptian-literature.md)
+- [Maghrebinische Literaturen](articles/literature/regions/maghrebi-literature.md)
+- [Literatur der Arabischen Halbinsel und des Golfs](articles/literature/regions/gulf-literature.md)
+- [Sudanesische Literatur](articles/literature/regions/sudanese-literature.md)
+
 ## Teil XIV – Autorinnen, Autoren, Werke und Bewegungen | الكتّاب والأعمال والحركات الأدبية
 
 131. Autor:innenprofile: biographische und bibliographische Standards – معايير التراجم والببليوغرافيا
