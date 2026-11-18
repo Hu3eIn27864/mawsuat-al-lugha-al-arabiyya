@@ -99,6 +99,13 @@ Diese Datei sammelt verifizierte Literatur und Ressourcen. Einträge werden erst
 - al-Sammān, Ġāda. 1974. *Bayrūt 75* (بيروت 75). (Bibliografische Angaben und Erstausgabe im arabischen Verlagskatalog weiter zu prüfen.)
 - al-Sammān, Ġāda. 1977. *Kawābīs Bayrūt* (كوابيس بيروت; *Beirut Nightmares*). (Bibliografische Angaben im Primärkatalog weiter zu prüfen.)
 
+- Barakat, Hoda. 1990. *Ḥaǧar al-ḍaḥik* (حجر الضحك; *The Stone of Laughter*). Beirut.
+- Barakat, Hoda. 2018. *Barīd al-layl* (بريد الليل). Beirut: Dar al-Adab.
+- Alharthi, Jokha. 2010. *Sayyidāt al-qamar* (سيدات القمر). Oman.
+- Alharthi, Jokha. 2018. *Celestial Bodies*. Translated by Marilyn Booth. Sandstone Press.
+- Mosteghanemi, Ahlam. 1993. *Ḏākirat al-ǧasad* (ذاكرة الجسد). Beirut.
+- Booth, Marilyn (Übers.). 2018. *Celestial Bodies*, Übersetzung von Jokha Alharthis *Sayyidāt al-qamar*. Sandstone Press.
+
 ## Eintragsvorlage
 
 ```text
