@@ -81,7 +81,15 @@ Die Literaturgeschichte sollte nicht nur nach Gattungen und Nationalstaaten, son
 
 Bei der Auswahl von Autor:innen und Texten ist darauf zu achten, dass internationale Übersetzungspräsenz nicht mit Repräsentativität gleichgesetzt wird. Ägyptische, irakische, palästinensische, syrische, libanesische, sudanesische, maghrebinische und golfarabische Literaturproduktionen sowie Diaspora- und mehrsprachige Kontexte müssen jeweils in ihrer eigenen historischen und medialen Konstellation untersucht werden.
 
-## 10. Weiterführende Literatur
+## 10. Autor:innenprofile
+
+- [Nāzik al-Malāʾika](authors/nazik-al-malaika.md)
+- [Badr Šākir al-Sayyāb](authors/badr-shakir-al-sayyab.md)
+- [Maḥmūd Darwīš](authors/mahmoud-darwish.md)
+- [Saʿdallāh Wannūs](authors/saadallah-wannous.md)
+- [al-Ṭayyib Ṣāliḥ](authors/tayeb-salih.md)
+
+## 11. Weiterführende Literatur
 
 - Badawi, M. M. (Hg.). 1992. *Modern Arabic Literature*. Cambridge: Cambridge University Press.
 - Badawi, M. M. 1993. *A Short History of Modern Arabic Literature*. Oxford: Clarendon Press.
