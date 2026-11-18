@@ -18,6 +18,7 @@
 3. **Historische Kategorien:** Klassisches und koranisches Arabisch sind für die Geschichte und Gegenwart des Arabischen zentral, müssen aber begrifflich präzise behandelt werden.
 4. **Regionale Vielfalt:** Sammelbezeichnungen wie „Levantinisch“ oder „Maghrebinisch“ umfassen zahlreiche lokale und soziale Varietäten.
 5. **Kontext zählt:** Eine Varietät kann in unterschiedlichen Medien und Situationen unterschiedliche Funktionen übernehmen.
+6. **Standard und Prestige trennen:** Der institutionelle Standardstatus von MSA sagt nicht automatisch aus, welche gesprochene Varietät in einer lokalen Gemeinschaft soziales Prestige besitzt.
 
 ## Weiterführende Artikel
 
@@ -28,7 +29,8 @@
 
 ## Literatur
 
-- Bassiouney, Reem. 2009. *Arabic Sociolinguistics*. Edinburgh University Press.
+- Bassiouney, Reem. 2009. *Arabic Sociolinguistics*. Edinburgh University Press, besonders Kap. 1, S. 9–27 (Diglossie, Dialektgruppen und Verhältnis von Standard und Prestige).
+- Al-Wer, Enam. 2013. “Sociolinguistics.” In: *The Oxford Handbook of Arabic Linguistics*, S. 241–263.
 - van Putten, Marijn. 2020. “Classical and Modern Standard Arabic.” In: *Arabic and Contact-Induced Change*.
 - Hellmuth, Sam. 2022. “Sentence Prosody and Register Variation in Arabic.” *Languages* 7(2): 129.
 - Procházka, Stephan. 2013. “Arabic Dialectology.” In: *The Oxford Handbook of Arabic Linguistics*.
