@@ -106,6 +106,9 @@ Bei der Auswahl von Autor:innen und Texten ist darauf zu achten, dass internatio
 - [Laṭīfa al-Zayyāt](authors/latifa-al-zayyat.md)
 - [Ḥanān al-Šayḫ](authors/hanan-al-shaykh.md)
 - [Raḍwā ʿĀšūr](authors/radwa-ashour.md)
+- [Fadwā Ṭūqān](authors/fadwa-tuqan.md)
+- [ʿĀsiyā Ǧabbār](authors/assia-djebar.md)
+- [Ġāda al-Sammān](authors/ghada-al-samman.md)
 
 ## 11. Weiterführende Literatur
 
