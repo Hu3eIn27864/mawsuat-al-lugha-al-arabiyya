@@ -24,6 +24,7 @@ Hier entstehen Artikel zu Theorien, Methoden, Gattungen, Epochen, literarischen 
 - [Literatur der Levante](regions/levantine-literature.md)
 - [Jemenitische Literatur](regions/yemeni-literature.md)
 - [Tunesische Literatur](regions/tunisian-literature.md)
+- [Algerische Literaturen](regions/algerian-literature.md)
 
 ## Gender, Kanon und Öffentlichkeit
 
