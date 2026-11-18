@@ -17,7 +17,7 @@ Die Forschung beschreibt unter anderem traditionalistische, romantische, realist
 
 Neben al-Ṭayyib Ṣāliḥ, dessen *Mawsim al-hiǧra ilā al-šamāl* (1966) internationale Aufmerksamkeit erhielt, gehören weitere Stimmen in die Literaturgeschichte. Afis Ayinde Oladosus Überblick nennt unter anderem Muʿāwīyah Muḥammad Nūr, Malikat al-Dār Muḥammad, al-Tiǧānī Yūsuf Bašīr, Ṣalāḥ Aḥmad Ibrāhīm, Muḥammad Miftāḥ al-Fayṭūrī, Buthayna Khiḍr Makkī und zeitgenössische Autor:innen wie Stella Gaitano und Safia Elhillo.
 
-Diese Auswahl ist nicht vollständig. Sie macht aber deutlich, dass sudanesische Literatur nicht mit einem einzigen international übersetzten Roman oder Autor gleichgesetzt werden darf. Frauenliteratur, Lyrik, Kurzgeschichte, jüngere Generationen und Diaspora-Schreiben benötigen eigene bibliographische und textanalytische Aufmerksamkeit.
+Diese Auswahl ist nicht vollständig. Sie macht aber deutlich, dass sudanesische Literatur nicht mit einem einzigen international übersetzten Roman oder Autor gleichgesetzt werden darf. Frauenliteratur, Lyrik, Kurzgeschichte, jüngere Generationen und Diaspora-Schreiben benötigen eigene bibliographische und textanalytische Aufmerksamkeit. Malikat al-Dār Muḥammad ist für eine solche Erweiterung zentral: Ihre Kurzgeschichte *Ṭabīb al-qarya* gewann 1947 einen Wettbewerb des Sudan Radio; ihr Roman *al-Farāġ al-ʿarīḍ* wurde nach den verfügbaren Darstellungen in den frühen 1950er Jahren geschrieben, aber erst um 1970/1972 publiziert. Die abweichenden Jahresangaben müssen anhand der Erstausgabe geklärt werden.
 
 ## 4. Sprache, Identität und transnationale Räume
 
@@ -35,6 +35,8 @@ Die Frage nach Identität sollte nicht in eine einfache Alternative zwischen „
 
 ## 6. Weiterführende Literatur
 
+- Ismail, Najat Idris. 2022. „Looking for a Foothold: The Sudanese Short Story Since the 1940s“. *Sudan Studies* 65.
+- Shammat, Lemya. 2019. „On Gender Stereotypes in Sudanese Fiction“. *ArabLit*, 12. Oktober 2019: https://arablit.org/2019/10/12/on-gender-stereotypes-in-sudanese-fiction/.
 - Oladosu, Afis Ayinde. 2024. „Modern Sudanese Literature“. *Oxford Research Encyclopedia of Literature*. DOI: 10.1093/acrefore/9780190201098.013.1442.
 - Badawi, M. M. 1993. *A Short History of Modern Arabic Literature*. Oxford University Press.
 - Allan, Michael und Zeina G. Halabi (Hg.). 2026. *The Cambridge Companion to Modern Arabic Literature*. Cambridge University Press.
@@ -46,4 +48,5 @@ Die Frage nach Identität sollte nicht in eine einfache Alternative zwischen „
 ## Verwandte Artikel
 
 - [al-Ṭayyib Ṣāliḥ](../authors/tayeb-salih.md)
+- [Malikat al-Dār Muḥammad](../authors/malikat-al-dar-muhammad.md)
 - [Überblick: Moderne und zeitgenössische arabische Literatur](../modern-arabic-literature-overview.md)
