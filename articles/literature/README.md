@@ -55,6 +55,7 @@ Hier entstehen Artikel zu Theorien, Methoden, Gattungen, Epochen, literarischen 
 - [Qāsim Ḥaddād – قاسم حداد](authors/qassim-haddad.md)
 - [Sulṭān al-ʿAmīmī – سلطان العميمي](authors/sultan-al-ameemi.md)
 - [Āmil Muḫtār – آمال مختار](authors/amel-mokhtar.md)
+- [Muḥammad Barrāda – محمد برادة](authors/mohammed-berrada.md)
 
 ## Terminologie
 
