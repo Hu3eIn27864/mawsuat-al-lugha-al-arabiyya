@@ -66,6 +66,12 @@ Eine Übersetzung kann Klang, Metrum, Wortspiel und kulturelle Anspielungen nur 
 - Fakhreddine, Huda und Suzanne Pinckney Stetkevych (Hg.). 2023. *The Routledge Handbook of Arabic Poetry*. London/New York: Routledge. (Forschungsüberblick zu historischen Kontinuitäten und gegenwärtigen poetischen Praktiken.)
 - Snir, Reuven. 2017. *Modern Arabic Literature: A Theoretical Framework*. Edinburgh: Edinburgh University Press.
 
+## Autor:innenprofile
+
+- [Nāzik al-Malāʾika](authors/nazik-al-malaika.md)
+- [Badr Šākir al-Sayyāb](authors/badr-shakir-al-sayyab.md)
+- [Maḥmūd Darwīš](authors/mahmoud-darwish.md)
+
 ## Verwandte Artikel
 
 - [Überblick: Moderne und zeitgenössische arabische Literatur](modern-arabic-literature-overview.md)
