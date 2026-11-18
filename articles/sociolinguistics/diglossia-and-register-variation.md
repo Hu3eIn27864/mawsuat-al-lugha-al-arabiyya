@@ -19,7 +19,9 @@ Zu unterscheiden sind insbesondere:
 
 Charles A. Ferguson beschrieb 1959 Diglossie anhand einer funktionalen Gegenüberstellung einer „High“-Varietät (H) und einer „Low“-Varietät (L). Die H-Varietät ist typischerweise kodifiziert, wird durch formale Bildung erworben und genießt institutionelles Prestige; die L-Varietät wird im Alltag erworben und in informellen Situationen verwendet. Fergusons Modell bezog sich auf mehrere Sprachgemeinschaften, darunter arabischsprachige.
 
-Für die arabische Situation erfasst dieses Modell wichtige Asymmetrien: Standardarabisch ist besonders in formellen, schriftlichen und überregionalen Domänen präsent; regionale Varietäten prägen familiäre, lokale und viele spontane mündliche Interaktionen. Die Bezeichnungen H und L beschreiben dabei soziale Zuschreibungen und Funktionsverteilungen, keine linguistische Wertigkeit. „Low“ bedeutet weder sprachlich minderwertig noch grammatisch defizitär.
+Für die arabische Situation erfasst dieses Modell wichtige Asymmetrien: MSA ist besonders in formellen, schriftlichen und überregionalen Domänen präsent; regionale Varietäten prägen familiäre, lokale und viele spontane mündliche Interaktionen. Die Bezeichnungen H und L beschreiben dabei soziale Zuschreibungen und Funktionsverteilungen, keine linguistische Wertigkeit. „Low“ bedeutet weder sprachlich minderwertig noch grammatisch defizitär.
+
+**Standardstatus ist nicht mit lokalem Prestige gleichzusetzen.** MSA besitzt überregionale institutionelle Autorität und kodifizierten Standardstatus. In konkreten Sprachgemeinschaften können jedoch bestimmte lokale gesprochene Varietäten hohes Prestige genießen und als soziale Normen fungieren. Welche Varietät als prestigeträchtig gilt, muss deshalb empirisch für Ort, soziale Gruppe und Situation untersucht werden; die offizielle Stellung einer Standardsprache beantwortet diese Frage nicht (Bassiouney 2009, S. 9–27).
 
 ## 3. Grenzen der binären Gegenüberstellung
 
@@ -32,7 +34,7 @@ Die Vorstellung zweier klar getrennter Codes greift für zahlreiche empirische S
 5. **Medien und digitale Kommunikation:** Schriftliche Kommunikation kann dialektale Formen, Arabizi, standardnahe Formen und Mischungen enthalten. Medium und Register sind daher nicht deckungsgleich.
 6. **Mehrsprachigkeit und Kontakt:** Französisch, Englisch, Berbersprachen, Kurdisch und weitere Sprachen können je nach Region und Situation Teil mehrsprachiger Repertoires sein.
 
-Das Diglossiemodell sollte deshalb als eine Perspektive unter mehreren verwendet und mit Variationstheorie, Interaktionsanalyse und Sprachideologieforschung kombiniert werden.
+Das Diglossiemodell sollte deshalb als eine Perspektive unter mehreren verwendet und mit Variationstheorie, Interaktionsanalyse und Sprachideologieforschung kombiniert werden. Für variationistische Fragestellungen ist insbesondere eine Analyse einzelner sprachlicher Variablen in lokal und sozial definierten Gemeinschaften sinnvoll: Sie verhindert, dass eine nationale Großkategorie Unterschiede zwischen Städten, Generationen, sozialen Netzwerken und Sprechstilen verdeckt (Al-Wer 2013, S. 241–263).
 
 ## 4. Register, Stil und situative Variation
 
@@ -51,7 +53,7 @@ Registerzuordnungen sollten anhand beobachtbarer sprachlicher Merkmale und des I
 
 ## 5. Code-Switching, Stilwechsel und Mixing
 
-**Code-Switching** bezeichnet den Wechsel zwischen sprachlichen Codes oder Varietäten innerhalb einer Interaktion. In arabischsprachigen Daten kann damit beispielsweise der Wechsel zwischen Standardarabisch und einer regionalen Varietät, zwischen zwei Dialekten oder zwischen Arabisch und einer weiteren Sprache gemeint sein. Die Forschung unterscheidet je nach theoretischem Ansatz zwischen Code-Switching, Code-Mixing, Entlehnung und stilistischem Wechsel; die Begriffe sind nicht immer deckungsgleich.
+**Code-Switching** bezeichnet den Wechsel zwischen sprachlichen Codes oder Varietäten innerhalb einer Interaktion. In arabischsprachigen Daten kann damit beispielsweise der Wechsel zwischen MSA und einer regionalen Varietät, zwischen zwei Dialekten oder zwischen Arabisch und einer weiteren Sprache gemeint sein. Die Abgrenzung zwischen Wechsel, stilistischer Variation und der Kombination standardnaher und dialektaler Merkmale ist theoretisch umstritten und sollte nicht allein aus einzelnen Formen abgeleitet werden. Die Forschung unterscheidet je nach theoretischem Ansatz zwischen Code-Switching, Code-Mixing, Entlehnung und stilistischem Wechsel; die Begriffe sind nicht immer deckungsgleich.
 
 Wechsel können unter anderem Themenwechsel, Zitat, Positionierung, Humor, institutionelle Autorität, Solidarität oder die Ausrichtung auf ein bestimmtes Publikum anzeigen. Eine einzelne standardnahe Form genügt jedoch nicht, um eine klare Code-Grenze oder bewusste Wechselabsicht nachzuweisen.
 
@@ -82,7 +84,7 @@ Die arabische Sprachlandschaft lässt sich nicht angemessen auf eine starre Zwei
 
 - Bassiouney, Reem. 2009. *Arabic Sociolinguistics*. Edinburgh: Edinburgh University Press. Besonders Kap. 1 „Diglossia and dialect groups in the Arab world“, S. 9–27, und Kap. 2 „Code-switching“, S. 28–87. [https://doi.org/10.3366/edinburgh/9780748623730.001.0001](https://doi.org/10.3366/edinburgh/9780748623730.001.0001).
 - Ferguson, Charles A. 1959. “Diglossia.” *Word* 15(2): 325–340. [https://doi.org/10.1080/00437956.1959.11659702](https://doi.org/10.1080/00437956.1959.11659702).
-- Hellmuth, Sam. 2022. “Sentence Prosody and Register Variation in Arabic.” *Languages* 7(2): 129. [https://doi.org/10.3390/languages7020129](https://doi.org/10.3390/languages7020129).
+- Hellmuth, Sam. 2022. “Sentence Prosody and Register Variation in Arabic.” *Languages* 7(2): 129. [https://doi.org/10.3390/languages7020129](https://doi.org/10.3390/languages7020129). Die Fallstudie untersucht mehr als 400 Gesprächsbeiträge einer einzelnen Sprecherperson aus Ṣanʿāʾ; sie liefert einen methodisch aufschlussreichen Einzelfall, aber keine repräsentative Verteilung für alle arabischsprachigen Gemeinschaften.
 - Al-Wer, Enam. 2013. “Sociolinguistics.” In: Jonathan Owens (Hg.), *The Oxford Handbook of Arabic Linguistics*, S. 241–263. Oxford: Oxford University Press. [https://doi.org/10.1093/oxfordhb/9780199764136.013.0010](https://doi.org/10.1093/oxfordhb/9780199764136.013.0010).
 - Albirini, Abdulkafi. 2011. “The Sociolinguistic Functions of Codeswitching between Standard Arabic and Dialectal Arabic.” *Language in Society* 40(5): 537–562. [https://doi.org/10.1017/S0047404511000674](https://doi.org/10.1017/S0047404511000674).
 
