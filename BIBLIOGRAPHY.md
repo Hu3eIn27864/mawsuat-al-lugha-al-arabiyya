@@ -93,6 +93,12 @@ Diese Datei sammelt verifizierte Literatur und Ressourcen. Einträge werden erst
 - Ashour, Radwa. 1994–1995. *al-Ṯulāṯiyya al-Ġarnāṭiyya* (ثلاثية غرناطة; Granada Trilogy). Cairo.
 - American University in Cairo Press. Autorinnenprofile und Verlagsbibliographien zu Latifa al-Zayyat und Radwa Ashour: https://aucpress.com/.
 
+- al-Saleh, Asaad. 2018. “Tuqan, Fadwa (1917–2003).” *Routledge Encyclopedia of Modernism*. DOI: 10.4324/9781135000356-REM2036-1.
+- Djebar, Assia. 1985. *L’Amour, la fantasia*. Paris: Jean-Claude Lattès.
+- Djebar, Assia. 1980. *Femmes d’Alger dans leur appartement*. Paris: Éditions des femmes.
+- al-Sammān, Ġāda. 1974. *Bayrūt 75* (بيروت 75). (Bibliografische Angaben und Erstausgabe im arabischen Verlagskatalog weiter zu prüfen.)
+- al-Sammān, Ġāda. 1977. *Kawābīs Bayrūt* (كوابيس بيروت; *Beirut Nightmares*). (Bibliografische Angaben im Primärkatalog weiter zu prüfen.)
+
 ## Eintragsvorlage
 
 ```text
