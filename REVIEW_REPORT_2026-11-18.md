@@ -423,3 +423,15 @@ Der irakische Regionalartikel wurde ergänzt, um die arabischsprachige Schwerpun
 **Quellenbasis:** Encyclopaedia Iranica (Kreyenbroek); Ghaderi (2022); Ghaderi und Scalbert Yücel (2021); Omar (2016); Tabbert und Ibrahim (2023); *Studies in Ethnicity and Nationalism* (2024); Galip (2016).
 
 **Redaktionelle Einschränkung:** Der neue Artikel konzentriert sich auf die irakische kurdische Literatur mit Schwerpunkt Sorani. Kurmandschi, Hawrami/Gorani, syrisch/aramäische Literaturen sowie weitere regionale und weibliche Autor:innen benötigen eigene vertiefte Bestandsaufnahmen. Der Überblick erhebt keinen Anspruch auf Vollständigkeit und ist nicht extern peer-reviewt.
+
+
+### Ergänzung zur neunzehnten Prüfrunde: ʿAbdullāh Gōrān
+
+Zusätzlich wurde das Profil `articles/literature/authors/abdullah-goran.md` erstellt und in den kurdischen Regionalartikel, Literatur-README, Gesamtüberblick und Mastergliederung integriert.
+
+- **Werk und Poetik:** freie Verse, Prosagedicht, neue Reimschemata, Verbindung klassischer und volksliedhafter Formen sowie Entwicklung von romantischen zu stärker sozialkritischen Themen.
+- **Journalismus und Übersetzung:** Redaktion von *Jîn* und Übersetzungsarbeit aus dem Englischen, Französischen, Persischen und Türkischen.
+- **Kanonkritik:** Das Profil vermeidet die unpräzise Zuschreibung, Gōrān sei alleiniger Begründer der modernen kurdischen Poesie. Ghaderi (2022) weist auf weitere frühe Modernisierer hin.
+- **Quellen:** Keith Hitchins, *Encyclopaedia Iranica*; Farangis Ghaderi (2022) und ihr Cambridge-Kapitel zur Neubewertung von Gōrāns Beitrag; Institut für Kurdische Studien.
+
+**Prüfgrenze:** Die Werkchronologie beruht auf ausgewählter Sekundärliteratur und Verlagsdaten. Eine systematische Erfassung der soranischen Erstausgaben, Zeitschriftenbeiträge und Übersetzungsvarianten steht aus.
