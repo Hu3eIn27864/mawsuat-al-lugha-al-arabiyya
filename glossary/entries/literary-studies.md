@@ -24,6 +24,9 @@
 | Autofiktion | التخييل الذاتي | autofiction | Schreibweise zwischen autobiographischem Bezug und fiktionaler Konstruktion; Definitionen variieren. |
 | Diaspora-Literatur | أدب الشتات | diaspora literature | Literatur in und über transnationale Lebens- und Erinnerungsräume. |
 | Übersetzungsliteratur | أدب الترجمة | translation literature | Texte und literarische Praktiken, deren Entstehung oder Zirkulation wesentlich durch Übersetzung geprägt ist. |
+| Erstausgabe | الطبعة الأولى | first edition | Erste nachweisbare Ausgabe eines Werkes; von späteren Ausgaben und Übersetzungen zu unterscheiden. |
+| Kanonisierung | تكريس العمل ضمن المتن الأدبي | canonization | Historischer Prozess, durch den Werke als repräsentativ oder maßgeblich etabliert werden. |
+| Aufführungsgeschichte | تاريخ العرض المسرحي | performance history | Geschichte konkreter Inszenierungen, Spielorte, Ensembles, Publika und Aufführungsbedingungen. |
 
 ## Terminologische Hinweise
 
