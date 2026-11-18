@@ -76,6 +76,10 @@ Dialoge können regionale Umgangsvarietäten, Hocharabisch oder Registerwechsel 
 - Mejcher-Atassi, Sonja und Robert Myers (Hg.). 2021. *The Theatre of Sa’dallah Wannous: A Critical Study of the Syrian Playwright and Public Intellectual*. Cambridge: Cambridge University Press. DOI: 10.1017/9781108973182.
 - Allen, Roger. 2000. *An Introduction to Arabic Literature*. Cambridge: Cambridge University Press.
 
+## Autor:innenprofil
+
+- [Saʿdallāh Wannūs](authors/saadallah-wannous.md)
+
 ## Verwandte Artikel
 
 - [Überblick: Moderne und zeitgenössische arabische Literatur](modern-arabic-literature-overview.md)
