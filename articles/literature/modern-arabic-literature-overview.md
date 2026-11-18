@@ -112,6 +112,9 @@ Bei der Auswahl von Autor:innen und Texten ist darauf zu achten, dass internatio
 - [Hudā Barakāt](authors/hoda-barakat.md)
 - [Ǧūḫa al-Ḥāriṯī](authors/jokha-al-harthi.md)
 - [Aḥlām Mustaġānimī](authors/ahlam-mosteghanemi.md)
+- [Inʿām Kaǧaǧī](authors/inaam-kachachi.md)
+- [Laylā Abū al-ʿAlā](authors/leila-aboulela.md)
+- [Buṯayna al-ʿĪsā](authors/bothayna-al-essa.md)
 
 ## 11. Weiterführende Literatur
 
