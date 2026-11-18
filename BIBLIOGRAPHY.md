@@ -72,6 +72,7 @@ Diese Datei sammelt verifizierte Literatur und Ressourcen. Einträge werden erst
 - Ayad, Salim. 2021. „Recherche en littérature écrite d’expression amazighe : état des lieux et typologie“. *Multilinguales* 15.
 - Aït Dahmane, Karima. 2023. „De l’imaginaire linguistique à la création littéraire en Algérie : altérité, discours et mémoire“. *Revue RIDILCA* 2(1): 11–19.
 - Centre de Recherche en Anthropologie Sociale et Culturelle (CRASC). 2002. *The Algerian Arabic-Language Novel: Critical Readings*. Oran: CRASC.
+- Hanoosh, Yasmeen und Qussay Al-Attabi. 2025. „Prefatory Note: Cultural Production in Modern Iraq“. *Journal of Arabic Literature* 56(1–2): 1–3. DOI: 10.1163/1570064X-12341539.
 - Caiani, Fabio und Catherine Cobham. 2013. *The Iraqi Novel: Key Writers, Key Texts*. Edinburgh: Edinburgh University Press. DOI: 10.3366/edinburgh/9780748641413.001.0001.
 - Caiani, Fabio und Catherine Cobham. 2010. „Bread and Cinema: Baghdad in *al-Nakhla wa-'l-jīrān* by Ghā'ib Ṭu‘ma Farmān“. *Middle Eastern Literatures* 13(3): 231–259. DOI: 10.1080/1475262X.2010.523203.
 - Peled-Shapira, Hilla. 2018. *The Prose Works of Gha'ib Tu'ma Farman: The City and the Beast*. Lexington Books.
