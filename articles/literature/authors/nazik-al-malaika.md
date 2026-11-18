@@ -43,6 +43,7 @@ Al-Malāʾikas Werk gehört zum Kanon moderner arabischer Lyrik, zugleich bleibt
 - Poetry Foundation: „Nazik al-Mala'ika“, biographischer Überblick und Werkangaben. https://www.poetryfoundation.org/poets/nazik-al-malaika
 - Athoʿillah, Achmad. 2009. „Nāzik al-Malāʾikah: Sepintas Biografi dan Pemikirannya tentang Puisi Bebas“. *Adabiyyāt* 8(1): 95–110. DOI: https://doi.org/10.14421/ajbs.2009.08105
 - Hengil, Ayten und Gürkan Dağbaşı. 2026. „The Founding Voice of Free Verse: On the Poetics of Nazik Al-Malaika“. *International Journal of Language Academy* 59: 118–128. DOI: https://doi.org/10.29228/ijla.95524
+- Al-Attabi, Qussay. 2023. „The Social Roots of the Arabic Free Verse Movement“. *PMLA* 138(2): 346–355. DOI: https://doi.org/10.1632/S0030812923000251
 - Fakhreddine, Huda und Suzanne Pinckney Stetkevych (Hg.). 2023. *The Routledge Handbook of Arabic Poetry*. Routledge.
 
 ## Verwandte Artikel
