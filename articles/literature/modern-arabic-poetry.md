@@ -41,6 +41,8 @@ Lyrik hat in vielen Kontexten als öffentliche Rede, Protest, Trauer, Erinnerung
 
 Poetische Szenen in Ägypten, Irak, Levante, Palästina, Maghreb, Sudan und Golfregion sind durch lokale Zeitschriften, Verlage, Lesungen und politische Bedingungen geprägt. Lyrik kann Hocharabisch, Dialekt, mehrere Register oder mehrsprachige Elemente verwenden. Spoken Word, Performance, digitale Plattformen und audiovisuelle Formate erweitern die Zirkulationswege.
 
+Die irakischen Dichter:innen Nāzik al-Malāʾika und Badr Šākir al-Sayyāb werden häufig mit der frühen Entwicklung der qaṣīdat al-tafʿīla verbunden. Ihre Bedeutung sollte jedoch nicht in einer vereinfachten Erzählung eines einzigen „Erfindungsmoments“ aufgehen: Datierungen, Prioritätsansprüche und die theoretische Selbstbeschreibung der Bewegung sind Gegenstand literaturhistorischer Debatten. Für die Prosagedicht-Debatte sind unter anderem Unsi al-Ḥāǧǧ, Adūnīs, Muḥammad al-Māġūṭ, Maḥmūd Darwīš und Salīm Barakāt wichtige Bezugspunkte. Diese Namen markieren unterschiedliche poetische Praktiken, keine homogene Schule.
+
 ## 8. Analyseverfahren
 
 Eine fundierte Gedichtanalyse sollte Textgestalt und Kontext verbinden:
@@ -55,11 +57,13 @@ Eine fundierte Gedichtanalyse sollte Textgestalt und Kontext verbinden:
 
 Eine Übersetzung kann Klang, Metrum, Wortspiel und kulturelle Anspielungen nur teilweise übertragen. Interpretationen sollten daher kenntlich machen, ob sie auf dem arabischen Text oder einer Übersetzung beruhen.
 
-## 9. Weiterführende Literatur
+## 10. Weiterführende Literatur
 
 - Badawi, M. M. (Hg.). 1992. *Modern Arabic Literature*. Cambridge: Cambridge University Press.
 - Starkey, Paul. 2006. *Modern Arabic Literature*. Edinburgh: Edinburgh University Press.
 - Allen, Roger. 2000. *An Introduction to Arabic Literature*. Cambridge: Cambridge University Press.
+- Fakhreddine, Huda J. 2021. *The Arabic Prose Poem: Poetic Theory and Practice*. Edinburgh: Edinburgh University Press. (Studie zur Theorie, Geschichte und Praxis des arabischen Prosagedichts.)
+- Fakhreddine, Huda und Suzanne Pinckney Stetkevych (Hg.). 2023. *The Routledge Handbook of Arabic Poetry*. London/New York: Routledge. (Forschungsüberblick zu historischen Kontinuitäten und gegenwärtigen poetischen Praktiken.)
 - Snir, Reuven. 2017. *Modern Arabic Literature: A Theoretical Framework*. Edinburgh: Edinburgh University Press.
 
 ## Verwandte Artikel
