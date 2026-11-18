@@ -13,6 +13,13 @@ Hier entstehen Artikel zu Theorien, Methoden, Gattungen, Epochen, literarischen 
 - [Moderne arabische Lyrik](modern-arabic-poetry.md)
 - [Arabische Kurzgeschichte und modernes Theater](modern-arabic-short-story-and-theatre.md)
 
+## Regionale Literaturgeschichten
+
+- [Ägyptische Literatur](regions/egyptian-literature.md)
+- [Maghrebinische Literaturen](regions/maghrebi-literature.md)
+- [Literatur der Arabischen Halbinsel und des Golfs](regions/gulf-literature.md)
+- [Sudanesische Literatur](regions/sudanese-literature.md)
+
 ## Autor:innenprofile
 
 - [Nāzik al-Malāʾika – نازك الملائكة](authors/nazik-al-malaika.md)
