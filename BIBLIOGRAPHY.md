@@ -163,6 +163,17 @@ Diese Datei sammelt verifizierte Literatur und Ressourcen. Einträge werden erst
 - e-taqafa.ma. „Mohammed Berrada“ (Autorenprofil und Werkbibliographie): https://www.e-taqafa.ma/dossier/mohammed-berrada.
 - Al-Essa, Bothayna. “Author profile.” National Book Foundation: https://www.nationalbook.org/people/bothayna-al-essa/.
 
+### Kurdische und neuaramäische Literaturen
+
+- Ahmadzadeh, Hashem. 2008. “The World of Kurdish Women’s Novels.” *Iranian Studies* 41(5): 719–738. DOI: 10.1080/00210860802518368.
+- Alhamid, Lolav M. Hassan. 2017. “You Can’t Bury Them All: The Representation of Women in the Contemporary Iraqi Kurdish Novel in Bahdinan.” PhD thesis, University of Kent. https://kar.kent.ac.uk/64380/.
+- Alhamid, Lolav M. Hassan. 2024. “Kurdish Women’s Experience in Iraq: History, Politics and Literature.” *Studies in Ethnicity and Nationalism* 25(1): 2–16. DOI: 10.1111/sena.12437.
+- Alhamid, Lolav M. Hassan. 2025. “The Impact of Language Fragmentation on Kurdish Literature: A Case Study of Diasporic Kurdish Women Novelists Writing in English.” *British Journal of Middle Eastern Studies*. DOI: 10.1080/13530194.2025.2584853.
+- Ghaderi, Farangis, and Clémence Scalbert Yücel. 2021. “An Etat Présent of the Kurdish Literature in English Translation.” *The Translator* 27(2): 150–166. DOI: 10.1080/13556509.2021.1872196.
+- Macuch, Maria. 1987. “Assyrians in Iran ii. Literature of the Assyrians in Iran.” *Encyclopaedia Iranica* II(8): 822–824; updated 2016. https://www.iranicaonline.org/articles/assyrians-in-iran-ii-literature/.
+- Mengozzi, Alessandro. 2009. “Religious Poetry from Alqosh and Telkepe (North Iraq): Contacts between Sureth-Speaking Communities and Europe in the 19th Century.” *ARAM* 21: 49–59. DOI: 10.2143/ARAM.21.0.2047085.
+- Mengozzi, Alessandro. 2016. “‘That I Might Speak and the Ear Listen to Me!’: On Genres in Traditional Modern Aramaic Literature.” Preprint, University of Turin. http://hdl.handle.net/2318/114497.
+
 ## Eintragsvorlage
 
 ```text
