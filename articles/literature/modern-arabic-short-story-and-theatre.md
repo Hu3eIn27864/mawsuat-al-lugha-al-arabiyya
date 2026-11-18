@@ -10,6 +10,8 @@ Kurzgeschichte und Theater gehören zu den prägenden Formen moderner arabischer
 
 Die Kurzgeschichte (القصة القصيرة) entwickelte sich im Zusammenhang mit Zeitschriften, Zeitungen und neuen Lesepublika. Ihre Kürze und Publikationsflexibilität machten sie zu einer geeigneten Form für die Darstellung sozialer Konflikte, urbaner Erfahrung, familiärer Beziehungen, politischer Umbrüche und individueller Wahrnehmung.
 
+Als bewusst begrenzte Auswahl für vergleichende Lektüren bieten sich etwa Yūsuf Idrīs (Ägypten), Zakariyyā Tāmir (Syrien), Ġassān Kanafānī (Palästina), Ṭayyib Ṣāliḥ (Sudan), Fuʾād al-Takarlī (Irak), Ibrāhīm Darġūṯī (Tunesien), Laylā al-ʿUṯmān (Kuwait) und Zayd Muḥammad Damaǧ (Jemen) an. Die Liste ist keine Rangordnung und ersetzt keine regionale Recherche. Anthologien sind nützlich, müssen aber hinsichtlich Auswahl, Übersetzungsstrategie und Entstehungszeit kritisch gelesen werden.
+
 ### 2.1 Formale Merkmale
 
 Typische, aber nicht zwingende Verfahren sind:
@@ -30,6 +32,9 @@ Kurzgeschichten haben Alltag, Arbeit, Armut, Geschlechterverhältnisse, Migratio
 Theater (المسرح) ist zugleich literarischer Text und Aufführungspraxis. Die Geschichte des modernen arabischen Dramas ist daher nicht allein anhand gedruckter Stücke zu schreiben. Bühnen, Ensembles, Schauspielausbildung, Zensur, Publikum, Musik, Inszenierung und Tourneen sind ebenso wichtig.
 
 ### 3.1 Übersetzung, Adaption und lokale Formen
+
+Die Geschichte sollte nicht mit einer einzelnen „Gründerfigur“ beginnen. Marun al-Naqqāš in Beirut, Yaʿqūb Ṣannūʿ und frühe ägyptische Theaterpraktiken, Muḥammad Taymūr sowie weitere Autor:innen gehören zu unterschiedlichen Anfängen und institutionellen Kontexten. Tawfīq al-Ḥakīm ist eine zentrale Figur der ägyptischen Dramatik, aber nicht der alleinige Ursprung des arabischen Theaters. Für das spätere 20. Jahrhundert ist Saʿdallāh Wannūs ein wichtiger Bezugspunkt für politisches Theater und die Verbindung von Drama und öffentlicher Intellektuellenrolle.
+
 
 Im 19. und frühen 20. Jahrhundert spielten Übersetzung und Bearbeitung europäischer Dramen eine wichtige Rolle. Zugleich bestanden Verbindungen zu lokalen Formen populärer Unterhaltung, Erzählkunst, Musik und mündlicher Performance. Die Unterscheidung zwischen „importiert“ und „einheimisch“ ist deshalb oft zu grob.
 
@@ -65,6 +70,9 @@ Dialoge können regionale Umgangsvarietäten, Hocharabisch oder Registerwechsel 
 
 - Badawi, M. M. (Hg.). 1992. *Modern Arabic Literature*. Cambridge: Cambridge University Press.
 - Starkey, Paul. 2006. *Modern Arabic Literature*. Edinburgh: Edinburgh University Press.
+- al-Rāʿī, ʿAlī. 1993. “Arabic Drama since the Thirties.” In M. M. Badawi (Hg.), *Modern Arabic Literature*, S. 358–403. Cambridge: Cambridge University Press. DOI: 10.1017/CHOL9780521331975.011.
+- Badawi, M. M. 1988. *Modern Arabic Drama in Egypt*. Cambridge: Cambridge University Press. DOI: 10.1017/CBO9780511470417.
+- *The Theatre of Sa'dallah Wannous: A Critical Study of the Syrian Playwright and Public Intellectual*. 2021. Cambridge: Cambridge University Press. DOI: 10.1017/9781108973182.
 - Allen, Roger. 2000. *An Introduction to Arabic Literature*. Cambridge: Cambridge University Press.
 
 ## Verwandte Artikel
