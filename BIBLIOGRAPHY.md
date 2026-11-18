@@ -47,6 +47,13 @@ Diese Datei sammelt verifizierte Literatur und Ressourcen. Einträge werden erst
 - Snir, Reuven. 2017. *Modern Arabic Literature: A Theoretical Framework*. Edinburgh: Edinburgh University Press. DOI: 10.3366/edinburgh/9781474420518.001.0001. (Theoretischer Rahmen für die Analyse moderner Literatursysteme.)
 - Harb, Lara. 2020. “Arabic Literary Theory.” *Oxford Research Encyclopedia of Literature*. DOI: 10.1093/acrefore/9780190201098.013.989. (Historischer Überblick zur arabischen Literaturtheorie.)
 - Allan, Michael und Zeina G. Halabi (Hg.). 2026. *The Cambridge Companion to Modern Arabic Literature*. Cambridge: Cambridge University Press. DOI: 10.1017/9781009748810. (Aktuelle Perspektiven auf Zeit, Sprache, Geographie, Medien und Weltliteratur.)
+- Fakhreddine, Huda J. 2021. *The Arabic Prose Poem: Poetic Theory and Practice*. Edinburgh: Edinburgh University Press. ISBN: 9781474474962. (Theorie und Praxis des arabischen Prosagedichts.)
+- Fakhreddine, Huda und Suzanne Pinckney Stetkevych (Hg.). 2023. *The Routledge Handbook of Arabic Poetry*. Routledge. ISBN: 9781003096955. (Forschungsüberblick zu historischen Kontinuitäten und gegenwärtiger arabischer Lyrik.)
+- Colla, Elliott. 2008. “How Zaynab Became the First Arabic Novel.” *History Compass* 6. DOI: 10.1111/j.1478-0542.2008.00573.x. (Kritik an der späteren Kanonisierung von *Zaynab* als „erstem“ arabischen Roman.)
+- al-Rāʿī, ʿAlī. 1993. “Arabic Drama since the Thirties.” In M. M. Badawi (Hg.), *Modern Arabic Literature*, S. 358–403. Cambridge: Cambridge University Press. DOI: 10.1017/CHOL9780521331975.011.
+- Badawi, M. M. 1988. *Modern Arabic Drama in Egypt*. Cambridge: Cambridge University Press. DOI: 10.1017/CBO9780511470417.
+- *The Theatre of Sa'dallah Wannous: A Critical Study of the Syrian Playwright and Public Intellectual*. 2021. Cambridge: Cambridge University Press. DOI: 10.1017/9781108973182.
+- Johnson-Davies, Denys (Hg. und Übers.). 1967. *Modern Arabic Short Stories*. Oxford: Oxford University Press. (Anthologie mit Erzählungen aus mehreren arabischen Ländern; Auswahl und Übersetzungsrahmen sind historisch zu kontextualisieren.)
 - Literaturgeschichte und Periodisierung
 - Lyrik, Roman, Kurzgeschichte und Drama
 - Literaturkritik und Theorie
