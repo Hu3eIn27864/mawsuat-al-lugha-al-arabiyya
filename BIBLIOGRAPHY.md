@@ -55,6 +55,8 @@ Diese Datei sammelt verifizierte Literatur und Ressourcen. Einträge werden erst
 - Mejcher-Atassi, Sonja und Robert Myers (Hg.). 2021. *The Theatre of Sa’dallah Wannous: A Critical Study of the Syrian Playwright and Public Intellectual*. Cambridge: Cambridge University Press. DOI: 10.1017/9781108973182.
 - Hafez, Sabry. 1993. “The Modern Arabic Short Story.” In M. M. Badawi (Hg.), *Modern Arabic Literature*, S. 270–328. Cambridge: Cambridge University Press. DOI: 10.1017/CHOL9780521331975.009.
 - Johnson-Davies, Denys (Hg. und Übers.). 1967. *Modern Arabic Short Stories*. Oxford: Oxford University Press. (Anthologie mit Erzählungen aus mehreren arabischen Ländern; Auswahl und Übersetzungsrahmen sind historisch zu kontextualisieren.)
+- DeYoung, Terri. 1993. „A New Reading of Badr Shākir al-Sayyāb’s ‘Hymn of the Rain’“. *Journal of Arabic Literature* 24(1): 39–58. DOI: 10.1163/157006493X00168.
+- Al-Attabi, Qussay. 2023. „The Social Roots of the Arabic Free Verse Movement“. *PMLA* 138(2): 346–355. DOI: 10.1632/S0030812923000251.
 - Athoʿillah, Achmad. 2009. „Nāzik al-Malāʾikah: Sepintas Biografi dan Pemikirannya tentang Puisi Bebas“. *Adabiyyāt* 8(1): 95–110. DOI: 10.14421/ajbs.2009.08105.
 - Hengil, Ayten und Gürkan Dağbaşı. 2026. „The Founding Voice of Free Verse: On the Poetics of Nazik Al-Malaika“. *International Journal of Language Academy* 59: 118–128. DOI: 10.29228/ijla.95524.
 - Tramontini, Leslie. 2018. „al-Sayyāb, Badr Shākir (1926–1964)“. *Routledge Encyclopedia of Modernism*. DOI: 10.4324/9781135000356-REM1958-1.
