@@ -22,12 +22,14 @@ Hier entstehen Artikel zu Theorien, Methoden, Gattungen, Epochen, literarischen 
 - [Palästinensische Literatur](regions/palestinian-literature.md)
 - [Irakische Literatur](regions/iraqi-literature.md)
 - [Kurdischsprachige Literatur im Irak](regions/iraqi-kurdish-literature.md)
+- [Syrische und neuaramäische Literaturen im Irak](regions/syriac-literature-iraq.md)
 - [Literatur der Levante](regions/levantine-literature.md)
 - [Jemenitische Literatur](regions/yemeni-literature.md)
 - [Tunesische Literatur](regions/tunisian-literature.md)
 - [Algerische Literaturen](regions/algerian-literature.md)
 
 ## Gender, Kanon und Öffentlichkeit
+- [Kurdische Autorinnen und literarische Diaspora](kurdish-women-and-diaspora.md)
 
 - [Gender, Kanon und literarische Öffentlichkeit](gender-canon-and-literary-publics.md)
 
