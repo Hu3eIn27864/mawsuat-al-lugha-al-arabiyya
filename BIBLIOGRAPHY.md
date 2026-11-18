@@ -106,6 +106,12 @@ Diese Datei sammelt verifizierte Literatur und Ressourcen. Einträge werden erst
 - Mosteghanemi, Ahlam. 1993. *Ḏākirat al-ǧasad* (ذاكرة الجسد). Beirut.
 - Booth, Marilyn (Übers.). 2018. *Celestial Bodies*, Übersetzung von Jokha Alharthis *Sayyidāt al-qamar*. Sandstone Press.
 
+- Kachachi, Inaam. 2008. *al-Ḥafīda al-amrīkiyya* (الحفيدة الأمريكية). Beirut: Dar al-Jadid.
+- Aboulela, Leila. 2010. *Lyrics Alley*. (Roman über Khartum in den 1950er Jahren.)
+- al-ʿĪsā, Buṯayna. 2021. *Ḥārisat al-ʿālam* (حارسة العالم; *The Book Censor’s Library*). Kuwait.
+- Aboulela, Leila. “About.” Autorinnenwebsite: https://leila-aboulela.com/about/.
+- Al-Essa, Bothayna. “Author profile.” National Book Foundation: https://www.nationalbook.org/people/bothayna-al-essa/.
+
 ## Eintragsvorlage
 
 ```text
