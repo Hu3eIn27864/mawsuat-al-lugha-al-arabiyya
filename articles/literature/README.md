@@ -13,6 +13,14 @@ Hier entstehen Artikel zu Theorien, Methoden, Gattungen, Epochen, literarischen 
 - [Moderne arabische Lyrik](modern-arabic-poetry.md)
 - [Arabische Kurzgeschichte und modernes Theater](modern-arabic-short-story-and-theatre.md)
 
+## Autor:innenprofile
+
+- [Nāzik al-Malāʾika – نازك الملائكة](authors/nazik-al-malaika.md)
+- [Badr Šākir al-Sayyāb – بدر شاكر السياب](authors/badr-shakir-al-sayyab.md)
+- [Maḥmūd Darwīš – محمود درويش](authors/mahmoud-darwish.md)
+- [Saʿdallāh Wannūs – سعد الله ونوس](authors/saadallah-wannous.md)
+- [al-Ṭayyib Ṣāliḥ – الطيب صالح](authors/tayeb-salih.md)
+
 ## Terminologie
 
 - [Glossar: Literaturwissenschaft – معجم الدراسات الأدبية](../../glossary/entries/literary-studies.md)
