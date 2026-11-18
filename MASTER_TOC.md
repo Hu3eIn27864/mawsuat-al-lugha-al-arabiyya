@@ -210,6 +210,11 @@ Diese Gliederung definiert den fachlichen Rahmen der Enzyklopädie. Sie ist ein 
 - [Maḥmūd Darwīš – محمود درويش](articles/literature/authors/mahmoud-darwish.md)
 - [Saʿdallāh Wannūs – سعد الله ونوس](articles/literature/authors/saadallah-wannous.md)
 - [al-Ṭayyib Ṣāliḥ – الطيب صالح](articles/literature/authors/tayeb-salih.md)
+- [Nawāl al-Saʿdāwī – نوال السعداوي](articles/literature/authors/nawal-el-saadawi.md)
+- [Laṭīfa al-Zayyāt – لطيفة الزيات](articles/literature/authors/latifa-al-zayyat.md)
+- [Ḥanān al-Šayḫ – حنان الشيخ](articles/literature/authors/hanan-al-shaykh.md)
+- [Raḍwā ʿĀšūr – رضوى عاشور](articles/literature/authors/radwa-ashour.md)
+- [Gender, Kanon und literarische Öffentlichkeit](articles/literature/gender-canon-and-literary-publics.md)
 
 ## Teil XV – Historischer Kontext und sprachliche Überlieferung | السياق التاريخي والتراث اللغوي
 
