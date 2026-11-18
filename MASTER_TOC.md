@@ -218,6 +218,9 @@ Diese Gliederung definiert den fachlichen Rahmen der Enzyklopädie. Sie ist ein 
 - [Fadwā Ṭūqān – فدوى طوقان](articles/literature/authors/fadwa-tuqan.md)
 - [ʿĀsiyā Ǧabbār – آسيا جبار](articles/literature/authors/assia-djebar.md)
 - [Ġāda al-Sammān – غادة السمان](articles/literature/authors/ghada-al-samman.md)
+- [Hudā Barakāt – هدى بركات](articles/literature/authors/hoda-barakat.md)
+- [Ǧūḫa al-Ḥāriṯī – جوخة الحارثي](articles/literature/authors/jokha-al-harthi.md)
+- [Aḥlām Mustaġānimī – أحلام مستغانمي](articles/literature/authors/ahlam-mosteghanemi.md)
 
 ## Teil XV – Historischer Kontext und sprachliche Überlieferung | السياق التاريخي والتراث اللغوي
 
