@@ -43,6 +43,7 @@ Al-Sayyāb gilt als Schlüsselautor der irakischen und arabischen Moderne. Die F
 ## 7. Weiterführende Literatur und Quellen
 
 - Tramontini, Leslie. 2018. „al-Sayyāb, Badr Shākir (1926–1964)“. *Routledge Encyclopedia of Modernism*. DOI: https://doi.org/10.4324/9781135000356-REM1958-1
+- DeYoung, Terri. 1993. „A New Reading of Badr Shākir al-Sayyāb’s ‘Hymn of the Rain’“. *Journal of Arabic Literature* 24(1): 39–58. DOI: https://doi.org/10.1163/157006493X00168. (Zur Erstveröffentlichung des Gedichts in *al-Ādāb*, Juni 1954, S. 18.)
 - „Badr Shākir al-Sayyāb between Communism and World Literature“. In *Reorienting Modernism in Arabic and Persian Poetry*, S. 97–120. Cambridge University Press, 2022. DOI: https://doi.org/10.1017/9781009164467.007
 - Boullata, Issa J. *Badr Shakir al-Sayyab: The Man and His Poetry*. Dissertation, SOAS, University of London. https://eprints.soas.ac.uk/33610/
 - Fakhreddine, Huda und Suzanne Pinckney Stetkevych (Hg.). 2023. *The Routledge Handbook of Arabic Poetry*. Routledge.
