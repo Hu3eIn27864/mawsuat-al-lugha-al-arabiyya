@@ -51,3 +51,8 @@ Der Roman wurde international vielfach übersetzt und gehört zu den meistdiskut
 - [Der moderne arabische Roman](../modern-arabic-novel.md)
 - [Kurzgeschichte und modernes Theater](../modern-arabic-short-story-and-theatre.md)
 - [Überblick: Moderne und zeitgenössische arabische Literatur](../modern-arabic-literature-overview.md)
+
+
+## ملخص بالعربية
+
+الطيب صالح (1929–2009) روائي وقاص سوداني بارز. تتناول أعماله، ولا سيما «موسم الهجرة إلى الشمال» (1966)، آثار الاستعمار والهجرة والهوية والعلاقة بين القرية والمدينة وبين السودان وأوروبا. وتمتاز كتابته بتداخل تقنيات السرد الحديث مع الحكاية الشفوية واللغة الشعرية، وبمواقف سردية متعددة لا تقدم أحكاماً بسيطة أو نهائية.
