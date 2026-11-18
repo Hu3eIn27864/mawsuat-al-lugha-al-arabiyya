@@ -32,8 +32,7 @@ Abū Zayds Werk eröffnet einen Zugang zu marokkanischen Literaturgeschichten je
 ## Literatur und Ressourcen
 
 - Abouzeid, Leila. *The Last Chapter*. American University in Cairo Press, Verlagsbeschreibung und Ausgabe.
-- Kassab-Charfi, Samia und Adel Khedher. 2019. *Un siècle de littérature en Tunisie (1900–2017)*. (Vergleichende Maghreb-Literaturgeschichte; nicht spezifisch zu Abū Zayd.)
-- „The Experimental Turn in the Moroccan Novel, 1976–1989“. Routledge, 2025. (Kontext zur Entwicklung des marokkanischen Romans.)
+- American University in Cairo Press. „The Last Chapter“ (Verlagsbeschreibung und Ausgabe von Leila Abouzeid).
 
 ## Verwandte Artikel
 
