@@ -241,6 +241,7 @@ Diese Gliederung definiert den fachlichen Rahmen der Enzyklopädie. Sie ist ein 
 - [Sinān Anṭūn – سنان أنطون](articles/literature/authors/sinan-antoon.md)
 - [Ḥasan Blāsim – حسن بلاسم](articles/literature/authors/hassan-blasim.md)
 - [Şêrko Bêkes – شێرکۆ بێکەس](articles/literature/authors/sherko-bekas.md)
+- [ʿAbdullāh Gōrān – عەبدوڵڵا گۆران](articles/literature/authors/abdullah-goran.md)
 - [Āmil Muḫtār – آمال مختار](articles/literature/authors/amel-mokhtar.md)
 
 ## Teil XV – Historischer Kontext und sprachliche Überlieferung | السياق التاريخي والتراث اللغوي
