@@ -16,16 +16,16 @@ Diese Datei sammelt verifizierte Literatur und Ressourcen. Einträge werden erst
 ### Moderne arabische Linguistik
 
 - Ryding, Karin C. 2005. *A Reference Grammar of Modern Standard Arabic*. Cambridge: Cambridge University Press. DOI: 10.1017/CBO9780511486975. (Umfassende Referenz zu Morphologie, Syntax und Gebrauch des MSA.)
-- Watson, Janet C. E. 2002. *The Phonology and Morphology of Arabic*. Oxford: Oxford University Press. (Grundlegende Darstellung phonologischer und morphologischer Strukturen.)
+- Watson, Janet C. E. 2002. *The Phonology and Morphology of Arabic*. Oxford: Oxford University Press. DOI: 10.1093/oso/9780199257591.001.0001. (Vergleichende Analyse mit Schwerpunkt auf Kairener und Ṣanʿānī-Arabisch; weitere Bezüge zu anderen Varietäten sowie zum klassischen und modernen Hocharabisch.)
 - McCarthy, John J. 1981. “A Prosodic Theory of Nonconcatenative Morphology.” *Linguistic Inquiry* 12(3): 373–418. (Theoretische Grundlagen zur nichtkonkatenativen Morphologie.)
-- Benmamoun, Elabbas. 2017. “VSO Word Order, Primarily in Arabic Languages.” In *The Wiley Blackwell Companion to Syntax*, 2nd ed. DOI: 10.1002/9781118358733.wbsyncom060. (Überblick zu VSO-Stellung und damit verbundenen syntaktischen Fragen.)
+- Benmamoun, Elabbas. 2018. “VSO Word Order, Primarily in Arabic Languages.” In *The Wiley Blackwell Companion to Syntax*, 2nd ed., pp. 1–30. DOI: 10.1002/9781118358733.wbsyncom060. (Überblick zu VSO-Stellung und damit verbundenen syntaktischen Fragen.)
 - Alshammari, Ahmad Radi. 2023. “Analyzing word order variation and agreement asymmetry in SVO and VSO structures of Standard Arabic: Towards a unified account.” *Cogent Arts & Humanities* 10(2). DOI: 10.1080/23311983.2023.2268920. (Aktuelle Analyse zu Wortstellung und Kongruenzasymmetrie.)
 - Edzard, Lutz. 2013. “The Philological Approach to Arabic Grammar.” In *The Oxford Handbook of Arabic Linguistics*, 165–184. DOI: 10.1093/oxfordhb/9780199764136.013.0007. (Syntax, Semantik und philologische Analyse.)
 - Suleiman, Saleh M. 1989. “On the pragmatics of subject-object preposing in standard Arabic.” *Language Sciences* 11(2): 215–235. DOI: 10.1016/0388-0001(89)90006-5. (Informationsstruktur und pragmatische Funktionen der Voranstellung.)
 - Dickins, James. 2010. “Junction in English and Arabic: Syntactic, discoursal and denotative features.” *Journal of Pragmatics* 42(4): 1076–1136. DOI: 10.1016/j.pragma.2009.09.003. (Satzverknüpfung, Diskurs und Bedeutung.)
 - Azi, Yaseen. 2018. “Investigating Arabic Pragmatic Markers in Spoken Discourse: A Literature Review.” *International Journal of Linguistics* 10(2). DOI: 10.5296/ijl.v10i2.12963. (Forschungsüberblick zu pragmatischen Markern in gesprochener Sprache.)
-- Bouamor, Houda, et al. 2018. “The MADAR Arabic Dialect Corpus and Lexicon.” Proceedings of LREC 2018. (Parallele Dialektdaten aus 25 arabischen Städten.)
-- Ditters, Everhard. 2013/2017. “Issues in Arabic Computational Linguistics.” In *The Oxford Handbook of Arabic Linguistics*. DOI: 10.1093/oxfordhb/9780199764136.013.010. (Korpusressourcen und computergestützte Analyse.)
+- Bouamor, Houda, Nizar Habash, Mohammad Salameh, Wajdi Zaghouani, Owen Rambow, Dana Abdulrahim, Ossama Obeid, Salam Khalifa, Fadhl Eryani, Alexander Erdmann und Kemal Oflazer. 2018. “The MADAR Arabic Dialect Corpus and Lexicon.” *Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)*, Miyazaki. (Paralleles Korpus und Lexikon für 25 arabische Stadtvarietäten; Reisedomäne.)
+- Ditters, Everhard. 2013; aktualisierte Fassung 2017. “Issues in Arabic Computational Linguistics.” In *The Oxford Handbook of Arabic Linguistics*, 213–240. DOI: 10.1093/oxfordhb/9780199764136.013.010_update_001. (Überblick zur arabischen Computerlinguistik.)
 
 - Phonetik und Phonologie
 - Morphologie und Syntax
