@@ -109,6 +109,9 @@ Bei der Auswahl von Autor:innen und Texten ist darauf zu achten, dass internatio
 - [Fadwā Ṭūqān](authors/fadwa-tuqan.md)
 - [ʿĀsiyā Ǧabbār](authors/assia-djebar.md)
 - [Ġāda al-Sammān](authors/ghada-al-samman.md)
+- [Hudā Barakāt](authors/hoda-barakat.md)
+- [Ǧūḫa al-Ḥāriṯī](authors/jokha-al-harthi.md)
+- [Aḥlām Mustaġānimī](authors/ahlam-mosteghanemi.md)
 
 ## 11. Weiterführende Literatur
 
