@@ -325,3 +325,20 @@ Ein weiteres Autor:innenprofil wurde erstellt und in Literatur-README, Überblic
 **Bibliographische Vorsicht:** Institutionelle Profile nennen überwiegend 1938, einzelne Quellen 1939 als Geburtsjahr. Auch bei Titeln und Jahresangaben bestehen Abweichungen zwischen arabischen Ausgaben, Übersetzungen und Katalogen. Das Profil kennzeichnet diese Unsicherheiten und behauptet keine abschließend geprüfte Werkchronologie.
 
 **Prüfgrenze:** Der Beitrag ist ein einführendes Profil. Arabische Erstausgaben, Editionsgeschichte und Primärtextanalysen müssen noch anhand von Bibliothekskatalogen und den Texten selbst ergänzt werden; der Artikel ist nicht extern peer-reviewt.
+
+
+## Fünfzehnte Prüfrunde: Algerische Literaturen und Mehrsprachigkeit (18.11.2026)
+
+Ein regionaler Überblick wurde erstellt und in Literatur-README, Literaturüberblick, Mastergliederung und Bibliographie integriert:
+
+- `articles/literature/regions/algerian-literature.md`
+
+**Inhaltliche Schwerpunkte und Quellenbasis:**
+
+- Das literarische Feld wird als mehrsprachig beschrieben: Arabisch, Französisch und Amazigh-Sprachen sowie dialektale und hybride Schreibweisen werden berücksichtigt.
+- Der Artikel unterscheidet koloniale und antikoloniale Literatur, die Entwicklung arabischsprachiger Romane nach 1962, die literarische Auseinandersetzung mit Gewalt und Exil seit den 1990er Jahren sowie amazighsprachige Schriftliteratur.
+- Quellenbasis: Debbie Cox (2002; 2017), Valérie K. Orlando (2017), Salim Ayad (2021), Karima Aït Dahmane (2023), CRASC (2002) sowie Kerras und Baya (2022).
+
+**Methodischer Hinweis:** Die Kategorien arabisch-, französisch- und amazighsprachig werden als Beschreibung von Text- und Publikationsräumen verwendet, nicht als starre Identitäten. Amazighsprachige Literatur wird als eigenständiges Feld mit eigenen Sprach- und Institutionsgeschichten behandelt. Die Darstellung reduziert algerische Literatur nicht auf Widerstandsliteratur oder auf die Bürgerkriegsjahre.
+
+**Prüfgrenze:** Der Überblick ersetzt keine vollständige Geschichte der algerischen Literatur in den einzelnen Sprachen. Insbesondere amazighsprachige Primärtexte, regionale Literaturgeschichten, Verlagsarchive und arabischsprachige Rezeptionsforschung bedürfen weiterer systematischer Erschließung. Der Beitrag ist nicht extern peer-reviewt.
