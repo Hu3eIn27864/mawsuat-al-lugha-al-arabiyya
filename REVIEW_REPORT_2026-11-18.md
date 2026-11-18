@@ -233,3 +233,20 @@ Drei weitere Profile wurden angelegt und in Literatur-README, Überblick und Mas
 - **Ġāda al-Sammān:** syrische Schriftstellerin und Journalistin; Beirut als urbaner und sozialer Erzählraum, Geschlechterverhältnisse und Krieg. Der Beitrag ist als vorläufig gekennzeichnet, da biografische und bibliografische Angaben anhand arabischer Primärkataloge noch systematisch zu verifizieren sind.
 
 **Prüfgrenze:** Das Profil zu Djebar behandelt ausdrücklich ihre überwiegend französische Schreibsprache und macht damit die Mehrsprachigkeit des literarischen Feldes sichtbar. Das Profil zu al-Sammān enthält gekennzeichnete offene bibliografische Fragen und darf noch nicht als abgeschlossene Werkbibliografie verwendet werden. Alle drei Artikel sind nicht extern peer-reviewt.
+
+
+## Zehnte Prüfrunde: Autorinnen aus Libanon, Oman und Algerien (18.11.2026)
+
+Drei weitere Autorinnenprofile wurden erstellt und in die Literaturgliederung integriert:
+
+- `articles/literature/authors/hoda-barakat.md`
+- `articles/literature/authors/jokha-al-harthi.md`
+- `articles/literature/authors/ahlam-mosteghanemi.md`
+
+**Inhaltliche Schwerpunkte und Quellenbasis:**
+
+- **Hudā Barakāt:** libanesische, arabisch schreibende Romanautorin; Krieg, Exil, marginalisierte Männlichkeiten und Migration. Herangezogen wurden Profile des International Prize for Arabic Fiction, Dartmouth College und der Booker-Prize-Organisation.
+- **Ǧūḫa al-Ḥāriṯī:** omanische Schriftstellerin und Literaturwissenschaftlerin; Familiengeschichte, gesellschaftlicher Wandel und die Übersetzungsgeschichte von *Sayyidāt al-qamar*. Quellenbasis: University of Oxford, Autorinnenwebsite und Words Without Borders.
+- **Aḥlām Mustaġānimī:** algerische Autorin; arabische Sprachwahl im postkolonialen Kontext und Verbindung von Liebesgeschichte und nationaler Erinnerung. Quellenbasis: British Council und Arab British Centre.
+
+**Prüfgrenze:** Die Profile verweisen auf ausgewählte Werke und institutionelle Biografien, ersetzen aber keine vollständige Bibliografie der arabischen Erstausgaben. Die Artikel sind Einführungen und nicht extern peer-reviewt.
