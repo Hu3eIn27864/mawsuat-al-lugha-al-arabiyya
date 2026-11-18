@@ -57,6 +57,11 @@ Diese Datei sammelt verifizierte Literatur und Ressourcen. Einträge werden erst
 - Michalak-Pikulska, Barbara. 2017. “Bahrain.” In Waïl S. Hassan (Hg.), *The Oxford Handbook of Arab Novelistic Traditions*. Oxford University Press. (Kapitel zur Entwicklung bahrainischer Prosa und zum literarischen Feld.)
 - Abouzeid, Leila. *The Last Chapter* (Fuṣūl). American University in Cairo Press. (Verlagsausgabe und Beschreibung; Ausgabejahr und arabische Erstausgabe separat zu verifizieren.)
 - International Prize for Arabic Fiction. “Sultan Al Ameemi” und “One Room Is Not Enough.” (Institutionelle Autor:innen- und Werkprofile; Longlist 2017.)
+- Mamelouk, Douja. 2015. “New National Discourses: Tunisian Women Write the Revolution.” *Alif: Journal of Comparative Poetics* 35: 100–122. (Analyse tunesischer Autorinnen und der literarischen Artikulation der Revolution.)
+- McNeil, Karen. 2023. “When the Leak Becomes a Flood: Vernacular Literature in Tunisia.” In *Perspectives on Arabic Linguistics XXXIV*, S. 255–284. DOI: 10.1075/sal.12.11mcn. (Wachstum tunesisch-derjasprachiger Literatur und Verschriftlichungspraktiken.)
+- Mamelouk, Douja. 2017. “Tunisia.” In Waïl S. Hassan (Hg.), *The Oxford Handbook of Arab Novelistic Traditions*, S. 455–472. DOI: 10.1093/oxfordhb/9780199349791.013.30. (Geschichte des tunesischen Romans in arabischer und französischer Sprache.)
+- Pardey, Charlotte. 2020. “Processing the Revolution: Exploring the Ways Tunisian Novels Reflect Political Upheavals.” In *Re-Configurations*. DOI: 10.1007/978-3-658-31160-5_16.
+- Senani, Ilham. 2022. “al-Marʾa wa-hāǧis al-tamarrud fī al-riwāya al-niswiyya al-tūnisiyya al-muʿāṣira.” *Maǧallat al-ʿulūm al-iǧtimāʿiyya wa-l-insāniyya* 23(2): 171–182.
 - Sultan Bin Ali Al Owais Cultural Foundation. “Qassim Haddad.” (Preisprofil und Werkauswahl.)
 - Oladosu, Afis Ayinde. 2024. „Modern Sudanese Literature“. *Oxford Research Encyclopedia of Literature*. DOI: 10.1093/acrefore/9780190201098.013.1442.
 - al-Ghadeer, Moneera. 2026. „Khalij“. In *The Cambridge Companion to Modern Arabic Literature*, S. 157–173. Cambridge University Press. DOI: 10.1017/9781009748810.012.
