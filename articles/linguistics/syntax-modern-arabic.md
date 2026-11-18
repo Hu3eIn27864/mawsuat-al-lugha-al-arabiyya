@@ -17,7 +17,7 @@ Die Wortstellung ist nicht beliebig. Konstituentenstellung, Kasusmarkierung, Kon
 
 ## 3. Kongruenz und Kongruenzasymmetrie
 
-Ein viel untersuchtes Merkmal des MSA ist die Kongruenz zwischen Verb und explizitem Subjekt. In der verbreiteten Beschreibung zeigt ein vorangestelltes Subjekt in SVO-Stellung volle Kongruenz in Person, Numerus und Genus. Bei einem nachgestellten pluralischen Subjekt in VSO-Stellung steht das Verb typischerweise im Singular und kongruiert hinsichtlich Person und Genus. Die genaue Generalisierung hängt von Subjekttyp, Belebtheit, Numerus, Genus und Konstruktion ab.
+Ein viel untersuchtes Merkmal des MSA ist die Kongruenz zwischen Verb und explizitem Subjekt. In der verbreiteten Beschreibung zeigt ein vorangestelltes Subjekt in SVO-Stellung volle Kongruenz in Numerus und Genus (bei regulären finiten Hauptsätzen zugleich die erwartete Personenübereinstimmung). Bei einem nachgestellten dualischen oder pluralischen Subjekt in VSO-Stellung steht das Verb typischerweise im Singular; die Kongruenz mit dem Subjekt zeigt sich dann vor allem in Person und Genus. Das Muster ist besonders gut für die dritte Person beschrieben. Die genaue Generalisierung hängt unter anderem von Subjekttyp, Belebtheit, Numerus, Genus und Konstruktion ab (Ryding 2005, S. 65–67).
 
 Diese sogenannte Kongruenzasymmetrie ist Gegenstand konkurrierender theoretischer Analysen. Sie sollte als empirisches Muster beschrieben werden, nicht als Beleg für eine einzige unstrittige syntaktische Theorie. Neuere Arbeiten diskutieren, wie Wortstellung, Satztyp und Merkmalsvererbung zusammenwirken.
 
@@ -81,7 +81,7 @@ Theoretische Analysen – etwa generative, funktionalistische, konstruktionsgram
 
 ## 13. Weiterführende Literatur
 
-- Ryding, Karin C. 2005. *A Reference Grammar of Modern Standard Arabic*. Cambridge University Press.
+- Ryding, Karin C. 2005. *A Reference Grammar of Modern Standard Arabic*. Cambridge University Press, besonders Kap. 4, S. 57–73 (zur Wortstellung und Kongruenzasymmetrie insbesondere S. 65–67).
 - Benmamoun, Elabbas. 2018. “VSO Word Order, Primarily in Arabic Languages.” In *The Wiley Blackwell Companion to Syntax*, 2nd ed., pp. 1–30. DOI: 10.1002/9781118358733.wbsyncom060.
 - Alshammari, Ahmad Radi. 2023. “Analyzing word order variation and agreement asymmetry in SVO and VSO structures of Standard Arabic: Towards a unified account.” *Cogent Arts & Humanities* 10(2). DOI: 10.1080/23311983.2023.2268920.
 - Tucker, Matthew A. *The Morphosyntax of the Arabic Verb*. Dissertation, University of California, Santa Cruz.
