@@ -250,3 +250,20 @@ Drei weitere Autorinnenprofile wurden erstellt und in die Literaturgliederung in
 - **Aḥlām Mustaġānimī:** algerische Autorin; arabische Sprachwahl im postkolonialen Kontext und Verbindung von Liebesgeschichte und nationaler Erinnerung. Quellenbasis: British Council und Arab British Centre.
 
 **Prüfgrenze:** Die Profile verweisen auf ausgewählte Werke und institutionelle Biografien, ersetzen aber keine vollständige Bibliografie der arabischen Erstausgaben. Die Artikel sind Einführungen und nicht extern peer-reviewt.
+
+
+## Elfte Prüfrunde: Autorinnen aus Irak, Sudan und Kuwait (18.11.2026)
+
+Drei weitere Profile ergänzen die regionale Streuung der Autorinnenauswahl:
+
+- `articles/literature/authors/inaam-kachachi.md`
+- `articles/literature/authors/leila-aboulela.md`
+- `articles/literature/authors/bothayna-al-essa.md`
+
+**Inhaltliche Schwerpunkte und Quellenbasis:**
+
+- **Inʿām Kaǧaǧī:** irakische Autorin und Journalistin; Krieg, Besatzung, Diaspora und widersprüchliche Zugehörigkeiten. Quellenbasis: International Prize for Arabic Fiction, Al Owais Cultural Foundation und Verlagsprofile.
+- **Laylā Abū al-ʿAlā:** sudanesische, englischsprachige Schriftstellerin; Migration, religiöse Innenwelten, Khartum und transnationale Zugehörigkeit. Quellenbasis: Autorinnenwebsite, Banipal und Vrije Universiteit Brussel.
+- **Buṯayna al-ʿĪsā:** kuwaitische Autorin und Verlegerin; Zensur, literarische Imagination und kulturelle Infrastruktur. Quellenbasis: Fondation Jan Michalski, National Book Foundation und Banipal.
+
+**Methodischer Hinweis:** Abū al-ʿAlās englischsprachiges Werk wird ausdrücklich als Teil einer mehrsprachigen Literaturgeschichte berücksichtigt, nicht nachträglich als arabischsprachige Literatur etikettiert. Die Profile sind Einführungen und nicht extern peer-reviewt.
