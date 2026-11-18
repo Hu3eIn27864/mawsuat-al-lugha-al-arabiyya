@@ -49,6 +49,15 @@ Diese Datei sammelt verifizierte Literatur und Ressourcen. Einträge werden erst
 - Allan, Michael und Zeina G. Halabi (Hg.). 2026. *The Cambridge Companion to Modern Arabic Literature*. Cambridge: Cambridge University Press. DOI: 10.1017/9781009748810. (Aktuelle Perspektiven auf Zeit, Sprache, Geographie, Medien und Weltliteratur.)
 - Elsadda, Hoda. 2012. *Gender, Nation, and the Arabic Novel: Egypt, 1892–2008*. Syracuse University Press. ISBN: 9780815632962. (Geschlecht, nationale Imagination und Kanonbildung in der ägyptischen Romanliteratur.)
 - Ashour, Radwa, Ferial Ghazoul und Hasna Reda-Mekdashi (Hg.). 2008. *Arab Women Writers: A Critical Reference Guide, 1873–1999*. American University in Cairo Press. DOI: 10.5743/cairo/9789774161469.001.0001. (Bibliographischer und kritischer Überblick zu arabischen Autorinnen.)
+- Suvorov, Mikhail N. 2020. “Yemen and the Arab World in Wajdi al-Ahdal’s Novels: From Parody to Realism.” *Eurasian Arabic Studies* 9: 51–64. (Peer-reviewte Studie zu Satire, Parodie und Erzählverfahren in al-Ahdals Romanen.)
+- al-Ḥaydarī, ʿAbd al-Fattāḥ Aḥmad ʿAbduh. 2025. “Lugat al-markaz wa-l-hāmiš fī al-riwāya al-yamaniyya al-muʿāṣira: dirāsa ṯaqāfiyya.” DOI: 10.35781/1637-000-118-006. (Kulturwissenschaftliche Analyse jemenitischer Romane aus den Jahren 2012–2019.)
+- Rashed, Redhwan Qasem Ghaleb. “The World of Al-Akhdam in Ali Al-Muqri’s Black Taste, Black Odour.” DOI: 10.53286/arts.v6i4.2204. (Studie zu Marginalisierung, Identität und Geschlecht in al-Muqris Roman.)
+- Wasel, Esam. “Violence Against the Akhdam ‘Marginalized Black Community’ in Yemeni Fiction.” DOI: 10.53286/arts.v7i1.2382. (Vergleichende Analyse von sechs jemenitischen Romanen.)
+- Douja Mamelouk. 2017. “Tunisia.” In Waïl S. Hassan (Hg.), *The Oxford Handbook of Arab Novelistic Traditions*, S. 455–472. Oxford University Press. DOI: 10.1093/oxfordhb/9780199349791.013.30. (Entwicklung des tunesischen Romans in arabischer und französischer Sprache.)
+- Michalak-Pikulska, Barbara. 2017. “Bahrain.” In Waïl S. Hassan (Hg.), *The Oxford Handbook of Arab Novelistic Traditions*. Oxford University Press. (Kapitel zur Entwicklung bahrainischer Prosa und zum literarischen Feld.)
+- Abouzeid, Leila. *The Last Chapter* (Fuṣūl). American University in Cairo Press. (Verlagsausgabe und Beschreibung; Ausgabejahr und arabische Erstausgabe separat zu verifizieren.)
+- International Prize for Arabic Fiction. “Sultan Al Ameemi” und “One Room Is Not Enough.” (Institutionelle Autor:innen- und Werkprofile; Longlist 2017.)
+- Sultan Bin Ali Al Owais Cultural Foundation. “Qassim Haddad.” (Preisprofil und Werkauswahl.)
 - Oladosu, Afis Ayinde. 2024. „Modern Sudanese Literature“. *Oxford Research Encyclopedia of Literature*. DOI: 10.1093/acrefore/9780190201098.013.1442.
 - al-Ghadeer, Moneera. 2026. „Khalij“. In *The Cambridge Companion to Modern Arabic Literature*, S. 157–173. Cambridge University Press. DOI: 10.1017/9781009748810.012.
 - El Guabli, Brahim. 2026. „Darija and Tamazight“. In *The Cambridge Companion to Modern Arabic Literature*, S. 99–115. Cambridge University Press. DOI: 10.1017/9781009748810.008.
