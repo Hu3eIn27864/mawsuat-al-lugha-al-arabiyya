@@ -23,6 +23,10 @@ Hier entstehen Artikel zu Theorien, Methoden, Gattungen, Epochen, literarischen 
 - [Irakische Literatur](regions/iraqi-literature.md)
 - [Literatur der Levante](regions/levantine-literature.md)
 
+## Gender, Kanon und Öffentlichkeit
+
+- [Gender, Kanon und literarische Öffentlichkeit](gender-canon-and-literary-publics.md)
+
 ## Autor:innenprofile
 
 - [Nāzik al-Malāʾika – نازك الملائكة](authors/nazik-al-malaika.md)
@@ -30,6 +34,10 @@ Hier entstehen Artikel zu Theorien, Methoden, Gattungen, Epochen, literarischen 
 - [Maḥmūd Darwīš – محمود درويش](authors/mahmoud-darwish.md)
 - [Saʿdallāh Wannūs – سعد الله ونوس](authors/saadallah-wannous.md)
 - [al-Ṭayyib Ṣāliḥ – الطيب صالح](authors/tayeb-salih.md)
+- [Nawāl al-Saʿdāwī – نوال السعداوي](authors/nawal-el-saadawi.md)
+- [Laṭīfa al-Zayyāt – لطيفة الزيات](authors/latifa-al-zayyat.md)
+- [Ḥanān al-Šayḫ – حنان الشيخ](authors/hanan-al-shaykh.md)
+- [Raḍwā ʿĀšūr – رضوى عاشور](authors/radwa-ashour.md)
 
 ## Terminologie
 
