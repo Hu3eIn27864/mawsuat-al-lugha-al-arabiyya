@@ -8,7 +8,7 @@ Kurzgeschichte und Theater gehören zu den prägenden Formen moderner arabischer
 
 ## 2. Die moderne arabische Kurzgeschichte
 
-Die Kurzgeschichte (القصة القصيرة) entwickelte sich im Zusammenhang mit Zeitschriften, Zeitungen und neuen Lesepublika. Ihre Kürze und Publikationsflexibilität machten sie zu einer geeigneten Form für die Darstellung sozialer Konflikte, urbaner Erfahrung, familiärer Beziehungen, politischer Umbrüche und individueller Wahrnehmung.
+Die Kurzgeschichte (القصة القصيرة) entwickelte sich im Zusammenhang mit Zeitschriften, Zeitungen und neuen Lesepublika. Die moderne Gattung entstand seit den letzten Jahrzehnten des 19. Jahrhunderts und gewann in den frühen Jahrzehnten des 20. Jahrhunderts an formaler Eigenständigkeit; ältere arabische Erzähltraditionen sind wichtige Bezugspunkte, aber nicht mit der modernen Kurzgeschichte gleichzusetzen. Ihre Kürze und Publikationsflexibilität machten sie zu einer geeigneten Form für die Darstellung sozialer Konflikte, urbaner Erfahrung, familiärer Beziehungen, politischer Umbrüche und individueller Wahrnehmung.
 
 Als bewusst begrenzte Auswahl für vergleichende Lektüren bieten sich etwa Yūsuf Idrīs (Ägypten), Zakariyyā Tāmir (Syrien), Ġassān Kanafānī (Palästina), Ṭayyib Ṣāliḥ (Sudan), Fuʾād al-Takarlī (Irak), Ibrāhīm Darġūṯī (Tunesien), Laylā al-ʿUṯmān (Kuwait) und Zayd Muḥammad Damaǧ (Jemen) an. Die Liste ist keine Rangordnung und ersetzt keine regionale Recherche. Anthologien sind nützlich, müssen aber hinsichtlich Auswahl, Übersetzungsstrategie und Entstehungszeit kritisch gelesen werden.
 
