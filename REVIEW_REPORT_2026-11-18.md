@@ -88,3 +88,15 @@ Diese Runde war eine redaktionelle Stichproben- und Metadatenprüfung. Sie erset
 - Bouamor et al. 2018. “The MADAR Arabic Dialect Corpus and Lexicon.” https://doi.org/10.63317/4wv9mx9ftkrk
 - Allan, Michael und Zeina G. Halabi (Hg.). 2026. *The Cambridge Companion to Modern Arabic Literature*. https://doi.org/10.1017/9781009748810
 - Badawi, M. M. 1993. *A Short History of Modern Arabic Literature*. https://doi.org/10.1093/oso/9780198265429.001.0001
+
+
+## Zweite Prüfrunde: Morphologie, Syntax und Phonologie (18.11.2026)
+
+Die zweite redaktionelle Runde hat vier Fachdateien im aktuellen Hauptzweig erneut geprüft und präzisiert:
+
+- **Morphologie:** Die Beispieltabelle zu den abgeleiteten Verbformen verwendet nun unterschiedliche, lexikalisch etablierte Wurzeln statt den Eindruck zu erwecken, alle Muster ließen sich mit ك-ت-ب gleichermaßen bilden. Die Erläuterung betont die begrenzte Vorhersagbarkeit der Bedeutungsbeiträge und die Sonderbehandlung schwacher, hamzierter und geminierter Wurzeln. Bei Dual und gesundem Maskulinplural wird der Wegfall des auslautenden *nūn* in der iḍāfa-Verbindung ergänzt.
+- **Syntax:** Die Beschreibung der Kongruenzasymmetrie wurde enger gefasst: volle Kongruenz bei vorangestelltem Subjekt und typische Singularform des Verbs bei nachgestelltem dualischem/pluralischem Subjekt werden als verbreitete MSA-Generalisation dargestellt, nicht als ausnahmsloses Gesetz. Rydings einschlägige Seiten (2005: 65–67) sind angegeben.
+- **Phonologie:** Die Konsonantentabelle trennt nun primäre Artikulationsorte von emphatischer Sekundärartikulation. Die Darstellung der Langvokale unterscheidet IPA-Phoneme von den typischen arabischen Schreibungen mit Vokalzeichen und *mater lectionis*.
+- **Referenztabelle:** Die gleichen Unterscheidungen wurden in der eigenständigen Phoneminventar-Tabelle nachvollzogen.
+
+**Quellen- und Prüfgrenze:** Die redaktionellen Änderungen orientieren sich an Rydings MSA-Referenzgrammatik (2005), insbesondere Kap. 3–4 und Kap. 2 (Morphologie, Syntax, Phonologie), sowie an der dort ausgewiesenen Terminologie. Die aktuelle Runde ist eine fachredaktionelle Plausibilitäts- und Präzisierungsprüfung, keine unabhängige Begutachtung aller Beispiele oder eine externe Peer-Review. Die Verteilung und phonetische Realisierung einzelner Phoneme bleibt varietäten- und analyseabhängig.
