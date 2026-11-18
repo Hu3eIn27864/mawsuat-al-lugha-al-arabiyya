@@ -72,6 +72,12 @@ Diese Datei sammelt verifizierte Literatur und Ressourcen. Einträge werden erst
 - Ayad, Salim. 2021. „Recherche en littérature écrite d’expression amazighe : état des lieux et typologie“. *Multilinguales* 15.
 - Aït Dahmane, Karima. 2023. „De l’imaginaire linguistique à la création littéraire en Algérie : altérité, discours et mémoire“. *Revue RIDILCA* 2(1): 11–19.
 - Centre de Recherche en Anthropologie Sociale et Culturelle (CRASC). 2002. *The Algerian Arabic-Language Novel: Critical Readings*. Oran: CRASC.
+- Roy, Modhumita. 2024. „Peripheral Realisms, War, and Catastrophe in Contemporary Iraqi Fiction“. In *The Oxford Handbook of Global Realisms*, S. 707–726. DOI: 10.1093/oxfordhb/9780197610640.013.20.
+- Hammood, Zainab Abd Ali. 2024. „Narratives of a Nation: Iraqi Literature in the Post-2003 Era“. *Manar Elsharq Journal for Literature and Language Studies* 2(2): 14–18. DOI: 10.56961/mejlls.v2i2.649.
+- Hanoosh, Yasmeen. 2019. „In Search of the Iraqi Other: Iraqi Fiction in Diaspora and the Discursive Reenactment of Ethno-Religious Identities“. *Humanities* 8(4): 157. DOI: 10.3390/h8040157.
+- Saeed, Fatima Saeed Awadh. 2022. *Yemeni Novels in the Twentieth Century: Their Inception and Development*. Masterarbeit, Freie Universität Berlin. DOI: 10.17169/refubium-41634.
+- „The Woman and The Other in the Contemporary Yemeni Novel: A Socio-Textual Study“. 2024. *Sana'a University Journal of Human Sciences* 3(1). DOI: 10.59628/jhs.v3i1.958.
+- Ahmed Mocbil, Ahmed Saeed. 2025. „Narrative Disruption and Collective Trauma in Yemeni Novels“. DOI: 10.53898/jpes2025425.
 - Hanoosh, Yasmeen und Qussay Al-Attabi. 2025. „Prefatory Note: Cultural Production in Modern Iraq“. *Journal of Arabic Literature* 56(1–2): 1–3. DOI: 10.1163/1570064X-12341539.
 - Caiani, Fabio und Catherine Cobham. 2013. *The Iraqi Novel: Key Writers, Key Texts*. Edinburgh: Edinburgh University Press. DOI: 10.3366/edinburgh/9780748641413.001.0001.
 - Caiani, Fabio und Catherine Cobham. 2010. „Bread and Cinema: Baghdad in *al-Nakhla wa-'l-jīrān* by Ghā'ib Ṭu‘ma Farmān“. *Middle Eastern Literatures* 13(3): 231–259. DOI: 10.1080/1475262X.2010.523203.
