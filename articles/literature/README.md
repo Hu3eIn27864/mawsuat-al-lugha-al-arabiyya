@@ -21,6 +21,7 @@ Hier entstehen Artikel zu Theorien, Methoden, Gattungen, Epochen, literarischen 
 - [Sudanesische Literatur](regions/sudanese-literature.md)
 - [Palästinensische Literatur](regions/palestinian-literature.md)
 - [Irakische Literatur](regions/iraqi-literature.md)
+- [Kurdischsprachige Literatur im Irak](regions/iraqi-kurdish-literature.md)
 - [Literatur der Levante](regions/levantine-literature.md)
 - [Jemenitische Literatur](regions/yemeni-literature.md)
 - [Tunesische Literatur](regions/tunisian-literature.md)
@@ -62,6 +63,7 @@ Hier entstehen Artikel zu Theorien, Methoden, Gattungen, Epochen, literarischen 
 - [Aḥmad Saʿdāwī – أحمد سعداوي](authors/ahmed-saadawi.md)
 - [Sinān Anṭūn – سنان أنطون](authors/sinan-antoon.md)
 - [Ḥasan Blāsim – حسن بلاسم](authors/hassan-blasim.md)
+- [Şêrko Bêkes – شێرکۆ بێکەس](authors/sherko-bekas.md)
 - [Malikat al-Dār Muḥammad – ملكة الدار محمد](authors/malikat-al-dar-muhammad.md)
 
 ## Terminologie
