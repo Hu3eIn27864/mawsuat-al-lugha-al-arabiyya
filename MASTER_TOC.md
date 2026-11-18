@@ -192,6 +192,7 @@ Diese Gliederung definiert den fachlichen Rahmen der Enzyklopädie. Sie ist ein 
 - [Sudanesische Literatur](articles/literature/regions/sudanese-literature.md)
 - [Palästinensische Literatur](articles/literature/regions/palestinian-literature.md)
 - [Irakische Literatur](articles/literature/regions/iraqi-literature.md)
+- [Kurdischsprachige Literatur im Irak](articles/literature/regions/iraqi-kurdish-literature.md)
 - [Literatur der Levante](articles/literature/regions/levantine-literature.md)
 - [Jemenitische Literatur](articles/literature/regions/yemeni-literature.md)
 - [Tunesische Literatur](articles/literature/regions/tunisian-literature.md)
@@ -239,6 +240,7 @@ Diese Gliederung definiert den fachlichen Rahmen der Enzyklopädie. Sie ist ein 
 - [Aḥmad Saʿdāwī – أحمد سعداوي](articles/literature/authors/ahmed-saadawi.md)
 - [Sinān Anṭūn – سنان أنطون](articles/literature/authors/sinan-antoon.md)
 - [Ḥasan Blāsim – حسن بلاسم](articles/literature/authors/hassan-blasim.md)
+- [Şêrko Bêkes – شێرکۆ بێکەس](articles/literature/authors/sherko-bekas.md)
 - [Āmil Muḫtār – آمال مختار](articles/literature/authors/amel-mokhtar.md)
 
 ## Teil XV – Historischer Kontext und sprachliche Überlieferung | السياق التاريخي والتراث اللغوي
