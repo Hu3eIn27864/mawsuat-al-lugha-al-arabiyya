@@ -20,22 +20,23 @@ Für die Beschreibung des Arabischen ist diese Unterscheidung besonders wichtig:
 
 Das moderne Hocharabisch wird in vielen Referenzgrammatiken mit einem Inventar von 28 Konsonantenphonemen beschrieben. Die folgende Tabelle ist eine vereinfachte phonologische Übersicht; phonetische Realisierungen und Klassifikationen einzelner Segmente können je nach Analyse variieren.
 
-| Artikulationsort / Art | Plosive | Frikative | Nasale / Liquide / Approximanten |
+| Artikulationsort | Plosive | Frikative | Nasale / Liquide / Approximanten |
 |---|---|---|---|
 | Bilabial | /b/ | – | /m/ |
 | Labiodental | – | /f/ | – |
 | Dental / interdental | /t, d/ | /θ, ð/ | – |
 | Alveolar | – | /s, z/ | /n, r, l/ |
-| Emphatisch / pharyngalisiert | /tˤ, dˤ/ | /sˤ, ðˤ/ | – |
 | Postalveolar | – | /ʃ/ | – |
 | Palatal | – | – | /j/ |
-| Velar | /k/ | /x, ɣ/ | – |
-| Uvular | /q/ | – | – |
+| Velar | /k/ | /x/ | – |
+| Uvular | /q/ | /ɣ/ | – |
 | Pharyngeal | – | /ħ, ʕ/ | – |
 | Glottal | /ʔ/ | /h/ | – |
 | Labio-velar | – | – | /w/ |
 
-Die Tabelle verwendet IPA-Symbole. In der Literatur unterscheiden sich Transkriptionskonventionen und die genaue Einordnung einzelner Laute. /w/ und /j/ werden häufig als Approximanten bzw. Gleitlaute beschrieben; in bestimmten morphologischen und phonotaktischen Zusammenhängen verhalten sie sich vokalähnlich.
+**Sekundäre Artikulation:** Die emphatischen Gegenstücke /tˤ, dˤ, sˤ, ðˤ/ werden nicht als eigener Artikulationsort aufgeführt. Sie teilen den primären Artikulationsort mit den entsprechenden nicht-emphatischen Korrelaten und unterscheiden sich durch eine sekundäre pharyngalisierte bzw. pharyngealisierte Artikulation. Die genaue phonetische Umsetzung ist sprecher- und analyseabhängig.
+
+Die Tabelle verwendet IPA-Symbole und ist ein Referenzmodell, keine vollständige phonetische Beschreibung. Die Zuordnung von /x/ und /ɣ/ zu velarem bzw. uvularem Artikulationsort variiert in der Literatur und in den Aussprachetraditionen. /w/ und /j/ werden häufig als Approximanten bzw. Gleitlaute beschrieben; in bestimmten morphologischen und phonotaktischen Zusammenhängen verhalten sie sich vokalähnlich.
 
 ## 4. Emphatische Konsonanten
 
@@ -47,11 +48,16 @@ Emphatische Konsonanten können die Qualität benachbarter Vokale beeinflussen. 
 
 Das grundlegende MSA-Vokalsystem wird meist mit drei kurzen und drei langen Vokalphonemen beschrieben:
 
-| Kurz | Lang | Typische IPA-Transkription |
+| Phonem | Länge | Häufige orthographische Entsprechung in vokalisierten Texten |
 |---|---|---|
-| ِ / kasra | ي / ياء المد | /i/ – /iː/ |
-| َ / fatḥa | ا / ألف المد | /a/ – /aː/ |
-| ُ / ḍamma | و / واو المد | /u/ – /uː/ |
+| /i/ | kurz | Kasra (ِ) |
+| /iː/ | lang | Kasra + ي (z. B. ـِي) |
+| /a/ | kurz | Fatḥa (َ) |
+| /aː/ | lang | Fatḥa + ا (z. B. ـَا) |
+| /u/ | kurz | Ḍamma (ُ) |
+| /uː/ | lang | Ḍamma + و (z. B. ـُو) |
+
+Die Langvokalbuchstaben ا، و، ي sind keine eigenständigen IPA-Lautwerte; die Tabelle zeigt typische Schreibungen in vokalisierten Formen. Die tatsächliche Orthographie hängt von Position und Wortstruktur ab.
 
 Die Länge ist phonologisch relevant: kurze und lange Vokale können Wörter oder grammatische Formen unterscheiden. Die traditionelle Bezeichnung „kurz/lang“ fasst ein komplexes phonetisches Verhältnis zusammen; insbesondere bei tiefen Vokalen werden in der Forschung neben Dauer auch Qualitätsunterschiede diskutiert.
 
