@@ -123,6 +123,7 @@ Bei der Auswahl von Autor:innen und Texten ist darauf zu achten, dass internatio
 - [Qāsim Ḥaddād](authors/qassim-haddad.md)
 - [Sulṭān al-ʿAmīmī](authors/sultan-al-ameemi.md)
 - [Āmil Muḫtār](authors/amel-mokhtar.md)
+- [Muḥammad Barrāda](authors/mohammed-berrada.md)
 
 ## 11. Weiterführende Literatur
 
