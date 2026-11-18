@@ -75,7 +75,13 @@ Literarische Kanones entstehen durch Auswahlprozesse: Verlage, Schulen, Universi
 
 Jeder Einzelartikel sollte Primärtexte in arabischer Sprache benennen, verwendete Ausgaben und Übersetzungen unterscheiden und regionale sowie zeitliche Grenzen offenlegen. Biographische Angaben sind von literaturkritischen Werturteilen zu trennen. Bei lebenden Autor:innen sind überprüfbare Quellen und zurückhaltende Formulierungen besonders wichtig.
 
-## 9. Weiterführende Literatur
+## 9. Forschungsperspektiven und Beispiele
+
+Die Literaturgeschichte sollte nicht nur nach Gattungen und Nationalstaaten, sondern auch nach Medien, Übersetzungswegen, Mehrsprachigkeit und transnationalen Öffentlichkeiten geschrieben werden. Der 2026 erschienene *Cambridge Companion to Modern Arabic Literature* strukturiert seine Beiträge ausdrücklich nach Zeit, Sprache, Geographie und Medien und problematisiert starre Periodisierungen sowie die Gegensätze fuṣḥā/ʿāmmiyya und Mashriq/Maghrib. Das ist ein hilfreicher Ausgangspunkt, ersetzt aber keine regionalen Einzelstudien.
+
+Bei der Auswahl von Autor:innen und Texten ist darauf zu achten, dass internationale Übersetzungspräsenz nicht mit Repräsentativität gleichgesetzt wird. Ägyptische, irakische, palästinensische, syrische, libanesische, sudanesische, maghrebinische und golfarabische Literaturproduktionen sowie Diaspora- und mehrsprachige Kontexte müssen jeweils in ihrer eigenen historischen und medialen Konstellation untersucht werden.
+
+## 10. Weiterführende Literatur
 
 - Badawi, M. M. (Hg.). 1992. *Modern Arabic Literature*. Cambridge: Cambridge University Press.
 - Badawi, M. M. 1993. *A Short History of Modern Arabic Literature*. Oxford: Clarendon Press.
