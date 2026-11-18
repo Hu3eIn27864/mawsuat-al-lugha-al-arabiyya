@@ -92,8 +92,8 @@ Ein wissenschaftlich brauchbarer Korpus besitzt eine zitierfähige Version und e
 
 ## 10. Weiterführende Ressourcen und Literatur
 
-- Bouamor, Houda, et al. 2018. “The MADAR Arabic Dialect Corpus and Lexicon.” Proceedings of LREC 2018.
-- Ditters, Everhard. 2013/2017. “Issues in Arabic Computational Linguistics.” In *The Oxford Handbook of Arabic Linguistics*. DOI: 10.1093/oxfordhb/9780199764136.013.010.
+- Bouamor, Houda, Nizar Habash, Mohammad Salameh, Wajdi Zaghouani, Owen Rambow, Dana Abdulrahim, Ossama Obeid, Salam Khalifa, Fadhl Eryani, Alexander Erdmann und Kemal Oflazer. 2018. “The MADAR Arabic Dialect Corpus and Lexicon.” *Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)*, Miyazaki. DOI: 10.63317/4wv9mx9ftkrk.
+- Ditters, Everhard. 2013; aktualisierte Fassung 2017. “Issues in Arabic Computational Linguistics.” In *The Oxford Handbook of Arabic Linguistics*, 213–240. DOI: 10.1093/oxfordhb/9780199764136.013.010_update_001.
 - Masader: ARBML, Katalog arabischer NLP-Datensätze: https://arbml.github.io/masader/
 - MADAR Project: https://sites.google.com/nyu.edu/madar/
 - Currasat: https://sina.birzeit.edu/currasat/about-en.html
