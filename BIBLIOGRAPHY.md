@@ -53,6 +53,7 @@ Diese Datei sammelt verifizierte Literatur und Ressourcen. Einträge werden erst
 - al-Rāʿī, ʿAlī. 1993. “Arabic Drama since the Thirties.” In M. M. Badawi (Hg.), *Modern Arabic Literature*, S. 358–403. Cambridge: Cambridge University Press. DOI: 10.1017/CHOL9780521331975.011.
 - Badawi, M. M. 1988. *Modern Arabic Drama in Egypt*. Cambridge: Cambridge University Press. DOI: 10.1017/CBO9780511470417.
 - Mejcher-Atassi, Sonja und Robert Myers (Hg.). 2021. *The Theatre of Sa’dallah Wannous: A Critical Study of the Syrian Playwright and Public Intellectual*. Cambridge: Cambridge University Press. DOI: 10.1017/9781108973182.
+- Hafez, Sabry. 1993. “The Modern Arabic Short Story.” In M. M. Badawi (Hg.), *Modern Arabic Literature*, S. 270–328. Cambridge: Cambridge University Press. DOI: 10.1017/CHOL9780521331975.009.
 - Johnson-Davies, Denys (Hg. und Übers.). 1967. *Modern Arabic Short Stories*. Oxford: Oxford University Press. (Anthologie mit Erzählungen aus mehreren arabischen Ländern; Auswahl und Übersetzungsrahmen sind historisch zu kontextualisieren.)
 - Literaturgeschichte und Periodisierung
 - Lyrik, Roman, Kurzgeschichte und Drama
