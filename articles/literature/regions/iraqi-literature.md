@@ -5,7 +5,7 @@
 
 ## 1. Gegenstand und Vielfalt
 
-Irakische Literatur ist weder auf Bagdad noch auf eine einzige Sprach-, Religions- oder Exilerfahrung zu reduzieren. Sie umfasst unterschiedliche regionale, konfessionelle, ethnische und soziale Kontexte sowie Autor:innen, die im Irak und in der Diaspora publizieren. Arabisch ist eine zentrale Literatursprache; daneben sind kurdische, syrische/aramäische und weitere literarische Traditionen Teil des kulturellen Feldes. Der vorliegende Artikel behandelt primär arabischsprachige Literatur und markiert diese Begrenzung ausdrücklich.
+Irakische Literatur ist weder auf Bagdad noch auf eine einzige Sprach-, Religions- oder Exilerfahrung zu reduzieren. Sie umfasst unterschiedliche regionale, konfessionelle, ethnische und soziale Kontexte sowie Autor:innen, die im Irak und in der Diaspora publizieren. Arabisch ist eine zentrale Literatursprache; daneben sind kurdische, syrische/aramäische und weitere literarische Traditionen Teil des kulturellen Feldes. Der vorliegende Artikel behandelt primär arabischsprachige Literatur und markiert diese Begrenzung ausdrücklich. Die eigenständige Geschichte der kurdischsprachigen Literatur im Irak wird in einem ergänzenden Regionalartikel dargestellt.
 
 ## 2. Historische Entwicklung
 
@@ -49,7 +49,13 @@ Al-Sayyāb ist ein zentraler Bezugspunkt für moderne Lyrik. In der Prosa sind u
 
 Viele irakische Autor:innen publizieren oder leben außerhalb des Irak. Exil ist dabei nicht als einheitliche Erfahrung zu behandeln: Generation, Aufenthaltsland, Sprache, Übersetzungsmarkt und politische Biografie prägen unterschiedliche Schreibpositionen. Auch die Rückkehr, die Erinnerung an konkrete Städte und die Spannung zwischen lokaler Erfahrung und globaler Leserschaft sind wiederkehrende Forschungsfelder.
 
-## 7. Forschungsfragen
+## 7. Mehrsprachige Literaturgeschichte: kurdische Traditionen
+
+Kurdischsprachige Literatur ist ein eigenständiger Bestandteil der Literaturen des Irak und zugleich mit Publikations- und Rezeptionsräumen in anderen Teilen Kurdistans sowie der Diaspora verbunden. Ihre Geschichte lässt sich nicht als bloßer Unterabschnitt der arabischsprachigen Literatur beschreiben. Für die soranische Literatur sind die Druckerei in Sulaymaniyah (1919), die Zeitschriftenkultur der Zwischenkriegszeit und die Entwicklung moderner Lyrik und Prosa wichtige Bezugspunkte. ʿAbdullāh Gōrān und Şêrko Bêkes stehen für unterschiedliche Phasen poetischer Erneuerung; die Roman- und Kurzprosageschichte ist unter eigenen sprachlichen und institutionellen Bedingungen zu untersuchen.
+
+Ein eigener Überblick behandelt die [kurdischsprachige Literatur im Irak](iraqi-kurdish-literature.md) und das [Profil von Şêrko Bêkes](../authors/sherko-bekas.md). Diese Ergänzung ist kein Ersatz für eine systematische Darstellung kurmandschischer, hawramischer und weiterer Traditionen sowie der syrisch/aramäischen Literatur im Irak.
+
+## 8. Forschungsfragen
 
 1. Wie veränderten Zensur, Krieg und politische Umbrüche die Formen und Institutionen literarischer Produktion?
 2. Wie lassen sich literarische Entwicklungen außerhalb Bagdads erfassen?
@@ -57,11 +63,11 @@ Viele irakische Autor:innen publizieren oder leben außerhalb des Irak. Exil ist
 4. Wie verändern Übersetzung und Diaspora die Rezeption irakischer Literatur?
 5. Welche Erzählverfahren gestalten Alltag und soziale Beziehungen jenseits der Kriegsdarstellung?
 
-## 8. ملخص بالعربية
+## 9. ملخص بالعربية
 
 يمتاز الأدب العراقي الحديث والمعاصر بتعدد مناطقه وأجياله وأشكاله ولغاته. وقد أسهمت الصحافة والتعليم والتحولات الاجتماعية في تطور الشعر والرواية والقصة القصيرة والمسرح. وتُعد تجربة بدر شاكر السياب محطة مهمة في تحديث الشعر العربي، بينما تطورت الرواية والقصة عبر اتجاهات واقعية وحداثية وتجريبية متعددة. أثّرت الدكتاتورية والحروب والرقابة والمنفى في شروط الإنتاج الأدبي، غير أن الأدب العراقي لا يقتصر على تصوير العنف؛ فهو يتناول أيضاً الحياة اليومية والأسرة والمدينة والذاكرة والفكاهة والعلاقات الاجتماعية. وتتطلب دراسته توسيع الاهتمام خارج بغداد، ومراعاة التعدد اللغوي والديني، وشبكات النشر والترجمة والشتات.
 
-## 9. Literatur und Quellen
+## 10. Literatur und Quellen
 
 - Caiani, Fabio und Catherine Cobham. 2013. *The Iraqi Novel: Key Writers, Key Texts*. Edinburgh University Press. DOI: [10.3366/edinburgh/9780748641413.001.0001](https://doi.org/10.3366/edinburgh/9780748641413.001.0001).
 - Caiani, Fabio und Catherine Cobham. 2010. „Bread and Cinema: Baghdad in *al-Nakhla wa-'l-jīrān* by Ghā'ib Ṭu‘ma Farmān“. *Middle Eastern Literatures* 13(3): 231–259. DOI: [10.1080/1475262X.2010.523203](https://doi.org/10.1080/1475262X.2010.523203).
