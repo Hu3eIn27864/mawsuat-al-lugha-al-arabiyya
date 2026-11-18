@@ -21,7 +21,11 @@ Die moderne kurdische Dichtung entstand nicht durch einen einzigen Bruch mit der
 
 ʿAbdullāh Gōrān (1904–1962) gilt als zentrale Figur der Erneuerung der kurdischen Lyrik. Seine Arbeit an freieren Versformen und neuen poetischen Registern veränderte die Möglichkeiten moderner kurdischer Dichtung. Die Entwicklung darf jedoch nicht auf eine einzelne „Gründungsfigur“ reduziert werden: Sie beruhte auf mehreren Generationen von Dichter:innen, Zeitschriften, Übersetzungen und literarischen Debatten.
 
-## 4. Şêrko Bêkes und die Lyrik nach 1960
+## 4. ʿAbdullāh Gōrān und die poetische Moderne
+
+ʿAbdullāh Gōrān (1904–1962) verband klassische und volksliedhafte Formen mit freiem Vers, Prosagedicht und neuen Reimschemata. Seine Lyrik entwickelte sich von romantischen Natur- und Liebesbildern zu stärker sozialkritischen und realistischen Themen. Als Redakteur von *Jîn* und Übersetzer aus mehreren Sprachen wirkte er auch an der modernen literarischen Öffentlichkeit mit. Die Forschung betont, dass Gōrān nicht als alleiniger Begründer der modernen kurdischen Poesie gelten sollte: Weitere Dichter:innen waren an der Erneuerung beteiligt. Ein [eigenes Profil](../authors/abdullah-goran.md) behandelt Werk und Rezeption ausführlicher.
+
+## 5. Şêrko Bêkes und die Lyrik nach 1960
 
 Şêrko Bêkes (Sherko Bekas, 1940–2013) gehört zu den international sichtbarsten Dichtern aus dem irakischen Kurdistan. Seine Lyrik löste sich von festgelegten Reim- und Metrumsformen und entwickelte Bildfolgen, freie Versstrukturen sowie das von ihm geprägte Konzept des „Poster-Gedichts“. Seine Texte verbinden Landschaft, politische Gewalt, Erinnerung, Freiheit und soziale Kritik, ohne auf eine einzige nationale oder politische Botschaft reduziert werden zu können.
 
@@ -29,7 +33,7 @@ Die Bewegung Riwanga/Rûwange (etwa „Vision“) steht für eine literarische E
 
 Bêkes’ Exil in Schweden (1987–1992) und seine Rückkehr nach dem politischen Umbruch von 1991 zeigen, wie eng literarische Produktion, politische Repression und transnationale Zirkulation miteinander verflochten waren. Seine Gedichte wurden unter anderem ins Arabische, Englische, Deutsche, Französische und Schwedische übersetzt. Die Übersetzung ist damit nicht nur Rezeptionsweg, sondern ein zentraler Teil der modernen Geschichte kurdischer Literatur.
 
-## 5. Roman, Diaspora und Übersetzung
+## 6. Roman, Diaspora und Übersetzung
 
 Die moderne kurdische Erzählprosa entwickelte sich unter Bedingungen politischer Teilung und unterschiedlicher staatlicher Sprachregime. Galip zeigt, dass kurdische Romane aus verschiedenen Regionen nicht zu einer homogenen „Nationalliteratur“ zusammengefasst werden können: Sie verhandeln unterschiedliche soziale Kontexte, Grenzerfahrungen, Krieg, Verlust, Rückkehr und Zugehörigkeit.
 
@@ -37,11 +41,11 @@ Für den irakischen Kontext dokumentiert Ameen Abdulqader Omars Dissertation die
 
 Die Übersetzung kurdischer Literatur ins Englische ist ebenfalls selektiv. Ghaderi und Scalbert Yücel untersuchen, wie Übersetzungskorpora, Verlage, Förderinstitutionen und Vermittler:innen ein bestimmtes Bild kurdischer Literatur erzeugen. Die internationale Sichtbarkeit einzelner Autor:innen ist deshalb nicht mit der Vielfalt des literarischen Feldes gleichzusetzen.
 
-## 6. Frauen, Kanon und institutionelle Bedingungen
+## 7. Frauen, Kanon und institutionelle Bedingungen
 
 Die literarische und intellektuelle Arbeit kurdischer Frauen muss als eigener Forschungsbereich berücksichtigt werden. Eine Studie zu kurdischen Frauen im Irak verbindet literarische Produktion mit politischen Bewegungen und zeigt, dass Frauen sowohl durch staatliche Repression als auch innerhalb nationalistischer Institutionen marginalisiert werden konnten. Eine Literaturgeschichte darf deshalb nicht nur bekannte männliche Dichter und Romanciers als repräsentativen Kanon behandeln.
 
-## 7. Forschungsfragen
+## 8. Forschungsfragen
 
 - Wie unterscheiden sich soranische, kurmandschische und weitere kurdische Sprach- und Schrifttraditionen in den literarischen Öffentlichkeiten des Irak?
 - Wie beeinflussten Druckwesen, Presse und Zeitschriften die Entstehung moderner Prosa und Lyrik?
@@ -49,7 +53,7 @@ Die literarische und intellektuelle Arbeit kurdischer Frauen muss als eigener Fo
 - Wie verändern Exil, Mehrsprachigkeit und Übersetzung die literarische Produktion und Kanonbildung?
 - Wie können Autorinnen, regionale Zentren und weniger übersetzte Gattungen systematischer erschlossen werden?
 
-## 8. Auswahl weiterführender Forschung und Ressourcen
+## 9. Auswahl weiterführender Forschung und Ressourcen
 
 - Kreyenbroek, Philip G. „Kurdish Written Literature“. *Encyclopaedia Iranica*. https://www.iranicaonline.org/articles/kurdish-written-literature/.
 - Ghaderi, Farangis. 2022. „Poetics of Modernity and Nationalism: Revisiting the Emergence of Modern Kurdish Poetry“. *Literature Compass* 19(7). DOI: 10.1111/lic3.12675.
@@ -66,6 +70,7 @@ Die literarische und intellektuelle Arbeit kurdischer Frauen muss als eigener Fo
 ## Verwandte Artikel
 
 - [Irakische Literatur](iraqi-literature.md)
+- [ʿAbdullāh Gōrān – عەبدوڵڵا گۆران](../authors/abdullah-goran.md)
 - [Şêrko Bêkes – شێرکۆ بێکەس](../authors/sherko-bekas.md)
 - [Assia Djebar](../authors/assia-djebar.md)
 - [Moderne und zeitgenössische arabische Literatur: Überblick](../modern-arabic-literature-overview.md)
