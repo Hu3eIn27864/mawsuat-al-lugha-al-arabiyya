@@ -55,6 +55,13 @@ Diese Datei sammelt verifizierte Literatur und Ressourcen. Einträge werden erst
 - Mejcher-Atassi, Sonja und Robert Myers (Hg.). 2021. *The Theatre of Sa’dallah Wannous: A Critical Study of the Syrian Playwright and Public Intellectual*. Cambridge: Cambridge University Press. DOI: 10.1017/9781108973182.
 - Hafez, Sabry. 1993. “The Modern Arabic Short Story.” In M. M. Badawi (Hg.), *Modern Arabic Literature*, S. 270–328. Cambridge: Cambridge University Press. DOI: 10.1017/CHOL9780521331975.009.
 - Johnson-Davies, Denys (Hg. und Übers.). 1967. *Modern Arabic Short Stories*. Oxford: Oxford University Press. (Anthologie mit Erzählungen aus mehreren arabischen Ländern; Auswahl und Übersetzungsrahmen sind historisch zu kontextualisieren.)
+- Athoʿillah, Achmad. 2009. „Nāzik al-Malāʾikah: Sepintas Biografi dan Pemikirannya tentang Puisi Bebas“. *Adabiyyāt* 8(1): 95–110. DOI: 10.14421/ajbs.2009.08105.
+- Hengil, Ayten und Gürkan Dağbaşı. 2026. „The Founding Voice of Free Verse: On the Poetics of Nazik Al-Malaika“. *International Journal of Language Academy* 59: 118–128. DOI: 10.29228/ijla.95524.
+- Tramontini, Leslie. 2018. „al-Sayyāb, Badr Shākir (1926–1964)“. *Routledge Encyclopedia of Modernism*. DOI: 10.4324/9781135000356-REM1958-1.
+- „Badr Shākir al-Sayyāb between Communism and World Literature“. 2022. In *Reorienting Modernism in Arabic and Persian Poetry*, S. 97–120. Cambridge University Press. DOI: 10.1017/9781009164467.007.
+- Mejcher-Atassi, Sonja und Robert Myers (Hg.). 2021. *The Theatre of Sa'dallah Wannous: A Critical Study of the Syrian Playwright and Public Intellectual*. Cambridge University Press. DOI: 10.1017/9781108973182.
+- Royal Society of Literature. „Tayeb Salih“. https://rsliterature.org/anthologies/tayeb-salih/.
+- Academy of American Poets. „Mahmoud Darwish“. https://poets.org/poet/mahmoud-darwish.
 - Literaturgeschichte und Periodisierung
 - Lyrik, Roman, Kurzgeschichte und Drama
 - Literaturkritik und Theorie
