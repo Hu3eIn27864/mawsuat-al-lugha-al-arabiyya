@@ -221,6 +221,9 @@ Diese Gliederung definiert den fachlichen Rahmen der Enzyklopädie. Sie ist ein 
 - [Hudā Barakāt – هدى بركات](articles/literature/authors/hoda-barakat.md)
 - [Ǧūḫa al-Ḥāriṯī – جوخة الحارثي](articles/literature/authors/jokha-al-harthi.md)
 - [Aḥlām Mustaġānimī – أحلام مستغانمي](articles/literature/authors/ahlam-mosteghanemi.md)
+- [Inʿām Kaǧaǧī – إنعام كجه جي](articles/literature/authors/inaam-kachachi.md)
+- [Laylā Abū al-ʿAlā – ليلى أبو العلا](articles/literature/authors/leila-aboulela.md)
+- [Buṯayna al-ʿĪsā – بثينة العيسى](articles/literature/authors/bothayna-al-essa.md)
 
 ## Teil XV – Historischer Kontext und sprachliche Überlieferung | السياق التاريخي والتراث اللغوي
 
