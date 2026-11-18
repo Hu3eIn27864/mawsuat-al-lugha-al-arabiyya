@@ -130,3 +130,26 @@ Die vierte Runde hat die vier Literaturartikel, die Literaturchronologie, das Li
 **Ausgewählte Quellenprüfung:** Sabry Hafez behandelt die moderne arabische Kurzgeschichte als seit den letzten Jahrzehnten des 19. Jahrhunderts entstehende Gattung (*The Modern Arabic Short Story*, in M. M. Badawi (Hg.), *Modern Arabic Literature*, 1993, S. 270–328; DOI 10.1017/CHOL9780521331975.009). Colla (2008) problematisiert die nachträgliche Kanonisierung von Haykals *Zaynab*. Fakhreddine (2021) behandelt die poetologische Eigenständigkeit des Prosagedichts; die Verlagsmetadaten bestätigen Titel und Erscheinungsjahr. Cambridge dokumentiert außerdem die Entwicklung des modernen arabischen Theaters mit früheren Bezügen zu Beirut und Kairo sowie die Bedeutung von Wannūs für syrisches und arabisches Theater (2021). Der 2026 erschienene *Cambridge Companion* stellt Zeit, Register, transnationale Geographie und Medien in den Mittelpunkt.
 
 **Prüfgrenze:** Die ergänzten Autor:innenlisten sind exemplarisch, nicht repräsentativ oder abschließend. Die Primärwerke wurden nicht in allen Fällen anhand ihrer Erstausgaben kollationiert; entsprechende bibliographische Detailarbeit bleibt Aufgabe der nächsten Ausbaustufe. Auch diese Runde ist kein externes Peer Review.
+
+
+## Fünfte Prüfrunde: Autor:innenprofile (18.11.2026)
+
+Fünf eigenständige Profile wurden neu angelegt und in der Literaturgliederung verlinkt:
+
+- `articles/literature/authors/nazik-al-malaika.md`
+- `articles/literature/authors/badr-shakir-al-sayyab.md`
+- `articles/literature/authors/mahmoud-darwish.md`
+- `articles/literature/authors/saadallah-wannous.md`
+- `articles/literature/authors/tayeb-salih.md`
+
+Die Profile folgen einem gemeinsamen Schema aus Einordnung, Biografie, Werkentwicklung, Form bzw. Erzählverfahren, Kontext, Rezeption, Forschungsfragen und Quellen. Inhaltliche Schwerpunkte:
+
+- **Nāzik al-Malāʾika:** Gedicht „al-Kūlīrā“ (1947), frühe Sammlungen und poetologische Schrift *Qaḍāyā al-šiʿr al-muʿāṣir* (1962). Die häufige Zuschreibung als „erste“ freie Versdichterin wird als literaturhistorisch umstrittene Kurzformel qualifiziert.
+- **Badr Šākir al-Sayyāb:** „Unšūdat al-maṭar“ und die Verbindung von variabler metrischer Form, Mythos, politischer Erfahrung und Landschaft. Datierung der Erstveröffentlichung wird von späteren Sammlungsdaten unterschieden.
+- **Maḥmūd Darwīš:** Werkentwicklung von *Awrāq al-zaytūn* (1964) bis *Ǧidāriyya* (2000), Exil, Erinnerung und poetische Selbstreflexion. Das Profil vermeidet eine Reduktion auf die politische Etikettierung als „Widerstandsdichter“.
+- **Saʿdallāh Wannūs:** Theaterarbeit, Institutionen und die Frage nach Theater als politischer Öffentlichkeit. Die Darstellung stützt sich auf die Cambridge-Monographie von Mejcher-Atassi und Myers (2021).
+- **al-Ṭayyib Ṣāliḥ:** *Mawsim al-hiǧra ilā al-šamāl* (1966), *ʿUrs al-Zayn* und die Erzählwelt Nord-Sudans. Die Interpretation berücksichtigt Kolonialismus, Geschlecht, Dorf/Stadt und die Mehrdeutigkeit der Erzählperspektive.
+
+**Quellenbasis:** Poetry Foundation und Academy of American Poets für biographische und werkbibliographische Eckdaten; Routledge Encyclopedia of Modernism und Cambridge University Press für al-Sayyāb; Cambridge University Press für Wannūs; Royal Society of Literature und Penguin Random House für Ṣāliḥ. Für al-Malāʾika wurden zusätzlich wissenschaftliche Beiträge zur Poetik und Geschichte des freien Verses aufgenommen.
+
+**Prüfgrenze:** Die Profile sind einführende wissenschaftliche Arbeitsartikel, keine vollständigen Werkbibliographien. Insbesondere arabische Erstausgaben, Varianten der Transliteration und einzelne Gedichtdatierungen bedürfen weiterer Prüfung an Primär- und Katalogquellen. Die Artikel wurden nicht extern peer-reviewt.
