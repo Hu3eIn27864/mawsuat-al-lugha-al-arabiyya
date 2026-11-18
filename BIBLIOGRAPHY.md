@@ -51,7 +51,7 @@ Diese Datei sammelt verifizierte Literatur und Ressourcen. Einträge werden erst
 - Ashour, Radwa, Ferial Ghazoul und Hasna Reda-Mekdashi (Hg.). 2008. *Arab Women Writers: A Critical Reference Guide, 1873–1999*. American University in Cairo Press. DOI: 10.5743/cairo/9789774161469.001.0001. (Bibliographischer und kritischer Überblick zu arabischen Autorinnen.)
 - Oladosu, Afis Ayinde. 2024. „Modern Sudanese Literature“. *Oxford Research Encyclopedia of Literature*. DOI: 10.1093/acrefore/9780190201098.013.1442.
 - al-Ghadeer, Moneera. 2026. „Khalij“. In *The Cambridge Companion to Modern Arabic Literature*, S. 157–173. Cambridge University Press. DOI: 10.1017/9781009748810.012.
-- El Guabli, Brahim. 2026. „Darija and Tamazight“. In *The Cambridge Companion to Modern Arabic Literature*, S. 99–115. Cambridge University Press. DOI: 10.1017/9781009748810.007.
+- El Guabli, Brahim. 2026. „Darija and Tamazight“. In *The Cambridge Companion to Modern Arabic Literature*, S. 99–115. Cambridge University Press. DOI: 10.1017/9781009748810.008.
 - Kassab-Charfi, Samia. 2026. „Maghrib“. In *The Cambridge Companion to Modern Arabic Literature*, S. 141–156. Cambridge University Press. DOI: 10.1017/9781009748810.011.
 - Tijani, Olatunbosun Ishaq. 2017. „Kuwait“. In Waïl S. Hassan (Hg.), *The Oxford Handbook of Arab Novelistic Traditions*. Oxford University Press. DOI: 10.1093/oxfordhb/9780199349791.013.18.
 - Jack, Belinda. 1996. „The Maghreb“. In *Francophone Literatures: An Introductory Survey*, S. 163–164. Oxford University Press. DOI: 10.1093/oso/9780198715078.003.0009.
