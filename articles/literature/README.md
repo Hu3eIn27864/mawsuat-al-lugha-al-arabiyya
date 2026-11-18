@@ -58,6 +58,8 @@ Hier entstehen Artikel zu Theorien, Methoden, Gattungen, Epochen, literarischen 
 - [Āmil Muḫtār – آمال مختار](authors/amel-mokhtar.md)
 - [Muḥammad Barrāda – محمد برادة](authors/mohammed-berrada.md)
 - [Kāteb Yāsīn – كاتب ياسين](authors/kateb-yacine.md)
+- [Ġāʾib Ṭuʿma Farmān – غائب طعمة فرمان](authors/ghaib-tuma-farman.md)
+- [Malikat al-Dār Muḥammad – ملكة الدار محمد](authors/malikat-al-dar-muhammad.md)
 
 ## Terminologie
 
