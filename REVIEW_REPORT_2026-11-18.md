@@ -309,3 +309,19 @@ Ein regionaler Überblick und ein Autorinnenprofil wurden erstellt und in die Li
 **Methodischer Hinweis:** Tunesische Derja wird als eigenständige literarische Schreibpraxis mit eigenen Orthographie- und Registerentscheidungen behandelt, nicht als bloße Abweichung von MSA. Arabisch- und französischsprachige Literatur werden als miteinander verbundene, aber nicht identische Publikations- und Rezeptionsräume untersucht.
 
 **Prüfgrenze:** Das Profil zu Āmil Muḫtār ist ein Einstieg und keine vollständige Werkbibliographie; die Primärausgaben sind weiter zu verifizieren. Der Regionalartikel ist ein Überblicksentwurf, nicht extern peer-reviewt.
+
+
+## Vierzehnte Prüfrunde: Marokkanischer Roman und literarisches Experiment (18.11.2026)
+
+Ein weiteres Autor:innenprofil wurde erstellt und in Literatur-README, Überblick, Mastergliederung und Bibliographie integriert:
+
+- `articles/literature/authors/mohammed-berrada.md`
+
+**Inhaltliche Schwerpunkte und Quellenbasis:**
+
+- **Muḥammad Barrāda:** arabischsprachiger marokkanischer Romancier, Literaturkritiker und Übersetzer; narrative Experimente (*al-taǧrīb*), nichtlineare Komposition, lokale Sprachressourcen (insbesondere Fassi) und Vermittlung moderner Erzähltheorie. Quellenbasis: International Prize for Arabic Fiction, Banipal, e-taqafa.ma und ArabLit.
+- Das Profil stellt Barrāda nicht nur als Romancier, sondern als Akteur eines literarischen Feldes dar, in dem Übersetzung, Kritik, Universität und literarische Institutionen an der Herausbildung moderner Erzählformen beteiligt sind.
+
+**Bibliographische Vorsicht:** Institutionelle Profile nennen überwiegend 1938, einzelne Quellen 1939 als Geburtsjahr. Auch bei Titeln und Jahresangaben bestehen Abweichungen zwischen arabischen Ausgaben, Übersetzungen und Katalogen. Das Profil kennzeichnet diese Unsicherheiten und behauptet keine abschließend geprüfte Werkchronologie.
+
+**Prüfgrenze:** Der Beitrag ist ein einführendes Profil. Arabische Erstausgaben, Editionsgeschichte und Primärtextanalysen müssen noch anhand von Bibliothekskatalogen und den Texten selbst ergänzt werden; der Artikel ist nicht extern peer-reviewt.
