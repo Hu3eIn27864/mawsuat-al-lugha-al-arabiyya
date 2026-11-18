@@ -72,6 +72,11 @@ Diese Datei sammelt verifizierte Literatur und Ressourcen. Einträge werden erst
 - Ayad, Salim. 2021. „Recherche en littérature écrite d’expression amazighe : état des lieux et typologie“. *Multilinguales* 15.
 - Aït Dahmane, Karima. 2023. „De l’imaginaire linguistique à la création littéraire en Algérie : altérité, discours et mémoire“. *Revue RIDILCA* 2(1): 11–19.
 - Centre de Recherche en Anthropologie Sociale et Culturelle (CRASC). 2002. *The Algerian Arabic-Language Novel: Critical Readings*. Oran: CRASC.
+- Caiani, Fabio und Catherine Cobham. 2013. *The Iraqi Novel: Key Writers, Key Texts*. Edinburgh: Edinburgh University Press. DOI: 10.3366/edinburgh/9780748641413.001.0001.
+- Caiani, Fabio und Catherine Cobham. 2010. „Bread and Cinema: Baghdad in *al-Nakhla wa-'l-jīrān* by Ghā'ib Ṭu‘ma Farmān“. *Middle Eastern Literatures* 13(3): 231–259. DOI: 10.1080/1475262X.2010.523203.
+- Peled-Shapira, Hilla. 2018. *The Prose Works of Gha'ib Tu'ma Farman: The City and the Beast*. Lexington Books.
+- Ismail, Najat Idris. 2022. „Looking for a Foothold: The Sudanese Short Story Since the 1940s“. *Sudan Studies* 65.
+- Shammat, Lemya. 2019. „On Gender Stereotypes in Sudanese Fiction“. *ArabLit*, 12. Oktober 2019: https://arablit.org/2019/10/12/on-gender-stereotypes-in-sudanese-fiction/.
 - Kerras, Nassima und Moulay Lahssan Baya. 2022. „Analysis of the Algerian Novel Fahla (Rabah Sbaa) from a Sociolinguistic Approach“. *AWEJ for Translation & Literary Studies* 6(4): 15–31. DOI: 10.24093/awejtls/vol6no4.2.
 - Déjeux, Jean. 1973. „Les structures de l'imaginaire dans l'œuvre de Kateb Yacine“. *Revue de l'Occident musulman et de la Méditerranée* 13–14: 267–292. DOI: 10.3406/remmm.1973.1209.
 - Combe, Dominique. 2022. „Nedjma ou l’origine poétique du roman national algérien“. *Littérature* 205(1): 100–111.
