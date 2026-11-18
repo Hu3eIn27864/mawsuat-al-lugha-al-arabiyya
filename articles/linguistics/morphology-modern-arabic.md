@@ -99,7 +99,7 @@ Bei Korpusdaten sollten Annotationen Lemma, Wortart, morphologische Merkmale und
 ## 10. Weiterführende Literatur
 
 - Ryding, Karin C. 2005. *A Reference Grammar of Modern Standard Arabic*. Cambridge University Press. Besonders die Kapitel zu Wortstruktur, Nominal- und Verbmorphologie.
-- Watson, Janet C. E. 2002. *The Phonology and Morphology of Arabic*. Oxford University Press.
+- Watson, Janet C. E. 2002. *The Phonology and Morphology of Arabic*. Oxford University Press. DOI: 10.1093/oso/9780199257591.001.0001. Die empirische Schwerpunktsetzung liegt auf Kairener und Ṣanʿānī-Arabisch; das Werk ist daher nicht als reine MSA-Grammatik zu zitieren.
 - McCarthy, John J. 1981. “A Prosodic Theory of Nonconcatenative Morphology.” *Linguistic Inquiry* 12(3): 373–418.
 - Tucker, Matthew A. *The Morphosyntax of the Arabic Verb*. Dissertation, University of California, Santa Cruz.
 
