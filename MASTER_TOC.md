@@ -234,6 +234,8 @@ Diese Gliederung definiert den fachlichen Rahmen der Enzyklopädie. Sie ist ein 
 - [Sulṭān al-ʿAmīmī – سلطان العميمي](articles/literature/authors/sultan-al-ameemi.md)
 - [Muḥammad Barrāda – محمد برادة](articles/literature/authors/mohammed-berrada.md)
 - [Kāteb Yāsīn – كاتب ياسين](articles/literature/authors/kateb-yacine.md)
+- [Ġāʾib Ṭuʿma Farmān – غائب طعمة فرمان](articles/literature/authors/ghaib-tuma-farman.md)
+- [Malikat al-Dār Muḥammad – ملكة الدار محمد](articles/literature/authors/malikat-al-dar-muhammad.md)
 - [Āmil Muḫtār – آمال مختار](articles/literature/authors/amel-mokhtar.md)
 
 ## Teil XV – Historischer Kontext und sprachliche Überlieferung | السياق التاريخي والتراث اللغوي
