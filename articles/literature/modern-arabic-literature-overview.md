@@ -127,6 +127,9 @@ Bei der Auswahl von Autor:innen und Texten ist darauf zu achten, dass internatio
 - [Muḥammad Barrāda](authors/mohammed-berrada.md)
 - [Ġāʾib Ṭuʿma Farmān](authors/ghaib-tuma-farman.md)
 - [Malikat al-Dār Muḥammad](authors/malikat-al-dar-muhammad.md)
+- [Aḥmad Saʿdāwī](authors/ahmed-saadawi.md)
+- [Sinān Anṭūn](authors/sinan-antoon.md)
+- [Ḥasan Blāsim](authors/hassan-blasim.md)
 
 ## 11. Weiterführende Literatur
 
