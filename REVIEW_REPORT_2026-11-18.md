@@ -114,3 +114,19 @@ Die dritte redaktionelle Runde hat zwei Fachartikel, die Varietäten-Referenztab
 **Quellenprüfung:** Bassiouneys Kapitel „Diglossia and dialect groups in the Arab world“ (2009, S. 9–27) behandelt ausdrücklich die Unterscheidung von MSA und klassischem Arabisch sowie die Möglichkeit, dass die Standardvarietät nicht zugleich die Prestigevarietät einer Sprachgemeinschaft ist. Al-Wers Überblick (2013, S. 241–263) kritisiert das Diglossiemodell als alleinige Analyse von Variation und stellt variationistische Alternativen vor. Hellmuth (2022) untersucht Registerprosodie anhand von über 400 Gesprächsbeiträgen einer einzelnen Ṣanʿānī-Sprecherperson; die Reichweite dieses Studiendesigns wird im Artikel entsprechend begrenzt.
 
 **Prüfgrenze:** Diese Runde ist eine quellenbasierte fachredaktionelle Präzisierung, keine vollständige regionale Feldforschung und kein externes Peer Review. Die geografischen Großgruppen bleiben einführende Orientierung und bedürfen für Einzelartikel jeweils lokaler Primärstudien.
+
+
+## Vierte Prüfrunde: moderne und zeitgenössische arabische Literatur (18.11.2026)
+
+Die vierte Runde hat die vier Literaturartikel, die Literaturchronologie, das Literaturglossar und die Projektbibliographie geprüft und ergänzt.
+
+- **Literaturüberblick:** Die Perspektive wurde um eine medien-, sprach- und translationsgeschichtliche Betrachtung ergänzt. Der *Cambridge Companion to Modern Arabic Literature* (2026) dient als aktueller Bezugspunkt für Zeit, Sprache, Geographie und Medien, ohne regionale Einzelstudien zu ersetzen.
+- **Roman:** *Zaynab* (1913) wird als wichtiger kanonischer Bezugspunkt benannt, aber nicht unkritisch als „erster arabischer Roman“ ausgegeben. Collas Studie dokumentiert, dass diese Prioritätsbehauptung und die spätere Kanonisierung historisch zu untersuchen sind.
+- **Lyrik:** Die qaṣīdat al-tafʿīla und das Prosagedicht werden anhand wichtiger Dichter:innen und aktueller Forschung voneinander unterschieden. Prioritäts- und Datierungsfragen zur frühen freien Verspraxis werden ausdrücklich als umstritten markiert.
+- **Kurzgeschichte und Theater:** Ergänzt wurden ausgewählte Autor:innen aus mehreren Regionen sowie die Einordnung früher Theatertraditionen. Tawfīq al-Ḥakīm wird als zentrale, aber nicht alleinige Figur beschrieben; Saʿdallāh Wannūs ergänzt den Blick auf politisches Theater.
+- **Chronologie und Glossar:** Die Chronologie warnt vor einer linearen Traditions-/Moderne-Erzählung. Das Glossar ergänzt „Erstausgabe“, „Kanonisierung“ und „Aufführungsgeschichte“.
+- **Bibliographie:** Neu aufgenommen wurden nachgewiesene Titel zu arabischer Lyrik, Prosagedicht, Theater, Kurzgeschichte und zur Kanonisierung von *Zaynab*.
+
+**Ausgewählte Quellenprüfung:** Cambridge University Press weist die moderne arabische Kurzgeschichte als seit den letzten Jahrzehnten des 19. Jahrhunderts entstehende Gattung aus (*Modern Arabic Literature*, Kapitel „The modern Arabic short story“, S. 270–328; DOI 10.1017/CHOL9780521331975.009). Colla (2008) problematisiert die nachträgliche Kanonisierung von Haykals *Zaynab*. Fakhreddine (2021) behandelt die poetologische Eigenständigkeit des Prosagedichts; die Verlagsmetadaten bestätigen Titel und Erscheinungsjahr. Cambridge dokumentiert außerdem die Entwicklung des modernen arabischen Theaters mit früheren Bezügen zu Beirut und Kairo sowie die Bedeutung von Wannūs für syrisches und arabisches Theater (2021). Der 2026 erschienene *Cambridge Companion* stellt Zeit, Register, transnationale Geographie und Medien in den Mittelpunkt.
+
+**Prüfgrenze:** Die ergänzten Autor:innenlisten sind exemplarisch, nicht repräsentativ oder abschließend. Die Primärwerke wurden nicht in allen Fällen anhand ihrer Erstausgaben kollationiert; entsprechende bibliographische Detailarbeit bleibt Aufgabe der nächsten Ausbaustufe. Auch diese Runde ist kein externes Peer Review.
