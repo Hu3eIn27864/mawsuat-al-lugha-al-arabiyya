@@ -49,3 +49,8 @@ Für die Forschung ist wichtig, Text und Aufführung auseinanderzuhalten: Ein ge
 
 - [Kurzgeschichte und modernes Theater](../modern-arabic-short-story-and-theatre.md)
 - [Überblick: Moderne und zeitgenössische arabische Literatur](../modern-arabic-literature-overview.md)
+
+
+## ملخص بالعربية
+
+سعد الله ونوس (1941–1997) كاتب مسرحي ومثقف سوري من أبرز أعلام المسرح العربي في النصف الثاني من القرن العشرين. تناولت أعماله علاقة المسرح بالسلطة والمجتمع والجمهور، وسعى إلى جعل الخشبة فضاءً للتفكير النقدي والمشاركة العامة. كما أسهم في تطوير المؤسسات المسرحية والنقد والتكوين الأكاديمي في سوريا.
