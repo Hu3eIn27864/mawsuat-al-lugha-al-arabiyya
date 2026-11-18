@@ -40,14 +40,16 @@ Die folgende Liste gibt eine verbreitete IPA-basierte Übersicht wieder. Je nach
 
 ## Vokale
 
-| IPA | Länge | Arabische Vokalzeichen (typisch) |
+| IPA | Länge | Häufige orthographische Entsprechung in vokalisierten Texten |
 |---|---|---|
-| /i/ | kurz | ِ |
-| /iː/ | lang | ي |
-| /a/ | kurz | َ |
-| /aː/ | lang | ا |
-| /u/ | kurz | ُ |
-| /uː/ | lang | و |
+| /i/ | kurz | Kasra (ِ) |
+| /iː/ | lang | Kasra + ي (ـِي) |
+| /a/ | kurz | Fatḥa (َ) |
+| /aː/ | lang | Fatḥa + ا (ـَا) |
+| /u/ | kurz | Ḍamma (ُ) |
+| /uː/ | lang | Ḍamma + و (ـُو) |
+
+Die Langvokalbuchstaben ا، و، ي sind nicht selbst mit den IPA-Lautwerten gleichzusetzen; die Tabelle gibt typische Schreibungen in vokalisierten Formen wieder.
 
 ## Diphthonge
 
@@ -56,10 +58,12 @@ Häufig angesetzte Diphthonge sind /aj/ und /aw/. Ihre phonetische Realisierung 
 ## Hinweise zur Benutzung
 
 1. Die Tabelle ist ein Referenzmodell, kein Aussprachewörterbuch und keine vollständige phonetische Beschreibung.
-2. Die Buchstaben-Zuordnung ist eine orthographische Orientierung. Orthographie und Lautsystem sind nicht deckungsgleich.
-3. Die emphatischen Konsonanten werden mit dem IPA-Diakritikum /ˤ/ notiert. In älterer Literatur finden sich abweichende Konventionen.
-4. Die Beschreibung von /ʕ/ und einzelnen Artikulationsorten ist in der Fachliteratur nicht vollständig einheitlich.
-5. Regionale Varietäten können andere Inventare und andere Realisierungen aufweisen.
+2. Emphase ist eine sekundäre Artikulation und kein eigener Artikulationsort; die emphatischen Segmente werden deshalb getrennt von der primären Artikulationsorttabelle erläutert.
+3. Die Buchstaben-Zuordnung ist eine orthographische Orientierung. Orthographie und Lautsystem sind nicht deckungsgleich.
+4. Langvokale werden orthographisch typischerweise durch Vokalzeichen plus mater lectionis dargestellt; die Buchstaben ا، و، ي sind nicht mit den IPA-Phonemen gleichzusetzen.
+5. Die emphatischen Konsonanten werden mit dem IPA-Diakritikum /ˤ/ notiert. In älterer Literatur finden sich abweichende Konventionen.
+6. Die Beschreibung von /ʕ/ und einzelner Artikulationsorte ist in der Fachliteratur nicht vollständig einheitlich.
+7. Regionale Varietäten können andere Inventare und andere Realisierungen aufweisen.
 
 ## Literatur
 
