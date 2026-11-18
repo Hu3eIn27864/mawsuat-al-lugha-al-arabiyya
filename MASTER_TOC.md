@@ -194,6 +194,7 @@ Diese Gliederung definiert den fachlichen Rahmen der Enzyklopädie. Sie ist ein 
 - [Irakische Literatur](articles/literature/regions/iraqi-literature.md)
 - [Literatur der Levante](articles/literature/regions/levantine-literature.md)
 - [Jemenitische Literatur](articles/literature/regions/yemeni-literature.md)
+- [Tunesische Literatur](articles/literature/regions/tunisian-literature.md)
 
 ## Teil XIV – Autorinnen, Autoren, Werke und Bewegungen | الكتّاب والأعمال والحركات الأدبية
 
@@ -230,6 +231,7 @@ Diese Gliederung definiert den fachlichen Rahmen der Enzyklopädie. Sie ist ein 
 - [Laylā Abū Zayd – ليلى أبو زيد](articles/literature/authors/leila-abouzeid.md)
 - [Qāsim Ḥaddād – قاسم حداد](articles/literature/authors/qassim-haddad.md)
 - [Sulṭān al-ʿAmīmī – سلطان العميمي](articles/literature/authors/sultan-al-ameemi.md)
+- [Āmil Muḫtār – آمال مختار](articles/literature/authors/amel-mokhtar.md)
 
 ## Teil XV – Historischer Kontext und sprachliche Überlieferung | السياق التاريخي والتراث اللغوي
 
