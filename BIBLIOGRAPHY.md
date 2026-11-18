@@ -86,6 +86,15 @@ Diese Datei sammelt verifizierte Literatur und Ressourcen. Einträge werden erst
 - Yousif, Salaam. 2023. “Perspectives on Modern Iraqi Literature and Literary Figures.” *Journal of Contemporary Iraq & the Arab World* 17(1–2): 3–7. DOI: 10.1386/jciaw_00080_2.
 - Khayyat, Yasmine. 2026. “Mashriq.” In Michael Allan und Zeina G. Halabi (Hg.), *The Cambridge Companion to Modern Arabic Literature*, S. 131–140.
 
+- Malti-Douglas, Fedwa. 1995. *Men, Women, and God(s): Nawal El Saadawi and Arab Feminist Poetics*. University of California Press.
+- Ashour, Radwa, Ferial J. Ghazoul und Hasna Reda-Mekdashi (Hg.). 2008. *Arab Women Writers: A Critical Reference Guide, 1873–1999*. Cairo: American University in Cairo Press.
+- Elsadda, Hoda. 2012. *Gender, Nation, and the Arabic Novel: Egypt, 1892–2008*. Edinburgh University Press.
+- El-Zayyat, Latifa. 1960. *al-Bāb al-maftūḥ* (الباب المفتوح; *The Open Door*). Cairo.
+- El Saadawi, Nawal. 1973. *Imraʾa ʿinda nuqṭat al-ṣifr* (امرأة عند نقطة الصفر; *Woman at Point Zero*). Beirut.
+- al-Shaykh, Hanan. 1980. *Ḥikāyat Zahra* (حكاية زهرة; *The Story of Zahra*). Beirut.
+- Ashour, Radwa. 1994–1995. *al-Ṯulāṯiyya al-Ġarnāṭiyya* (ثلاثية غرناطة; Granada Trilogy). Cairo.
+- American University in Cairo Press. Autorinnenprofile und Verlagsbibliographien zu Latifa al-Zayyat und Radwa Ashour: https://aucpress.com/.
+
 ## Eintragsvorlage
 
 ```text
