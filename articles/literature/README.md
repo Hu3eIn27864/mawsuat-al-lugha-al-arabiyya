@@ -19,6 +19,9 @@ Hier entstehen Artikel zu Theorien, Methoden, Gattungen, Epochen, literarischen 
 - [Maghrebinische Literaturen](regions/maghrebi-literature.md)
 - [Literatur der Arabischen Halbinsel und des Golfs](regions/gulf-literature.md)
 - [Sudanesische Literatur](regions/sudanese-literature.md)
+- [Palästinensische Literatur](regions/palestinian-literature.md)
+- [Irakische Literatur](regions/iraqi-literature.md)
+- [Literatur der Levante](regions/levantine-literature.md)
 
 ## Autor:innenprofile
 
