@@ -13,6 +13,12 @@
 | 1990er bis frühes 21. Jahrhundert | Globalisierte Verlags- und Übersetzungsräume; stärkere Sichtbarkeit von Frauenliteratur, Diaspora- und Genre-Literaturen; neue Debatten über Kanon und Weltliteratur. | Internationale Sichtbarkeit bleibt selektiv und sprachpolitisch geprägt. |
 | 2010er Jahre bis Gegenwart | Digitale Publikation, soziale Medien, Revolutionen und Gegenrevolutionen, Krieg, Migration, Klima und urbane Transformationen als Themen und Produktionsbedingungen. | Digitale und gedruckte Öffentlichkeiten bestehen nebeneinander; regionale Zugänge und Zensurbedingungen unterscheiden sich. |
 
+## Hinweise zu Beispielen und Periodisierung
+
+Die Chronologie sollte nicht als lineare Ablösung von „Tradition“ durch „Moderne“ gelesen werden. Poetische, narrative und dramatische Innovationen verlaufen regional unterschiedlich und stehen in Austausch mit älteren Formen. Auch die häufig genannten Eckdaten einzelner Bewegungen sind mitunter umstritten: Die frühe qaṣīdat al-tafʿīla wird mit Nāzik al-Malāʾika und Badr Šākir al-Sayyāb verbunden, doch Prioritäts- und Datierungsfragen sollten nicht in eine unstrittige Einzeldatierung verkürzt werden.
+
+Neuere Forschung regt zudem an, literarische Periodisierung nicht nur über politische Epochen, sondern auch über Sprachregister, Übersetzung, Medien, Migration und transnationale Publikationsräume zu untersuchen.
+
 ## Verwendung der Chronologie
 
 - Die Tabelle dient als Einstieg, nicht als Ersatz regionaler Literaturgeschichten.
