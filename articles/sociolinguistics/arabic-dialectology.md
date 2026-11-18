@@ -35,13 +35,15 @@ In der Forschung werden häufig folgende geografische Bezeichnungen verwendet:
 | Mesopotamien | Irakische / mesopotamische Varietäten | Unterschiedliche städtische, ländliche und weitere historisch geprägte Varietäten. |
 | Arabische Halbinsel | Golf-, Najdi-, Hijazi-, Jemenitische und Omanische Varietäten | Sehr große interne Vielfalt; Sammelbegriffe verdecken oft lokale Unterschiede. |
 
-Diese Einteilung ist eine praktische erste Orientierung. Sie bildet weder eindeutige Sprachgrenzen noch eine abschließende genealogische Klassifikation ab. Je nach Fragestellung können Merkmalsbündel, Isoglossen, historische Beziehungen oder soziale Netzwerke zu anderen Gruppierungen führen.
+Diese Einteilung ist eine praktische erste Orientierung. Sie bildet weder eindeutige Sprachgrenzen noch eine abschließende genealogische Klassifikation ab. Die Großräume sind zunächst geografisch-deskriptive Sammelbezeichnungen; sie dürfen nicht ohne zusätzliche historische und vergleichende Evidenz als genealogisch einheitliche Dialektgruppen verstanden werden. Je nach Fragestellung können Merkmalsbündel, Isoglossen, historische Beziehungen oder soziale Netzwerke zu anderen Gruppierungen führen.
 
 ## 4. Klassifikationsdimensionen
 
 Dialekte werden häufig anhand geografischer, struktureller, sozialer und historischer Merkmale gruppiert. In älterer und gegenwärtiger Literatur begegnen etwa die Bezeichnungen „städtisch“, „ländlich“ und „beduinisch“ sowie „sesshaft“ und „Beduinen-“. Solche Kategorien können für bestimmte historische und regionale Muster relevant sein, dürfen aber nicht als unveränderliche soziale Typen verstanden werden.
 
 Eine belastbare Klassifikation muss offenlegen:
+
+Die Forschung sollte möglichst **bottom-up** vorgehen: Zunächst werden konkrete lokale Gemeinschaften und klar definierte sprachliche Variablen untersucht; überregionale Verallgemeinerungen sind erst dann gerechtfertigt, wenn mehrere lokal fundierte Studien vergleichbare Muster zeigen. Nationale Etiketten wie „ägyptisch“ oder „irakisch“ dürfen die interne Variation nicht vorwegnehmen (Al-Wer 2013, S. 241–263).
 
 - welche sprachlichen Variablen untersucht werden;
 - welche Regionen und Sprechergruppen die Daten repräsentieren;
@@ -108,6 +110,7 @@ Arabische Dialektologie beschreibt ein vielfältiges und dynamisches Feld region
 - Procházka, Stephan. 2013. “Arabic Dialectology.” In: Jonathan Owens (Hg.), *The Oxford Handbook of Arabic Linguistics*. Oxford: Oxford University Press. [Oxford Academic](https://academic.oup.com/edited-volume/44744/chapter/380150094).
 - Procházka, Stephan. 2021. “Arabic Dialectology.” In: *The Cambridge Handbook of Arabic Linguistics*. Cambridge: Cambridge University Press. [Cambridge Core](https://www.cambridge.org/core/books/abs/cambridge-handbook-of-arabic-linguistics/arabic-dialectology/43BF06C28A28AC640F027F5D83D09A9B).
 - Al-Wer, Enam. 2017. “Dialects of Arabic.” In: *The Handbook of Dialectology*, Kap. 32. [https://doi.org/10.1002/9781118827628.ch32](https://doi.org/10.1002/9781118827628.ch32).
+- Al-Wer, Enam. 2013. “Sociolinguistics.” In: Jonathan Owens (Hg.), *The Oxford Handbook of Arabic Linguistics*, S. 241–263. [https://doi.org/10.1093/oxfordhb/9780199764136.013.0010](https://doi.org/10.1093/oxfordhb/9780199764136.013.0010).
 - Bassiouney, Reem. 2009. *Arabic Sociolinguistics*. Edinburgh: Edinburgh University Press. [https://doi.org/10.3366/edinburgh/9780748623730.001.0001](https://doi.org/10.3366/edinburgh/9780748623730.001.0001).
 - Owens, Jonathan (Hg.). 2013. *The Oxford Handbook of Arabic Linguistics*. Oxford: Oxford University Press.
 
