@@ -174,3 +174,22 @@ Die Profile folgen einem gemeinsamen Schema aus Einordnung, Biografie, Werkentwi
 **Quellenbasis:** Poetry Foundation und Academy of American Poets für biographische und werkbibliographische Eckdaten; Routledge Encyclopedia of Modernism und Cambridge University Press für al-Sayyāb; Cambridge University Press für Wannūs; Royal Society of Literature und Penguin Random House für Ṣāliḥ. Für al-Malāʾika wurden zusätzlich wissenschaftliche Beiträge zur Poetik und Geschichte des freien Verses aufgenommen.
 
 **Prüfgrenze:** Die Profile sind einführende wissenschaftliche Arbeitsartikel, keine vollständigen Werkbibliographien. Insbesondere arabische Erstausgaben, Varianten der Transliteration und einzelne Gedichtdatierungen bedürfen weiterer Prüfung an Primär- und Katalogquellen. Die Artikel wurden nicht extern peer-reviewt.
+
+
+## Siebte Prüfrunde: Palästinensische, irakische und levantinische Literatur (18.11.2026)
+
+Drei neue regionale Einführungsartikel wurden erstellt und in Literatur-README, Literaturüberblick und Mastergliederung integriert:
+
+- `articles/literature/regions/palestinian-literature.md`
+- `articles/literature/regions/iraqi-literature.md`
+- `articles/literature/regions/levantine-literature.md`
+
+**Inhaltliche Schwerpunkte und Quellenbasis:**
+
+- **Palästina:** Literatur als räumlich verteiltes, mehrsprachiges und diasporisches Feld; Nakba, Vertreibung und Exil als wichtige historische Bedingungen, nicht als erschöpfende ästhetische Erklärung. Berücksichtigt werden Refqa Abu-Remailehs Arbeiten zur digitalen und fragmentierten Literaturgeschichte sowie Bashir Abu-Mannehs Studie zum palästinensischen Roman.
+- **Irak:** Entwicklung von Roman, Kurzgeschichte und Lyrik; literarische Institutionen und Formen unter Bedingungen von Zensur, Diktatur, Krieg und Exil. Bahoora (2017) bietet einen Überblick zur Romantradition; Mustafas Anthologie (2018) erschließt eine Vielfalt von 34 Erzählungen aus 16 Autor:innenpositionen.
+- **Levante:** Die Region wird als analytische Sammelkategorie mit variablen Grenzen behandelt, nicht als homogene Nationalliteratur. Der Artikel differenziert Libanon, Syrien, Jordanien und Palästina und bezieht Yasmine Khayyats Kapitel zum Mashriq (2026) sowie Forschung zu Exil und Theater ein.
+
+Die Bibliographie wurde um die genannten Studien ergänzt. Alle drei Artikel enthalten arabische Zusammenfassungen, Forschungsfragen und Hinweise auf begriffliche bzw. methodische Grenzen.
+
+**Prüfgrenze:** Die Beiträge sind Einführungen und keine vollständigen nationalen oder regionalen Literaturgeschichten. Insbesondere jordanische und libanesische Primärbibliographien, kurdische und syrische/aramäische Literaturtraditionen im Irak sowie mehrsprachige palästinensische Korpora benötigen vertiefte Einzelrecherchen. Die Beiträge wurden nicht extern peer-reviewt.
