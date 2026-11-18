@@ -71,6 +71,7 @@ Dialoge können regionale Umgangsvarietäten, Hocharabisch oder Registerwechsel 
 - Badawi, M. M. (Hg.). 1992. *Modern Arabic Literature*. Cambridge: Cambridge University Press.
 - Starkey, Paul. 2006. *Modern Arabic Literature*. Edinburgh: Edinburgh University Press.
 - al-Rāʿī, ʿAlī. 1993. “Arabic Drama since the Thirties.” In M. M. Badawi (Hg.), *Modern Arabic Literature*, S. 358–403. Cambridge: Cambridge University Press. DOI: 10.1017/CHOL9780521331975.011.
+- Hafez, Sabry. 1993. “The Modern Arabic Short Story.” In M. M. Badawi (Hg.), *Modern Arabic Literature*, S. 270–328. Cambridge: Cambridge University Press. DOI: 10.1017/CHOL9780521331975.009.
 - Badawi, M. M. 1988. *Modern Arabic Drama in Egypt*. Cambridge: Cambridge University Press. DOI: 10.1017/CBO9780511470417.
 - *The Theatre of Sa'dallah Wannous: A Critical Study of the Syrian Playwright and Public Intellectual*. 2021. Cambridge: Cambridge University Press. DOI: 10.1017/9781108973182.
 - Allen, Roger. 2000. *An Introduction to Arabic Literature*. Cambridge: Cambridge University Press.
