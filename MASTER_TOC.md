@@ -190,6 +190,9 @@ Diese Gliederung definiert den fachlichen Rahmen der Enzyklopädie. Sie ist ein 
 - [Maghrebinische Literaturen](articles/literature/regions/maghrebi-literature.md)
 - [Literatur der Arabischen Halbinsel und des Golfs](articles/literature/regions/gulf-literature.md)
 - [Sudanesische Literatur](articles/literature/regions/sudanese-literature.md)
+- [Palästinensische Literatur](articles/literature/regions/palestinian-literature.md)
+- [Irakische Literatur](articles/literature/regions/iraqi-literature.md)
+- [Literatur der Levante](articles/literature/regions/levantine-literature.md)
 
 ## Teil XIV – Autorinnen, Autoren, Werke und Bewegungen | الكتّاب والأعمال والحركات الأدبية
 
