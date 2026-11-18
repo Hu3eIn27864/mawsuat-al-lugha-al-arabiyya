@@ -193,3 +193,26 @@ Drei neue regionale Einführungsartikel wurden erstellt und in Literatur-README,
 Die Bibliographie wurde um die genannten Studien ergänzt. Alle drei Artikel enthalten arabische Zusammenfassungen, Forschungsfragen und Hinweise auf begriffliche bzw. methodische Grenzen.
 
 **Prüfgrenze:** Die Beiträge sind Einführungen und keine vollständigen nationalen oder regionalen Literaturgeschichten. Insbesondere jordanische und libanesische Primärbibliographien, kurdische und syrische/aramäische Literaturtraditionen im Irak sowie mehrsprachige palästinensische Korpora benötigen vertiefte Einzelrecherchen. Die Beiträge wurden nicht extern peer-reviewt.
+
+
+## Achte Prüfrunde: Autorinnenprofile und Gender/Kanon (18.11.2026)
+
+Vier Autorinnenprofile und ein vergleichender Grundlagenartikel wurden erstellt und in Literatur-README, Überblick und Mastergliederung integriert:
+
+- `articles/literature/authors/nawal-el-saadawi.md`
+- `articles/literature/authors/latifa-al-zayyat.md`
+- `articles/literature/authors/hanan-al-shaykh.md`
+- `articles/literature/authors/radwa-ashour.md`
+- `articles/literature/gender-canon-and-literary-publics.md`
+
+**Inhaltliche Schwerpunkte:**
+
+- **Nawāl al-Saʿdāwī:** Verbindung von Medizin, Fiktion, Essay und feministischer Gesellschaftskritik; Differenzierung zwischen literarischem Werk und politischer Biografie.
+- **Laṭīfa al-Zayyāt:** *al-Bāb al-maftūḥ* (1960), nationale Unabhängigkeit und weibliche Selbstbestimmung; Berücksichtigung ihrer akademischen und publizistischen Arbeit.
+- **Ḥanān al-Šayḫ:** Roman, Kurzgeschichte, Theater und Memoir; Intimität, Krieg, Migration und nicht-lineare Erzählverfahren.
+- **Raḍwā ʿĀšūr:** Granada-Trilogie und *al-Ṭanṭūriyya*; generationenübergreifende Erinnerung und historische Erzählperspektiven.
+- **Gender und Kanon:** Gender als relationale Analysekategorie, Ein- und Ausschlussprozesse in Literaturgeschichten, Männlichkeiten, Institutionen, Übersetzung und internationale Sichtbarkeit.
+
+**Quellenbasis:** Elsadda, *Gender, Nation, and the Arabic Novel* (2012; 2026 neu aufgelegte Online-Kapitel); Ashour, Ghazoul und Reda-Mekdashi (Hg.), *Arab Women Writers: A Critical Reference Guide, 1873–1999* (2008); Malti-Douglas (1995); Verlags- und Institutionsprofile von AUC Press, University of Chicago Press, Bloomsbury, Royal Society of Literature und American University of Beirut.
+
+**Prüfgrenze:** Die vier Profile sind repräsentative Einstiege, keine ausgewogene Übersicht aller arabischen Literaturen oder aller Autorinnen. Die bibliographische Erfassung muss insbesondere Autorinnen aus Maghreb, Irak, Sudan, Golfregion, Jemen sowie arabischsprachige und mehrsprachige Diaspora weiter ausbauen. Primärtextausgaben und arabischsprachige Rezeptionsquellen bedürfen weiterer Prüfung; die Beiträge sind nicht extern peer-reviewt.
