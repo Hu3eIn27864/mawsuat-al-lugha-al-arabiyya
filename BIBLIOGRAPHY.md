@@ -73,6 +73,9 @@ Diese Datei sammelt verifizierte Literatur und Ressourcen. Einträge werden erst
 - Aït Dahmane, Karima. 2023. „De l’imaginaire linguistique à la création littéraire en Algérie : altérité, discours et mémoire“. *Revue RIDILCA* 2(1): 11–19.
 - Centre de Recherche en Anthropologie Sociale et Culturelle (CRASC). 2002. *The Algerian Arabic-Language Novel: Critical Readings*. Oran: CRASC.
 
+- Hitchins, Keith. „Gorān, ʿAbd-Allāh Solaymān“. *Encyclopaedia Iranica*, Bd. XI, Fasc. 2, S. 136–137. https://www.iranicaonline.org/articles/goran-2/.
+- Ghaderi, Farangis. „Reassessing Abdulla Goran’s Contribution to Kurdish Poetic Modernity“. In *A History of Middle Eastern Modernism*. Cambridge University Press.
+- Institut für Kurdische Studien. „Bleeding Rose (English) – Modern Kurdish Poetry“. https://ifkurds.de/en/publications/item/130-eng-bleeding-rose-goran.html.
 - Kreyenbroek, Philip G. „Kurdish Written Literature“. *Encyclopaedia Iranica*. https://www.iranicaonline.org/articles/kurdish-written-literature/. (Überblick zur kurdischen Schriftliteratur, einschließlich Presse, soranischer Prosa und literarischer Entwicklung im Irak.)
 - Ghaderi, Farangis. 2022. „Poetics of Modernity and Nationalism: Revisiting the Emergence of Modern Kurdish Poetry“. *Literature Compass* 19(7). DOI: 10.1111/lic3.12675.
 - Ghaderi, Farangis und Clémence Scalbert Yücel. 2021. „An Etat Présent of the Kurdish Literature in English Translation“. *The Translator* 27(2): 150–166. DOI: 10.1080/13556509.2021.1872196.
