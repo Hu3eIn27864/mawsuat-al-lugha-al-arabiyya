@@ -102,3 +102,14 @@ Die folgenden Einträge sind als fachliche Arbeitsdefinitionen für diese Enzykl
 - Bassiouney, Reem. 2009. *Arabic Sociolinguistics*. Edinburgh University Press.
 - Al-Wer, Enam. 2013. “Sociolinguistics.” In: *The Oxford Handbook of Arabic Linguistics*, S. 241–263.
 - Hellmuth, Sam. 2022. “Sentence Prosody and Register Variation in Arabic.” *Languages* 7(2): 129.
+
+
+## 11. Prestigevarietät
+
+- **Deutsch:** Prestigevarietät
+- **العربية:** تنويع لغوي ذو مكانة اجتماعية؛ تنويع مرموق
+- **Englisch:** Prestige variety
+- **Fachgebiet:** Soziolinguistik
+- **Definition (DE):** Varietät, der eine bestimmte Gemeinschaft oder soziale Gruppe besonderen sozialen Wert, Status oder symbolisches Ansehen zuschreibt.
+- **التعريف (AR):** تنويع لغوي تمنحه جماعة اجتماعية أو مجتمع محلي مكانة أو قيمة رمزية خاصة.
+- **Anmerkung:** Prestige ist empirisch und lokal zu bestimmen. Es ist nicht automatisch mit dem offiziellen Standardstatus, institutioneller Kodifizierung oder überregionaler Verbreitung gleichzusetzen.
