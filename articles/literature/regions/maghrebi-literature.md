@@ -37,7 +37,7 @@ Der 2026 erschienene *Cambridge Companion to Modern Arabic Literature* widmet Da
 
 ## 6. Auswahl weiterführender Literatur
 
-- Allan, Michael und Zeina G. Halabi (Hg.). 2026. *The Cambridge Companion to Modern Arabic Literature*. Kapitel „Darija and Tamazight“, Brahim El Guabli, S. 99–115; Kapitel „Maghrib“, Samia Kassab-Charfi, S. 141–156. Cambridge University Press. DOI: 10.1017/9781009748810.
+- Allan, Michael und Zeina G. Halabi (Hg.). 2026. *The Cambridge Companion to Modern Arabic Literature*. Kapitel „Darija and Tamazight“, Brahim El Guabli, S. 99–115, DOI: 10.1017/9781009748810.008; Kapitel „Maghrib“, Samia Kassab-Charfi, S. 141–156, DOI: 10.1017/9781009748810.011. Cambridge University Press.
 - Jack, Belinda. 1996. „The Maghreb“. In *Francophone Literatures: An Introductory Survey*, S. 163–164. Oxford University Press. DOI: 10.1093/oso/9780198715078.003.0009.
 - Corcoran, Patrick. 2012. „The Maghreb“. In *The Cambridge Introduction to Francophone Literature*. Cambridge University Press.
 - Salameh, Franck. 2018. *The Other Middle East: An Anthology of Modern Levantine Literature*. Yale University Press. (Vergleichender Hinweis zur Mehrsprachigkeit regionaler Anthologien, nicht als Maghreb-Überblick.)
