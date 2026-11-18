@@ -193,6 +193,14 @@ Diese Gliederung definiert den fachlichen Rahmen der Enzyklopädie. Sie ist ein 
 135. Preise, Institutionen und Literaturbetrieb – الجوائز والمؤسسات والحقل الأدبي
 136. Rezeption, Kanonbildung und Gegenkanon – التلقي وتشكيل المتن الأدبي ومراجعته
 
+### Autor:innenprofile – نماذج من تراجم الأدباء
+
+- [Nāzik al-Malāʾika – نازك الملائكة](articles/literature/authors/nazik-al-malaika.md)
+- [Badr Šākir al-Sayyāb – بدر شاكر السياب](articles/literature/authors/badr-shakir-al-sayyab.md)
+- [Maḥmūd Darwīš – محمود درويش](articles/literature/authors/mahmoud-darwish.md)
+- [Saʿdallāh Wannūs – سعد الله ونوس](articles/literature/authors/saadallah-wannous.md)
+- [al-Ṭayyib Ṣāliḥ – الطيب صالح](articles/literature/authors/tayeb-salih.md)
+
 ## Teil XV – Historischer Kontext und sprachliche Überlieferung | السياق التاريخي والتراث اللغوي
 
 137. Klassisches Arabisch und vormoderne Sprachstufen: Überblick – العربية التراثية ومراحلها السابقة
