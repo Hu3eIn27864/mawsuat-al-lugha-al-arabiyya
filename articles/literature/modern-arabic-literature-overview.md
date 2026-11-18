@@ -90,6 +90,8 @@ Bei der Auswahl von Autor:innen und Texten ist darauf zu achten, dass internatio
 - [Palästinensische Literatur](regions/palestinian-literature.md)
 - [Irakische Literatur](regions/iraqi-literature.md)
 - [Kurdischsprachige Literatur im Irak](regions/iraqi-kurdish-literature.md) (ergänzender mehrsprachiger Kontext; nicht Teil einer engeren Definition arabischsprachiger Literatur)
+- [Syrische und neuaramäische Literaturen im Irak](regions/syriac-literature-iraq.md) (eigenständige Sprach- und Literaturtraditionen; nicht arabischsprachig)
+- [Kurdische Autorinnen und literarische Diaspora](kurdish-women-and-diaspora.md) (transnationaler Vergleichskontext)
 - [Literatur der Levante](regions/levantine-literature.md)
 - [Jemenitische Literatur](regions/yemeni-literature.md)
 - [Tunesische Literatur](regions/tunisian-literature.md)
