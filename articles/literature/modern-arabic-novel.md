@@ -86,6 +86,10 @@ Bei Einzeltexten sind mindestens drei Ebenen zu dokumentieren: (1) arabischer Or
 - Colla, Elliott. 2008. “How Zaynab Became the First Arabic Novel.” *History Compass* 6. DOI: 10.1111/j.1478-0542.2008.00573.x. (Kritische Analyse der späteren Kanonisierung von *Zaynab*.)
 - Johnson, Rebecca C. 2026. “The Novel.” In Michael Allan und Zeina G. Halabi (Hg.), *The Cambridge Companion to Modern Arabic Literature*. Cambridge: Cambridge University Press. Online veröffentlicht am 18. Juli 2026. DOI des Sammelbands: 10.1017/9781009748810.
 
+## Autor:innenprofil
+
+- [al-Ṭayyib Ṣāliḥ](authors/tayeb-salih.md)
+
 ## Verwandte Artikel
 
 - [Überblick: Moderne und zeitgenössische arabische Literatur](modern-arabic-literature-overview.md)
