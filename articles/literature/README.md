@@ -22,6 +22,7 @@ Hier entstehen Artikel zu Theorien, Methoden, Gattungen, Epochen, literarischen 
 - [Palästinensische Literatur](regions/palestinian-literature.md)
 - [Irakische Literatur](regions/iraqi-literature.md)
 - [Literatur der Levante](regions/levantine-literature.md)
+- [Jemenitische Literatur](regions/yemeni-literature.md)
 
 ## Gender, Kanon und Öffentlichkeit
 
@@ -47,6 +48,11 @@ Hier entstehen Artikel zu Theorien, Methoden, Gattungen, Epochen, literarischen 
 - [Inʿām Kaǧaǧī – إنعام كجه جي](authors/inaam-kachachi.md)
 - [Laylā Abū al-ʿAlā – ليلى أبو العلا](authors/leila-aboulela.md)
 - [Buṯayna al-ʿĪsā – بثينة العيسى](authors/bothayna-al-essa.md)
+- [Waǧdī al-Ahdal – وجدي الأهدل](authors/wajdi-al-ahdal.md)
+- [ʿAlī al-Muqri – علي المقري](authors/ali-al-muqri.md)
+- [Laylā Abū Zayd – ليلى أبو زيد](authors/leila-abouzeid.md)
+- [Qāsim Ḥaddād – قاسم حداد](authors/qassim-haddad.md)
+- [Sulṭān al-ʿAmīmī – سلطان العميمي](authors/sultan-al-ameemi.md)
 
 ## Terminologie
 
