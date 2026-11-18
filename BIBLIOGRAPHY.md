@@ -72,6 +72,15 @@ Diese Datei sammelt verifizierte Literatur und Ressourcen. Einträge werden erst
 - Ayad, Salim. 2021. „Recherche en littérature écrite d’expression amazighe : état des lieux et typologie“. *Multilinguales* 15.
 - Aït Dahmane, Karima. 2023. „De l’imaginaire linguistique à la création littéraire en Algérie : altérité, discours et mémoire“. *Revue RIDILCA* 2(1): 11–19.
 - Centre de Recherche en Anthropologie Sociale et Culturelle (CRASC). 2002. *The Algerian Arabic-Language Novel: Critical Readings*. Oran: CRASC.
+
+- Kreyenbroek, Philip G. „Kurdish Written Literature“. *Encyclopaedia Iranica*. https://www.iranicaonline.org/articles/kurdish-written-literature/. (Überblick zur kurdischen Schriftliteratur, einschließlich Presse, soranischer Prosa und literarischer Entwicklung im Irak.)
+- Ghaderi, Farangis. 2022. „Poetics of Modernity and Nationalism: Revisiting the Emergence of Modern Kurdish Poetry“. *Literature Compass* 19(7). DOI: 10.1111/lic3.12675.
+- Ghaderi, Farangis und Clémence Scalbert Yücel. 2021. „An Etat Présent of the Kurdish Literature in English Translation“. *The Translator* 27(2): 150–166. DOI: 10.1080/13556509.2021.1872196.
+- Omar, Ameen Abdulqader. 2016. *The Iraqi Kurdish Novel, 1970–2011: A Genetic-Structuralist Approach*. Dissertation, University of Exeter.
+- Tabbert, Ulrike und Mahmood K. Ibrahim. 2023. *Sherko Bekas: A Kurdish Voice under the Lens of Critical Stylistics*. Cham: Palgrave Macmillan. DOI: 10.1007/978-3-031-30602-0.
+- „Kurdish Women’s Experience in Iraq: History, Politics and Literature“. 2024. *Studies in Ethnicity and Nationalism* 25(1): 2–16. DOI: 10.1111/sena.12437.
+- Galip, Özlem Belçim. 2016. „Writing across Kurdistan“. *Journal of Kurdish Studies* 9(3). DOI: 10.1163/18739865-00903003.
+
 - Roy, Modhumita. 2024. „Peripheral Realisms, War, and Catastrophe in Contemporary Iraqi Fiction“. In *The Oxford Handbook of Global Realisms*, S. 707–726. DOI: 10.1093/oxfordhb/9780197610640.013.20.
 - Hammood, Zainab Abd Ali. 2024. „Narratives of a Nation: Iraqi Literature in the Post-2003 Era“. *Manar Elsharq Journal for Literature and Language Studies* 2(2): 14–18. DOI: 10.56961/mejlls.v2i2.649.
 - Hanoosh, Yasmeen. 2019. „In Search of the Iraqi Other: Iraqi Fiction in Diaspora and the Discursive Reenactment of Ethno-Religious Identities“. *Humanities* 8(4): 157. DOI: 10.3390/h8040157.
