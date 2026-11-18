@@ -132,6 +132,27 @@ Die vierte Runde hat die vier Literaturartikel, die Literaturchronologie, das Li
 **Prüfgrenze:** Die ergänzten Autor:innenlisten sind exemplarisch, nicht repräsentativ oder abschließend. Die Primärwerke wurden nicht in allen Fällen anhand ihrer Erstausgaben kollationiert; entsprechende bibliographische Detailarbeit bleibt Aufgabe der nächsten Ausbaustufe. Auch diese Runde ist kein externes Peer Review.
 
 
+## Sechste Prüfrunde: Regionale Literaturgeschichten (18.11.2026)
+
+Vier regionale Arbeitsartikel wurden neu erstellt und in Literatur-README, Überblick und Mastergliederung verlinkt:
+
+- `articles/literature/regions/egyptian-literature.md`
+- `articles/literature/regions/maghrebi-literature.md`
+- `articles/literature/regions/gulf-literature.md`
+- `articles/literature/regions/sudanese-literature.md`
+
+**Inhaltliche Schwerpunkte und Quellenbasis:**
+
+- **Ägypten:** Druck- und Pressegeschichte, Nahḍa, Roman, Kurzgeschichte und Theater; geschlechterkritische Kanonforschung anhand Hoda Elsaddas *Gender, Nation, and the Arabic Novel* (2012) sowie *Arab Women Writers: A Critical Reference Guide* (2008).
+- **Maghreb:** Mehrsprachigkeit von Arabisch, Darija, Amazigh und Französisch; Kolonialismus, Dekolonisierung, Übersetzung und transnationale Publikationsräume. Berücksichtigt werden die einschlägigen Kapitel von Brahim El Guabli und Samia Kassab-Charfi im *Cambridge Companion to Modern Arabic Literature* (2026).
+- **Golf und Arabische Halbinsel:** Differenzierung zwischen Golfstaaten und gesamter Halbinsel, inklusive des eigenständigen jemenitischen Kontexts; Kritik an einer essentialisierenden Kategorie „Golf-Literatur“ anhand Moneera al-Ghadeers Kapitel „Khalij“ (2026) und des Oxford-Handbook-Kapitels zu Kuwait.
+- **Sudan:** Unterscheidung zwischen „sudanesischer arabischer Literatur“ und „arabischer Literatur im Sudan“; mehrsprachige Perspektiven und Einbezug von Autorinnen und Autoren über al-Ṭayyib Ṣāliḥ hinaus. Grundlage ist Afis Ayinde Oladosus Überblick „Modern Sudanese Literature“ (Oxford Research Encyclopedia, 2024).
+
+Die Bibliographie wurde um diese Forschungstitel ergänzt. Alle vier Artikel enthalten arabischsprachige Zusammenfassungen sowie Forschungsfragen und Hinweise auf die Grenzen regionaler Sammelkategorien.
+
+**Prüfgrenze:** Die Beiträge sind strukturierte Einführungen und keine vollständigen Literaturgeschichten. Nationale und regionale Primärbibliographien, lokale Verlagsarchive, Originalausgaben und weitere Sprachräume müssen künftig ergänzt werden. Die Artikel sind nicht extern peer-reviewt.
+
+
 ## Fünfte Prüfrunde: Autor:innenprofile (18.11.2026)
 
 Fünf eigenständige Profile wurden neu angelegt und in der Literaturgliederung verlinkt:
