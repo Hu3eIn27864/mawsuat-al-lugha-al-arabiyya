@@ -56,7 +56,6 @@ Die Quellenlage ist asymmetrisch. Handschriften und gedruckte religiöse Texte s
 - Mengozzi, Alessandro. “Religious Poetry from Alqosh and Telkepe (North Iraq): Contacts between Sureth-Speaking Communities and Europe in the 19th Century.” *ARAM* 21 (2009): 49–59. DOI: 10.2143/ARAM.21.0.2047085.
 - Mengozzi, Alessandro. “‘That I Might Speak and the Ear Listen to Me!’: On Genres in Traditional Modern Aramaic Literature.” Preprint, University of Turin, 2016. Handle: http://hdl.handle.net/2318/114497.
 - Macuch, Maria. “Assyrians in Iran ii. Literature of the Assyrians in Iran.” *Encyclopaedia Iranica*, vol. II, fasc. 8 (1987), pp. 822–824; updated 2016. https://www.iranicaonline.org/articles/assyrians-in-iran-ii-literature/.
-- Brock, Sebastian P. “An Introduction to Syriac Studies.” (Zur historischen Einordnung klassischer und moderner syrischer Literatur; bibliographische Ausgabe im Literaturverzeichnis des Projekts weiter zu präzisieren.)
 
 ## Redaktioneller Hinweis
 
