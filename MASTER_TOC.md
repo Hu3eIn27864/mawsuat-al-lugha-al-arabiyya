@@ -245,6 +245,7 @@ Diese Gliederung definiert den fachlichen Rahmen der Enzyklopädie. Sie ist ein 
 - [Şêrko Bêkes – شێرکۆ بێکەس](articles/literature/authors/sherko-bekas.md)
 - [ʿAbdullāh Gōrān – عەبدوڵڵا گۆران](articles/literature/authors/abdullah-goran.md)
 - [Kajal Ahmad – کەژاڵ ئەحمەد](articles/literature/authors/kajal-ahmad.md)
+- [Najiba Ahmad – نه‌جیبە ئەحمەد](articles/literature/authors/najiba-ahmad.md)
 - [Jîla Huseynî – ژیلا حوسێنی](articles/literature/authors/jila-huseyni.md)
 - [Sindis Niheli – سندیس نیهیلی](articles/literature/authors/sindis-niheli.md)
 - [Anne von Telkepe – آنّي من تلكيف](articles/literature/authors/anne-of-telkepe.md)
