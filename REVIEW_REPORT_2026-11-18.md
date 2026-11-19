@@ -454,3 +454,21 @@ Neu erstellt und in die Literaturgliederung integriert wurden:
 **Quellenbasis:** Alessandro Mengozzi (2009; 2016); Maria Macuch, *Encyclopaedia Iranica* (1987/2016); Hashem Ahmadzadeh (2008); Lolav M. Hassan Alhamid (2017, 2024, 2025); Farangis Ghaderi und Clémence Scalbert Yücel (2021).
 
 **Prüfgrenzen:** Die neuaramäische Übersicht bildet nicht alle Sprachgemeinschaften, Varietäten und gegenwärtigen Autor:innen ab; mündliche Bestände und lokale Periodika sind ungleich dokumentiert. Der Beitrag zu kurdischen Autorinnen ist eine thematische Einführung, kein vollständiges Autorinnenlexikon. Bibliographische Primärdaten und regionale Schreibvarianten müssen weiter geprüft werden. Beide Beiträge sind nicht extern peer-reviewt.
+
+
+## Einundzwanzigste Prüfrunde: Autor:innenprofile zu Sureth und kurdischer Gegenwartslyrik/-prosa (19.11.2026)
+
+Neu angelegt und auf `main` integriert wurden vier Einzelprofile:
+
+- `articles/literature/authors/anne-of-telkepe.md`
+- `articles/literature/authors/yohannan-cholagh.md`
+- `articles/literature/authors/kajal-ahmad.md`
+- `articles/literature/authors/sindis-niheli.md`
+
+**Sureth / neuaramäische Literatur:** Anne von Telkepe wird anhand des von Alessandro Mengozzi edierten Gedichts über die Hungersnot von 1898 vorgestellt. Die vorsichtige Aussage der Quelle – wahrscheinlich erstes Frauenwerk in der CSCO-Reihe – wird ausdrücklich nicht zur Behauptung „erste aramäische Dichterin“ verallgemeinert. Yohannan Cholagh wird mit der 1980 in *Qala Suryaya* veröffentlichten Elegie *On Exile* erschlossen; die knappe Quellenlage wird offengelegt.
+
+**Kurdische Literatur:** Kajal Ahmad wird als soranische Dichterin und Journalistin aufgenommen. Die Profilbibliographie markiert abweichende lateinische Umschriften ihrer Buchtitel und den Bedarf, diese an den Originalausgaben zu prüfen. Sindis Niheli wird als bahdinanische Autorin aufgenommen; die beiden Teile von *Hizar Di Werçerxana Da* (2013/2014) werden nach Lolav M. Hassan Alhamids Dissertation eingeordnet.
+
+**Integration:** Alle vier Profile wurden in Literatur-README und Mastergliederung verlinkt. Bibliographie und Regionalartikel wurden um die einschlägigen Editions- und Forschungsnachweise ergänzt.
+
+**Prüfgrenzen:** Für Anne von Telkepe und Yohannan Cholagh fehlen bislang belastbare biographische Daten und vollständige Werkverzeichnisse. Bei Kajal Ahmad sind Transliteration und bibliographische Angaben an soranischen Erstausgaben zu verifizieren. Bei Sindis Niheli fehlen über die untersuchten Romane hinaus vollständige Katalogdaten. Die Profile sind wissenschaftliche Arbeitsentwürfe, nicht extern peer-reviewt.
