@@ -21,6 +21,8 @@ Die Forschung zur Literatur aus Bahdinan macht deutlich, dass eine ausschließli
 
 Für Sorani sind Autorinnen, Dichterinnen und Übersetzerinnen in der literarischen Öffentlichkeit seit dem späten 20. Jahrhundert zunehmend sichtbar. Die Entwicklung ist jedoch nicht linear: Publikationszahlen, Verlagszugang, Zensur, politische Umbrüche, ökonomische Ressourcen und die Verfügbarkeit von Archiven beeinflussen, welche Autorinnen in Anthologien und Literaturgeschichten aufgenommen werden.
 
+Ein regional anders gelagerter, aber für die moderne kurdische Frauenlyrik wichtiger Fall ist **[Jîla Huseynî](authors/jila-huseyni.md)** (1964–1996) aus Saqqez in Ostkurdistan (Iran). Sie schrieb auf Sorani und Persisch, arbeitete in den 1980er Jahren für das kurdischsprachige Radio in Saqqez und war Mitglied der literarischen Gesellschaft Melewî Kurdî in Sanandaj. Ihre Gedichtbände *Geşey Evîn* (1995), *Qelay Raz* (1998, postum) und *Mirina Rojê* (2006; Sorani-Gedichte in kurmanjischer Übertragung) dokumentieren zugleich unterschiedliche Publikations- und Übersetzungswege. Der Fall erweitert die Perspektive über Irakisch-Kurdistan hinaus; er darf nicht als irakischer Autorinnenbeleg vereinnahmt werden. Die zugänglichen Gedichtproben liegen teilweise in Übersetzung vor, weshalb Aussagen zur Poetik am soranischen Original weiter zu prüfen sind.
+
 ## 4. Gender, Nationalbewegung und literarische Repräsentation
 
 Lolav M. Hassan Alhamid zeigt, dass kurdische Frauen in Irak sowohl durch staatliche Machtverhältnisse als auch innerhalb kurdischer politischer und kultureller Bewegungen marginalisiert werden konnten. Literarische Texte können diese Spannungen sichtbar machen, aber sie sind nicht automatisch unmittelbare Dokumente gesellschaftlicher Wirklichkeit.
