@@ -165,6 +165,15 @@ Diese Datei sammelt verifizierte Literatur und Ressourcen. Einträge werden erst
 
 ### Kurdische und neuaramäische Literaturen
 
+- Ahmad, Najiba. 1994. *Spring Weeping*. Tabriz. Englische Titelübertragung; soranischer Originaltitel anhand der Ausgabe zu prüfen.
+- Ahmad, Najiba. 1994. *Rasan*. Kurzgeschichten. Tabriz.
+- Ahmad, Najiba. 1998. *History of the Apple-tree*. Hawler/Erbil. Englische Titelübertragung; Gattung und Originaltitel zu prüfen.
+- Ahmad, Najiba. 1998. *The Butterflies of Death*. Kurzgeschichten. Hawler/Erbil.
+- Ahmad, Najiba. 2005. *A Deer Created of Water*. Hawler/Erbil. Englische Titelübertragung; Originaltitel und Gattung zu prüfen.
+- Ahmad, Najiba. 2005. *Resurrection of Pear Buds*. Hawler/Erbil. Englische Titelübertragung; Originaltitel und Gattung zu prüfen.
+- „Ahmad, Najiba“. 2004. *The International Journal of Kurdish Studies* 18(1/2): 167. Vollständige Metadaten anhand des Hefts zu verifizieren.
+- Naderi, L. 2011. *An Anthology of Modern Kurdish Literature*. Erbil: University of Kurdistan.
+
 - Huseynî, Jîla. 1995. *Geşey Evîn*. Gedichtband.
 - Huseynî, Jîla. 1998. *Qelay Raz*. Gedichte und Kurzprosa, postum veröffentlicht.
 - Huseynî, Jîla. 2006. *Mirina Rojê*. Ausgewählte Gedichte, aus dem Sorani ins Kurmanji übertragen. Avesta Yayınları.
