@@ -472,3 +472,22 @@ Neu angelegt und auf `main` integriert wurden vier Einzelprofile:
 **Integration:** Alle vier Profile wurden in Literatur-README und Mastergliederung verlinkt. Bibliographie und Regionalartikel wurden um die einschlägigen Editions- und Forschungsnachweise ergänzt.
 
 **Prüfgrenzen:** Für Anne von Telkepe und Yohannan Cholagh fehlen bislang belastbare biographische Daten und vollständige Werkverzeichnisse. Bei Kajal Ahmad sind Transliteration und bibliographische Angaben an soranischen Erstausgaben zu verifizieren. Bei Sindis Niheli fehlen über die untersuchten Romane hinaus vollständige Katalogdaten. Die Profile sind wissenschaftliche Arbeitsentwürfe, nicht extern peer-reviewt.
+
+
+## Zweiundzwanzigste Prüfrunde: Jîla Huseynî und die regionale Erweiterung der kurdischen Frauenlyrik (19.11.2026)
+
+Neu erstellt und integriert wurde:
+
+- `articles/literature/authors/jila-huseyni.md`
+
+**Inhaltliche Schwerpunkte:**
+
+- **Regionale Zuordnung:** Huseynî (1964–1996) wird als Dichterin aus Saqqez in Ostkurdistan (heute Iran) eingeordnet, nicht als Autorin aus Irakisch-Kurdistan.
+- **Mehrsprachigkeit:** Das Profil berücksichtigt ihre frühen persischen Texte und ihre spätere stärkere Hinwendung zum Sorani sowie ihre Tätigkeit im kurdischsprachigen Rundfunk und in der literarischen Gesellschaft Melewî Kurdî in Sanandaj.
+- **Werküberlieferung:** Dokumentiert werden *Geşey Evîn* (1995), *Qelay Raz* (1998, postum) und *Mirina Rojê* (2006), einschließlich der Übertragung soranischer Gedichte ins Kurmanji.
+- **Übersetzung und Rezeption:** Eine türkische Übersetzung des Gedichts „Öğüt“ ist in *Ç.N. Çeviri Edebiyatı* Nr. 10 (2010) nachweisbar. Das Profil unterscheidet Übersetzung und soranischen Originaltext.
+- **Integration:** Profil in Literatur-README und Mastergliederung verlinkt; Literaturverzeichnis und Überblick zu kurdischen Autorinnen um biographische und bibliographische Angaben ergänzt.
+
+**Quellenbasis:** *Ç.N. Çeviri Edebiyatı* Nr. 10 (2010); Kurdipedia, biographischer Beitrag „Jîla Huseynî“; *Yazınca* Nr. 9 (Arsiva Kurd).
+
+**Prüfgrenzen:** Tagesgenaue Lebensdaten sind in den zugänglichen Quellen nicht konsistent; das Profil nennt deshalb nur die gesicherten Jahreszahlen. Eine kritische Ausgabe der soranischen Gedichte und ein vollständiges, anhand von Erstausgaben geprüftes Werkverzeichnis fehlen. Das Profil ist ein wissenschaftlicher Arbeitsstand, nicht extern peer-reviewt.
