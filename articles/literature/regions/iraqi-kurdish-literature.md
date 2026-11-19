@@ -55,6 +55,7 @@ Die literarische und intellektuelle Arbeit kurdischer Frauen muss als eigener Fo
 
 ## 9. Autorinnen und Einzelprofile
 
+- [Najiba Ahmad – نه‌جیبە ئەحمەد](../authors/najiba-ahmad.md): soranische Lyrik, Kurzprosa und Übersetzung aus dem Arabischen und Persischen.
 - [Kajal Ahmad – کەژاڵ ئەحمەد](../authors/kajal-ahmad.md): soranische Lyrik, Journalismus und literarische Öffentlichkeit.
 - [Sindis Niheli – سندیس نیهیلی](../authors/sindis-niheli.md): bahdinanischer Roman und weibliche Selbstrepräsentation.
 - [Kurdische Autorinnen und literarische Diaspora](../kurdish-women-and-diaspora.md): übergreifender Forschungsrahmen.
