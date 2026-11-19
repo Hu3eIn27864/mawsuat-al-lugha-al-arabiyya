@@ -68,6 +68,7 @@ Hier entstehen Artikel zu Theorien, Methoden, Gattungen, Epochen, literarischen 
 - [Şêrko Bêkes – شێرکۆ بێکەس](authors/sherko-bekas.md)
 - [ʿAbdullāh Gōrān – عەبدوڵڵا گۆران](authors/abdullah-goran.md)
 - [Kajal Ahmad – کەژاڵ ئەحمەد](authors/kajal-ahmad.md)
+- [Najiba Ahmad – نه‌جیبە ئەحمەد](authors/najiba-ahmad.md)
 - [Jîla Huseynî – ژیلا حوسێنی](authors/jila-huseyni.md)
 - [Sindis Niheli – سندیس نیهیلی](authors/sindis-niheli.md)
 - [Anne von Telkepe – آنّي من تلكيف](authors/anne-of-telkepe.md)
