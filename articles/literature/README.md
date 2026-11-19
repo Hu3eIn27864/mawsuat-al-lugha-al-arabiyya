@@ -67,6 +67,10 @@ Hier entstehen Artikel zu Theorien, Methoden, Gattungen, Epochen, literarischen 
 - [Ḥasan Blāsim – حسن بلاسم](authors/hassan-blasim.md)
 - [Şêrko Bêkes – شێرکۆ بێکەس](authors/sherko-bekas.md)
 - [ʿAbdullāh Gōrān – عەبدوڵڵا گۆران](authors/abdullah-goran.md)
+- [Kajal Ahmad – کەژاڵ ئەحمەد](authors/kajal-ahmad.md)
+- [Sindis Niheli – سندیس نیهیلی](authors/sindis-niheli.md)
+- [Anne von Telkepe – آنّي من تلكيف](authors/anne-of-telkepe.md)
+- [Yohannan Cholagh – يوحنّا چولاغ](authors/yohannan-cholagh.md)
 - [Malikat al-Dār Muḥammad – ملكة الدار محمد](authors/malikat-al-dar-muhammad.md)
 
 ## Terminologie
