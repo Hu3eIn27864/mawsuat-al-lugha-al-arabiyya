@@ -491,3 +491,22 @@ Neu erstellt und integriert wurde:
 **Quellenbasis:** *Ç.N. Çeviri Edebiyatı* Nr. 10 (2010); Kurdipedia, biographischer Beitrag „Jîla Huseynî“; *Yazınca* Nr. 9 (Arsiva Kurd).
 
 **Prüfgrenzen:** Tagesgenaue Lebensdaten sind in den zugänglichen Quellen nicht konsistent; das Profil nennt deshalb nur die gesicherten Jahreszahlen. Eine kritische Ausgabe der soranischen Gedichte und ein vollständiges, anhand von Erstausgaben geprüftes Werkverzeichnis fehlen. Das Profil ist ein wissenschaftlicher Arbeitsstand, nicht extern peer-reviewt.
+
+
+## Dreiundzwanzigste Prüfrunde: Najiba Ahmad und soranische Autorinnenschaft (19.11.2026)
+
+Neu erstellt und integriert wurde:
+
+- `articles/literature/authors/najiba-ahmad.md`
+
+**Inhaltliche Schwerpunkte:**
+
+- **Einordnung:** Najiba Ahmad (geb. 1954 in Kirkuk) wird als kurdische Dichterin, Erzählerin und Übersetzerin eingeordnet. Die Enzyklopädie *The Kurds* von Sebastian Maisel (2018, S. 171) nennt sie als Teil einer Generation kurdischer Autorinnen, deren Sichtbarkeit seit den 1990er Jahren zunahm.
+- **Werkdaten:** Aufgeführt werden sechs in biographischen Referenzlisten nachgewiesene Veröffentlichungen aus 1994, 1998 und 2005, darunter Gedichtbände und Kurzgeschichtensammlungen.
+- **Übersetzung:** Die Übertragung literarischer Texte aus dem Arabischen und Persischen ins Kurdische wird als Teil ihres Werkprofils aufgenommen.
+- **Quellenkritik:** Englische Titelübertragungen werden nicht rückübersetzt und als gesicherte soranische Originaltitel ausgegeben. Gattungsangaben und Druckdaten bleiben dort ausdrücklich vorläufig, wo Originalexemplare fehlen. Die Behauptung, sie sei bei ihrem Debüt die „einzige kurdische Dichterin“ gewesen, wird als unbelegte absolute Formulierung zurückgewiesen.
+- **Integration:** Profil in Mastergliederung, Literatur-README und irakisch-kurdischem Regionalartikel verlinkt; Bibliographie ergänzt.
+
+**Quellenbasis:** Sebastian Maisel (Hg.), *The Kurds: An Encyclopedia of Life, Culture, and Society* (2018), S. 171; der dort bzw. in biographischen Referenzen zitierte Eintrag „Ahmad, Najiba“, *The International Journal of Kurdish Studies* 18(1/2) (2004), S. 167; L. Naderi, *An Anthology of Modern Kurdish Literature* (2011); Philip G. Kreyenbroek, „Kurdish Written Literature“, *Encyclopaedia Iranica*.
+
+**Prüfgrenzen:** Die vollständigen bibliographischen Metadaten des Zeitschrifteneintrags von 2004 sind noch am Originalheft zu verifizieren. Soranische Originaltitel, Titelblätter, Gattungszuordnungen und Verlagsdaten der sechs genannten Bücher müssen anhand der Originalausgaben geprüft werden. Das Profil ist ein wissenschaftlicher Arbeitsstand und nicht extern peer-reviewt.
