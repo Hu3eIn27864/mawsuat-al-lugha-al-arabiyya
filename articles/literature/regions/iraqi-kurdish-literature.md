@@ -53,7 +53,13 @@ Die literarische und intellektuelle Arbeit kurdischer Frauen muss als eigener Fo
 - Wie verändern Exil, Mehrsprachigkeit und Übersetzung die literarische Produktion und Kanonbildung?
 - Wie können Autorinnen, regionale Zentren und weniger übersetzte Gattungen systematischer erschlossen werden?
 
-## 9. Auswahl weiterführender Forschung und Ressourcen
+## 9. Autorinnen und Einzelprofile
+
+- [Kajal Ahmad – کەژاڵ ئەحمەد](../authors/kajal-ahmad.md): soranische Lyrik, Journalismus und literarische Öffentlichkeit.
+- [Sindis Niheli – سندیس نیهیلی](../authors/sindis-niheli.md): bahdinanischer Roman und weibliche Selbstrepräsentation.
+- [Kurdische Autorinnen und literarische Diaspora](../kurdish-women-and-diaspora.md): übergreifender Forschungsrahmen.
+
+## 10. Auswahl weiterführender Forschung und Ressourcen
 
 - Kreyenbroek, Philip G. „Kurdish Written Literature“. *Encyclopaedia Iranica*. https://www.iranicaonline.org/articles/kurdish-written-literature/.
 - Ghaderi, Farangis. 2022. „Poetics of Modernity and Nationalism: Revisiting the Emergence of Modern Kurdish Poetry“. *Literature Compass* 19(7). DOI: 10.1111/lic3.12675.
