@@ -173,6 +173,10 @@ Diese Datei sammelt verifizierte Literatur und Ressourcen. Einträge werden erst
 - Macuch, Maria. 1987. “Assyrians in Iran ii. Literature of the Assyrians in Iran.” *Encyclopaedia Iranica* II(8): 822–824; updated 2016. https://www.iranicaonline.org/articles/assyrians-in-iran-ii-literature/.
 - Mengozzi, Alessandro. 2009. “Religious Poetry from Alqosh and Telkepe (North Iraq): Contacts between Sureth-Speaking Communities and Europe in the 19th Century.” *ARAM* 21: 49–59. DOI: 10.2143/ARAM.21.0.2047085.
 - Mengozzi, Alessandro. 2016. “‘That I Might Speak and the Ear Listen to Me!’: On Genres in Traditional Modern Aramaic Literature.” Preprint, University of Turin. http://hdl.handle.net/2318/114497.
+- Mengozzi, Alessandro (Hg.). 2011. *Religious Poetry in Vernacular Syriac from Northern Iraq (17th–20th Centuries). An Anthology*. CSCO 628, Scriptores Syri 241. Leuven: Peeters. ISBN 978-90-429-2277-8. https://hdl.handle.net/2318/84736.
+- Mengozzi, Alessandro. 2020. “Yazdandukht and Mar Qardagh: From the Persian Martyr Acts in Syriac to Sureth Poetry on YouTube, via a Historical Novel in Arabic.” *Kervan* 24(2). DOI: 10.13135/1825-263X/4929.
+- Saeed, Hend, und M. Lynx Qualey. 2022. “30 Reads: A Month of Iraqi Women Writers.” *ArabLit*, 5. Januar 2022. https://arablit.org/2022/01/05/30-reads-a-month-of-iraqi-women-writers/.
+- Ghaderi, Farangis, Clémence Scalbert Yücel und Yaser Hassan Ali (Hg.). 2021. *Women's Voices from Kurdistan: A Selection of Kurdish Poetry*. London: Transnational Press London. ISBN 978-1-912997-81-7.
 
 ## Eintragsvorlage
 
