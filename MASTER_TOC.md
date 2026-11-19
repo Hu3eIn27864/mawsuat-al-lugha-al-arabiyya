@@ -244,6 +244,10 @@ Diese Gliederung definiert den fachlichen Rahmen der Enzyklopädie. Sie ist ein 
 - [Ḥasan Blāsim – حسن بلاسم](articles/literature/authors/hassan-blasim.md)
 - [Şêrko Bêkes – شێرکۆ بێکەس](articles/literature/authors/sherko-bekas.md)
 - [ʿAbdullāh Gōrān – عەبدوڵڵا گۆران](articles/literature/authors/abdullah-goran.md)
+- [Kajal Ahmad – کەژاڵ ئەحمەد](articles/literature/authors/kajal-ahmad.md)
+- [Sindis Niheli – سندیس نیهیلی](articles/literature/authors/sindis-niheli.md)
+- [Anne von Telkepe – آنّي من تلكيف](articles/literature/authors/anne-of-telkepe.md)
+- [Yohannan Cholagh – يوحنّا چولاغ](articles/literature/authors/yohannan-cholagh.md)
 - [Āmil Muḫtār – آمال مختار](articles/literature/authors/amel-mokhtar.md)
 
 ## Teil XV – Historischer Kontext und sprachliche Überlieferung | السياق التاريخي والتراث اللغوي
