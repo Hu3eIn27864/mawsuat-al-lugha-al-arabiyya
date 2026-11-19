@@ -165,6 +165,13 @@ Diese Datei sammelt verifizierte Literatur und Ressourcen. Einträge werden erst
 
 ### Kurdische und neuaramäische Literaturen
 
+- Huseynî, Jîla. 1995. *Geşey Evîn*. Gedichtband.
+- Huseynî, Jîla. 1998. *Qelay Raz*. Gedichte und Kurzprosa, postum veröffentlicht.
+- Huseynî, Jîla. 2006. *Mirina Rojê*. Ausgewählte Gedichte, aus dem Sorani ins Kurmanji übertragen. Avesta Yayınları.
+- *Ç.N. Çeviri Edebiyatı*. Nr. 10 (2010), S. 103–104. Jîla Huseynî, „Öğüt“ (Übersetzung aus dem Kurdischen von Osman Mehmed-Selim Temo). https://cevbir.org.tr/wp-content/uploads/2021/09/cn10.pdf.
+- Kurdipedia. „Jîla Huseynî“. Biographischer Beitrag auf Türkisch. https://www.kurdipedia.org/default.aspx?lng=13&q=20221107103825443892.
+- Arsiva Kurd. „Jîla Huseynî“. *Yazınca*, Nr. 9, S. 103. https://portal.arsivakurd.org/wp-content/uploads/2021/08/Yazinca_09.pdf.
+
 - Ahmadzadeh, Hashem. 2008. “The World of Kurdish Women’s Novels.” *Iranian Studies* 41(5): 719–738. DOI: 10.1080/00210860802518368.
 - Alhamid, Lolav M. Hassan. 2017. “You Can’t Bury Them All: The Representation of Women in the Contemporary Iraqi Kurdish Novel in Bahdinan.” PhD thesis, University of Kent. https://kar.kent.ac.uk/64380/.
 - Alhamid, Lolav M. Hassan. 2024. “Kurdish Women’s Experience in Iraq: History, Politics and Literature.” *Studies in Ethnicity and Nationalism* 25(1): 2–16. DOI: 10.1111/sena.12437.
