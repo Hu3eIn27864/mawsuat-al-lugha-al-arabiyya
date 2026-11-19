@@ -57,6 +57,12 @@ Die Quellenlage ist asymmetrisch. Handschriften und gedruckte religiöse Texte s
 - Mengozzi, Alessandro. “‘That I Might Speak and the Ear Listen to Me!’: On Genres in Traditional Modern Aramaic Literature.” Preprint, University of Turin, 2016. Handle: http://hdl.handle.net/2318/114497.
 - Macuch, Maria. “Assyrians in Iran ii. Literature of the Assyrians in Iran.” *Encyclopaedia Iranica*, vol. II, fasc. 8 (1987), pp. 822–824; updated 2016. https://www.iranicaonline.org/articles/assyrians-in-iran-ii-literature/.
 
+## Autor:innenprofile und Editionen
+
+- [Anne von Telkepe – آنّي من تلكيف](../authors/anne-of-telkepe.md): Gedicht über die Hungersnot von 1898.
+- [Yohannan Cholagh – يوحنّا چولاغ](../authors/yohannan-cholagh.md): Elegie *On Exile* (1980).
+- Mengozzis kritische Anthologie dokumentiert weitere Dichter:innen und Texte aus dem Zeitraum 1607/08–1980, darunter Hormizd von Alqosh, Damynanos von Alqosh, Joseph ʿAbbaya und Thomas Hanna von Karamlish.
+
 ## Redaktioneller Hinweis
 
 Dieser Überblick ist keine vollständige Geschichte aller aramäischen Sprachgemeinschaften im Irak. Insbesondere die neuaramäischen Varietäten, lokale Autor:innen, Frauenliteratur, zeitgenössische Prosa und Publikationen nach 2003 benötigen weitere quellenbasierte Einzelstudien.
